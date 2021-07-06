@@ -2,7 +2,11 @@
 
 ## Meeting 2 - Thursday, July 1st, 2021
 
-Meeting notes from today on Miro board.
+### Google Document
+
+{% embed url="https://docs.google.com/document/d/1DVGQCtxPCq86JXAX9v8m1YnSlKy6Qu5VEwrjw8WCXlI/edit" %}
+
+### Meeting notes from today on Miro board.
 
 {% embed url="https://miro.com/app/board/o9J\_l8GW3mI=/" %}
 
