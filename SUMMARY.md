@@ -34,5 +34,5 @@
 
 ## Media
 
-* [Media](media/media.md)
+* [Youtube channel](media/media.md)
 
