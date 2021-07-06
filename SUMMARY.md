@@ -20,3 +20,7 @@
 
 * [School Roles](school-roles/school-roles.md)
 
+## Catalyst School Architecture
+
+* [Untitled](catalyst-school-architecture/untitled.md)
+
