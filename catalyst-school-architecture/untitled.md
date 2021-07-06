@@ -10,5 +10,9 @@
 
 {% embed url="https://drive.google.com/file/d/1Shg3L2C3W74dVMfKF1kxh-mmuFt-i0OQ/view" %}
 
+### Miro Board
+
+{% embed url="https://miro.com/app/board/o9J\_l-LXYes=/" %}
+
 
 
