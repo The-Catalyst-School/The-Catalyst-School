@@ -6,11 +6,9 @@ description: Links to meeting content.
 
 ## Meeting 1 - Thursday, June 24th, 2021
 
-Meeting recording 
+### Meeting recording 
 
 {% embed url="https://drive.google.com/file/d/1JwMPWTkcFv9gRqlWpbTwJQcjV-4Cd\_g1/view" %}
-
-
 
 ## Meeting 2 - Thursday, July 1st, 2021
 
