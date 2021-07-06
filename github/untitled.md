@@ -1,2 +1,2 @@
-# Untitled
+# The Catalyst School GitHub Set-up
 

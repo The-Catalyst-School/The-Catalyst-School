@@ -4,5 +4,5 @@
 
 ## GitHub
 
-* [Untitled](github/untitled.md)
+* [The Catalyst School GitHub Set-up](github/untitled.md)
 
