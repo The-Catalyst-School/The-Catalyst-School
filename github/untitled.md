@@ -30,5 +30,9 @@ A good place to start as a contributer or maintainer is this GitHub Discussion p
 
 ### The-Catalyst-School
 
-This Repository is back-end of the The-Catalyst-School GitBook \(this site\). All content presented here is pushed to The-Catalyst-School repository. This provides an open-source back-up for this GitBook and allows for data migration to other platforms in the future.
+This repository is back-end of the The-Catalyst-School GitBook \(this site\). All content presented here is pushed to The-Catalyst-School repository. This provides an open-source back-up for this GitBook and allows for data migration to other platforms in the future.
+
+{% embed url="https://github.com/The-Catalyst-School/The-Catalyst-School" %}
+
+
 
