@@ -10,12 +10,6 @@
 
 * [Class Content](class-content/class-content.md)
 
-## GitHub
-
-* [GitHub Set-up](github/untitled.md)
-* [Open-Source Training](github/open-source-training.md)
-* [Google Analytics](github/google-analytics.md)
-
 ## School Roles
 
 * [School Roles](school-roles/school-roles.md)
@@ -36,3 +30,8 @@
 
 * [Youtube channel](media/media.md)
 
+## GitHub
+
+* [GitHub Set-up](github/untitled.md)
+* [Open-Source Training](github/open-source-training.md)
+* [Google Analytics](github/google-analytics.md)
