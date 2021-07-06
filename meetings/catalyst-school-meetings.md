@@ -1,3 +1,7 @@
+---
+description: Links to meeting content.
+---
+
 # Catalyst School meetings
 
 ## Meeting 2 - Thursday, July 1st, 2021
