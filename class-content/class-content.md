@@ -1,5 +1,11 @@
 # Class Content
 
+## Miro Board
+
+{% embed url="https://miro.com/app/board/o9J\_l-LXYw4=/" %}
+
+
+
 ## Class 1: What is Catalyst
 
 ### Google Document
