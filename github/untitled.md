@@ -22,5 +22,11 @@ This Repository is where The-Catalyst-School GitHub Maintainers discuss the main
 
 {% embed url="https://github.com/The-Catalyst-School/The-Catalyst-School-Co-Ordination" %}
 
+#### The-Catalyst-School GitHub Maintainer Discussions
+
+A good place to start as a contributer or maintainer is this GitHub Discussion post :
+
+{% embed url="https://github.com/The-Catalyst-School/The-Catalyst-School-Co-Ordination/discussions/1" %}
+
 
 
