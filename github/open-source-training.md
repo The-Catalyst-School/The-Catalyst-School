@@ -2,7 +2,7 @@
 description: Details of open-source training sessions
 ---
 
-# Open-source training
+# Open-Source Training
 
 Details of open-source training sessions \(Swarm\) will be documented here.
 
