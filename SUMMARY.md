@@ -5,4 +5,5 @@
 ## GitHub
 
 * [The Catalyst School GitHub Set-up](github/untitled.md)
+* [Google Analytics](github/google-analytics.md)
 
