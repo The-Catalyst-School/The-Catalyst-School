@@ -2,7 +2,7 @@
 description: A detailed guide
 ---
 
-# The Catalyst School GitHub Set-up
+# GitHub Set-up
 
 ## The Catalyst School GitHub Organisation
 
