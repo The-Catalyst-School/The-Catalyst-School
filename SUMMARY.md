@@ -22,5 +22,5 @@
 
 ## Catalyst School Architecture
 
-* [Untitled](catalyst-school-architecture/untitled.md)
+* [Catalyst School Architecture](catalyst-school-architecture/untitled.md)
 
