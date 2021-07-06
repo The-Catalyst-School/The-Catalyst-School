@@ -10,5 +10,13 @@ It is currently owned by \[Catalyst School Trustee to be arranged\] and maintain
 
 ## The Catalyst School GitHub Repositories
 
+There are currently two GitHub Repositories supporting the The Catalyst School. 
+
+### The-Catalyst-School-Co-Ordination
+
+This Repository is where The-Catalyst-School GitHub Maintainers discuss the maintenance and administration of our repositories.
+
+{% embed url="https://github.com/The-Catalyst-School/The-Catalyst-School-Co-Ordination" %}
+
 
 
