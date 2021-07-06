@@ -24,3 +24,7 @@
 
 * [Catalyst School Architecture](catalyst-school-architecture/untitled.md)
 
+## Methods
+
+* [Untitled](methods/untitled.md)
+
