@@ -26,5 +26,5 @@
 
 ## Methods
 
-* [Untitled](methods/untitled.md)
+* [Methods](methods/untitled.md)
 
