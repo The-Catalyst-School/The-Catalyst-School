@@ -18,6 +18,10 @@ Open-source training is planned to compement the GitBook and GitHub platforms.
 
 Details of the setup of this GitBook and The-Catalyst-School GitHub can be found here 
 
+{% embed url="https://catalyst-swarm.gitbook.io/the-catalyst-school/github/github-set-up" %}
+
+
+
 
 
 
