@@ -38,3 +38,7 @@
 * [Open-Source Training](github/open-source-training.md)
 * [Google Analytics](github/google-analytics.md)
 
+---
+
+* [Kerstin´s Chaos Club](kerstin-s-chaos-club.md)
+
