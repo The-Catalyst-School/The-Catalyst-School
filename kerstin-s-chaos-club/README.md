@@ -4,6 +4,10 @@ description: This is my test page
 
 # Kerstin´s Chaos Club
 
+{% page-ref page="./" %}
+
+
+
 * get cat food
 * don´t die
 * stop procrastinating
