@@ -4,6 +4,10 @@ description: This is my test page
 
 # Kerstin´s Chaos Club
 
+* get cat food
+* don´t die
+* stop procrastinating
+
 {% page-ref page="kerstin-s-chaos-club.md" %}
 
 ![random pic](.gitbook/assets/foto.jpg)
