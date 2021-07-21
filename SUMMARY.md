@@ -43,3 +43,7 @@
 * [Kerstin´s Chaos Club](kerstin-s-chaos-club/README.md)
   * [How not to](kerstin-s-chaos-club/how-not-to.md)
 
+## Community Advisor School
+
+* [General Information](community-advisor-school/general-information.md)
+
