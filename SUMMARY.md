@@ -47,4 +47,5 @@
 ## Community Advisor School
 
 * [General Information](community-advisor-school/general-information.md)
+* [Class 1: What is Catalyst?](community-advisor-school/class-1-what-is-catalyst.md)
 
