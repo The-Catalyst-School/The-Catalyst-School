@@ -15,3 +15,5 @@ Source presentation :
 * We are not professors here, just more experienced community members
 * We might not be able to answer all your questions, but we can research and learn together
 
+![](../.gitbook/assets/2021-07-21-5-.png)
+
