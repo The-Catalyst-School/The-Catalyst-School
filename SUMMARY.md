@@ -2,6 +2,10 @@
 
 * [The-Catalyst-School](README.md)
 
+## MicroTask Development Challenge
+
+* [MicroTask/Development Challenge](microtask-development-challenge.md)
+
 ## Meetings
 
 * [Catalyst School meetings](meetings/catalyst-school-meetings.md)
@@ -37,5 +41,5 @@
 
 * [Kerstin´s Chaos Club](kerstin-s-chaos-club/README.md)
   * [How not to](kerstin-s-chaos-club/how-not-to.md)
-* [MicroTask/Development Challenge](microtask-development-challenge.md)
+
 
