@@ -18,7 +18,6 @@
 ## Catalyst School Architecture
 
 * [Catalyst School Architecture](catalyst-school-architecture/untitled.md)
-* [Untitled](catalyst-school-architecture/untitled-1.md)
 
 ## Methods
 
