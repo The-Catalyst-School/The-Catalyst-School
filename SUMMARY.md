@@ -7,9 +7,9 @@
 * [Catalyst School meetings](meetings/catalyst-school-meetings.md)
 * [Untitled](meetings/untitled.md)
 
-## Class Content
+## Archive
 
-* [Class Content](class-content/class-content.md)
+* [Class Content](archive/class-content.md)
 
 ## School Roles
 
