@@ -6,26 +6,21 @@
 
 * [Catalyst School meetings](meetings/catalyst-school-meetings.md)
 
-## MicroTask/Development Challenge
-
-
-
 ## Archive
 
 * [Class Content](archive/class-content.md)
-* [School Roles](school-roles/school-roles.md)
-* [Catalyst School Architecture](catalyst-school-architecture/untitled.md)
-* [Methods](methods/untitled.md)
+* [School Roles](archive/school-roles.md)
+* [Catalyst School Architecture](archive/untitled.md)
+* [Methods](archive/untitled-1.md)
 
 ## Website
 
 * [Website](website/untitled.md)
-* [Untitled](meetings/untitled.md)
+* [Untitled](website/untitled-1.md)
 
 ## Media
 
 * [Youtube channel](media/media.md)
-
 
 ## Community Advisor School
 
@@ -42,5 +37,5 @@
 
 * [Kerstin´s Chaos Club](kerstin-s-chaos-club/README.md)
   * [How not to](kerstin-s-chaos-club/how-not-to.md)
-
+* [MicroTask/Development Challenge](microtask-development-challenge.md)
 
