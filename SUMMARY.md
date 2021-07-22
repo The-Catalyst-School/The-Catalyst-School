@@ -6,7 +6,6 @@
 
 * [Catalyst School meetings](meetings/catalyst-school-meetings.md)
 * [Untitled](meetings/untitled.md)
-* [Untitled](meetings/untitled-1.md)
 
 ## Class Content
 
