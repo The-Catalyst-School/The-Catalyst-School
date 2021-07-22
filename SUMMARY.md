@@ -10,17 +10,8 @@
 ## Archive
 
 * [Class Content](archive/class-content.md)
-
-## School Roles
-
 * [School Roles](school-roles/school-roles.md)
-
-## Catalyst School Architecture
-
 * [Catalyst School Architecture](catalyst-school-architecture/untitled.md)
-
-## Methods
-
 * [Methods](methods/untitled.md)
 
 ## Website
@@ -30,6 +21,12 @@
 ## Media
 
 * [Youtube channel](media/media.md)
+
+
+## Community Advisor School
+
+* [General Information](community-advisor-school/general-information.md)
+* [Class 1: What is Catalyst?](community-advisor-school/class-1-what-is-catalyst.md)
 
 ## GitHub
 
@@ -42,8 +39,4 @@
 * [Kerstin´s Chaos Club](kerstin-s-chaos-club/README.md)
   * [How not to](kerstin-s-chaos-club/how-not-to.md)
 
-## Community Advisor School
-
-* [General Information](community-advisor-school/general-information.md)
-* [Class 1: What is Catalyst?](community-advisor-school/class-1-what-is-catalyst.md)
 
