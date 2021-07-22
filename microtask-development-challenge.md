@@ -6,5 +6,9 @@ description: >-
 
 # MicroTask/Development Challenge
 
-In order to develop training materials the Catalyst School is partnering with the Fund 5 - Developer ecosystem MicroTask/Development Challenge
+In order to develop training materials the Catalyst School is partnering with the Fund 5 - Developer ecosystem MicroTask/Development Challenge.
+
+
+
+
 
