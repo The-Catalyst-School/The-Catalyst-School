@@ -5,7 +5,6 @@
 ## Meetings
 
 * [Catalyst School meetings](meetings/catalyst-school-meetings.md)
-* [Untitled](meetings/untitled.md)
 
 ## Archive
 
@@ -17,6 +16,7 @@
 ## Website
 
 * [Website](website/untitled.md)
+* [Untitled](meetings/untitled.md)
 
 ## Media
 
