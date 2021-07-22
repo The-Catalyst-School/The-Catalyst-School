@@ -4,6 +4,16 @@ description: A detailed guide
 
 # GitHub Set-up
 
+Welcome to the prototype of The-Catalyst-School GitBook. This GitBook would collect and document all the content sources of The-Catalyst-School. 
+
+Videos, images, Google documents, presentations, spreadsheets, links back to Discord posts and weblinks can all be embedded. 
+
+The layout of this GitBook has been designed to match the layout of the The-Catalyst-School Discord server.
+
+Access to editing on the GitBook can be divided into writers \(who can change content\) and readers \(who can read and comment\).
+
+Open-source training is planned to complement the GitBook and GitHub platforms.
+
 ## The Catalyst School GitHub Organisation
 
 The Catalyst School GitHub Organisation is located at the following web link :
