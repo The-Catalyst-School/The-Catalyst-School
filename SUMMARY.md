@@ -1,9 +1,6 @@
 # Table of contents
 
 * [The-Catalyst-School](README.md)
-
-## MicroTask Development Challenge
-
 * [MicroTask/Development Challenge](microtask-development-challenge.md)
 
 ## Meetings
@@ -41,5 +38,4 @@
 
 * [Kerstin´s Chaos Club](kerstin-s-chaos-club/README.md)
   * [How not to](kerstin-s-chaos-club/how-not-to.md)
-
 

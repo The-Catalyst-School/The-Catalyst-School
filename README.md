@@ -14,7 +14,7 @@ The layout of this GitBook has been designed to match the layout of the The-Cata
 
 Access to editing on the GitBook can be divided into writers \(who can change content\) and readers \(who can read and comment\).
 
-Open-source training is planned to compement the GitBook and GitHub platforms.
+Open-source training is planned to complement the GitBook and GitHub platforms.
 
 Details of the setup of this GitBook and The-Catalyst-School GitHub can be found here 
 
