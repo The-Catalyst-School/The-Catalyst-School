@@ -56,6 +56,8 @@ There is disconnect between potential collaborators and opportunities between Pr
 
 ### 1.6 - There is disconnect between potential collaborators and opportunities between Project Catalyst.
 
+![](../.gitbook/assets/2021-07-25-8-.png)
+
 ## Chapter 2 - Describe your Solution to the Problem.
 
 ### 2.0 - What solution do we need?
