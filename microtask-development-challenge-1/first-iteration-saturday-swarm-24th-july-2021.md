@@ -102,3 +102,11 @@ Library of content - that multiple content creators can feed into.
 
 Podcast to be broken into 10 key points - which can be broken down
 
+### 2.1 - \(Simple\) Infographics about the Catalyst process on Twitter
+
+### 2.2 - Up to date information in what state you are in process on Twitter
+
+
+
+
+
