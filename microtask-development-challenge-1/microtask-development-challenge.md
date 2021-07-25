@@ -20,7 +20,7 @@ The workshop will invite submissions of mini-proposals from Proposers and partic
 
 ### 1.0 - What Problem do you see ?
 
-![1.0 - What Problem do you see ?](.gitbook/assets/2021-07-25-4-.png)
+![1.0 - What Problem do you see ?](../.gitbook/assets/2021-07-25-4-.png)
 
 Narrow bridge between Catalyst And Social media.
 
@@ -34,7 +34,7 @@ Gap between YouTube content and other platform.
 
 Bridging social media and Catalyst Discord content
 
-![1.1 - Bridging social media and Catalyst is too narrow](.gitbook/assets/2021-07-25-5-.png)
+![1.1 - Bridging social media and Catalyst is too narrow](../.gitbook/assets/2021-07-25-5-.png)
 
 ### 1.2 - Why ?
 
@@ -42,7 +42,7 @@ Bridging social media and Catalyst Discord content
 
 Its hard for people to get involved to Catalyst by Passive Cardano community.
 
-![1.3 - Its hard for people to get involved to Catalyst by Passive Cardano community](.gitbook/assets/2021-07-25-6-.png)
+![1.3 - Its hard for people to get involved to Catalyst by Passive Cardano community](../.gitbook/assets/2021-07-25-6-.png)
 
 ### 1.4 - Why ?
 
