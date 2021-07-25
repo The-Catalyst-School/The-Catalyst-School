@@ -62,6 +62,8 @@ There is disconnect between potential collaborators and opportunities between Pr
 
 ### 2.0 - What solution do we need?
 
+![2.0 - What solution do we need?](../.gitbook/assets/2021-07-25-9-.png)
+
 #### How to sign up, how to register, etc
 
 Answers to frequently answered questions - as frequent questions can cause roadblocks.
