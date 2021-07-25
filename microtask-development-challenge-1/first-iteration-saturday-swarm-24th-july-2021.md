@@ -106,6 +106,10 @@ Podcast to be broken into 10 key points - which can be broken down
 
 ### 2.2 - Up to date information in what state you are in process on Twitter
 
+### 2.3 - Does your solution answers the Selected Problem?
+
+### 2.4 - Why ?
+
 
 
 
