@@ -34,6 +34,8 @@ Its hard for people to get involved to Catalyst by Passive Cardano community.
 
 ### 1.4 - Why ?
 
+![1.4 - Why ?](../.gitbook/assets/2021-07-25-7-.png)
+
 First iteration was about usually from YouTube videos.
 
 We are not activating full potential of Cardano community.
