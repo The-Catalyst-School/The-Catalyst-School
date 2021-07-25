@@ -34,6 +34,8 @@ Gap between YouTube content and other platform.
 
 Bridging social media and Catalyst Discord content
 
+![1.1 - Bridging social media and Catalyst is too narrow](.gitbook/assets/2021-07-25-5-.png)
+
 ### 1.2 - Why ?
 
 ### 1.3 - Its hard for people to get involved to Catalyst by Passive Cardano community
