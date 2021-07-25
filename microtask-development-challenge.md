@@ -14,7 +14,7 @@ The workshop will invite submissions of mini-proposals from Proposers and partic
 
 ## Mini Proposal Design Process - Saturday Swarm 24th July 2021
 
-### A linear transcription \(text description\)
+### A linear transcription \(text description\). First Iteration of possible course materials.
 
 ## Chapter 1 - Problem Statement
 
