@@ -110,6 +110,8 @@ Podcast to be broken into 10 key points - which can be broken down
 
 ### 2.4 - Why ?
 
+![Simple Infographics](../.gitbook/assets/2021-07-25-14-.png)
+
 ![Categorized Library of Content](../.gitbook/assets/2021-07-25-12-.png)
 
 ![Where is the attention ?](../.gitbook/assets/2021-07-25-11-.png)
