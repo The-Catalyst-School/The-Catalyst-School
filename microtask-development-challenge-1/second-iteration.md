@@ -22,6 +22,10 @@ description: 'Second Iteration - Wednesday After Town Hall, 28th July 2021'
 
 ![Basic taxonomies for hashtags](../.gitbook/assets/2021-07-29-3-.png)
 
+### What taxonomies ?
+
+![What taxonomies ?](../.gitbook/assets/2021-07-29-4-.png)
+
 
 
 
