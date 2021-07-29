@@ -18,6 +18,10 @@ description: 'Second Iteration - Wednesday After Town Hall, 28th July 2021'
 
 ![Common Interfaces, Common Goals and Common Tech](../.gitbook/assets/2021-07-29-2-.png)
 
+### Basic taxonomies for hashtags
+
+![Basic taxonomies for hashtags](../.gitbook/assets/2021-07-29-3-.png)
+
 
 
 
