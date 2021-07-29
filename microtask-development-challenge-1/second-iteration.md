@@ -34,6 +34,12 @@ description: 'Second Iteration - Wednesday After Town Hall, 28th July 2021'
 
 ![Feedback](../.gitbook/assets/2021-07-29-6-.png)
 
+## Miro Board Link
+
+{% embed url="https://miro.com/app/board/o9J\_l4ncJr8=/" %}
+
+
+
 
 
 
