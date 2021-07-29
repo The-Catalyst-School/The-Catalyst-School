@@ -1,6 +1,6 @@
 ---
-description: 'Second Iteration - Wednesday Town Hall, 28th July 2021'
+description: 'Second Iteration - Wednesday After Town Hall, 28th July 2021'
 ---
 
-# Second Iteration
+# Second Iteration - After Town Hall
 
