@@ -41,6 +41,6 @@
 ## MicroTask/Development Challenge <a id="microtask-development-challenge-1"></a>
 
 * [MicroTask/Development Challenge](microtask-development-challenge-1/microtask-development-challenge.md)
-* [First Iteration - Saturday Swarm 24th July 2021](microtask-development-challenge-1/first-iteration-saturday-swarm-24th-july-2021.md)
+* [First Iteration - Saturday Swarm](microtask-development-challenge-1/first-iteration-saturday-swarm-24th-july-2021.md)
 * [Second Iteration](microtask-development-challenge-1/second-iteration.md)
 

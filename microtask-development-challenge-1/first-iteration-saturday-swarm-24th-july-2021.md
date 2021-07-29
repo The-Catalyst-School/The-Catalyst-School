@@ -1,4 +1,8 @@
-# First Iteration - Saturday Swarm 24th July 2021
+---
+description: First Iteration - Saturday Swarm 24th July 2021
+---
+
+# First Iteration - Saturday Swarm
 
 ## Mini Proposal Design Process - Saturday Swarm 24th July 2021
 
