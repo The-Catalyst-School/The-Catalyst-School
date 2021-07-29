@@ -26,6 +26,14 @@ description: 'Second Iteration - Wednesday After Town Hall, 28th July 2021'
 
 ![What taxonomies ?](../.gitbook/assets/2021-07-29-4-.png)
 
+## 3.2 - Brainstorm a Name and then Vote for the best Name/Title/Brand etc.
+
+![Brainstorm a Name](../.gitbook/assets/2021-07-29-5-.png)
+
+## Feedback
+
+![Feedback](../.gitbook/assets/2021-07-29-6-.png)
+
 
 
 
