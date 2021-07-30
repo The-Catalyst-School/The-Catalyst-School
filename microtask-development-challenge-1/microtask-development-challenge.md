@@ -1,7 +1,7 @@
 ---
 description: >-
-  Use the MicroTask/Development Challenge as a vehicle for creating Mini
-  Proposal training materials for Catalyst School
+  Use the MicroTask/Development Challenge as a vehicle for creating Catalyst
+  School training materials for the drafting of mini proposals.
 ---
 
 # MicroTask/Development Challenge
