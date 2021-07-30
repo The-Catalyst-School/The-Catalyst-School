@@ -8,7 +8,7 @@ description: >-
 
 ## Overview
 
-In order to develop Mini Proposal training materials the Catalyst School is partnering with Tevo and Quasar on their Fund 5 - Developer ecosystem MicroTask/Development Challenge.
+In order to develop training materials for the drafting of mini proposals, the Catalyst School is partnering with Tevo and Quasar on their Fund 5 - Developer ecosystem MicroTask / Development Challenge.
 
 ![F5 : Developer ecosystem proposal](../.gitbook/assets/2021-07-25-13-.png)
 
