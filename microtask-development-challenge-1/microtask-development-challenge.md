@@ -6,7 +6,7 @@ description: >-
 
 # MicroTask/Development Challenge
 
-In order to develop training materials the Catalyst School is partnering with Quasar and Tevo's the Fund 5 - Developer ecosystem MicroTask/Development Challenge.
+In order to develop training materials the Catalyst School is partnering with Tevo and Quasar on their Fund 5 - Developer ecosystem MicroTask/Development Challenge.
 
 {% embed url="https://cardano.ideascale.com/a/dtd/MicroTask-Development-Challenge/352818-48088" %}
 
