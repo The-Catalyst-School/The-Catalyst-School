@@ -14,7 +14,13 @@ In order to develop training materials the Catalyst School is partnering with Te
 
 ![F5 : Developer ecosystem proposal](../.gitbook/assets/2021-07-25-13-.png)
 
-In the next After Town Hall of the 28th July 2021 a MicroTask Catalyst School Workshop was hosted by Tevo and supported by Stephen.
+## Workshop Iterations
+
+To date there have been the following iterations of the MicroTask Catalyst School Workshop
+
+1\) Saturday Swarm Session of 24th July 2021, hosted by Tevo and supported by Stephen.
+
+2\) After Town Hall of the 28th July 2021, hosted by Tevo and supported by Stephen.
 
 These workshops invited submissions of mini-proposals from Proposers and participation from Community Advisors.
 
