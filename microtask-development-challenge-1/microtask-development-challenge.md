@@ -1,14 +1,14 @@
 ---
 description: >-
-  Use the MicroTask/Development Challenge as a vehicle for creating training
-  materials for Catalyst School
+  Use the MicroTask/Development Challenge as a vehicle for creating Mini
+  Proposal training materials for Catalyst School
 ---
 
 # MicroTask/Development Challenge
 
 ## Overview
 
-In order to develop training materials the Catalyst School is partnering with Tevo and Quasar on their Fund 5 - Developer ecosystem MicroTask/Development Challenge.
+In order to develop Mini Proposal training materials the Catalyst School is partnering with Tevo and Quasar on their Fund 5 - Developer ecosystem MicroTask/Development Challenge.
 
 ![F5 : Developer ecosystem proposal](../.gitbook/assets/2021-07-25-13-.png)
 
