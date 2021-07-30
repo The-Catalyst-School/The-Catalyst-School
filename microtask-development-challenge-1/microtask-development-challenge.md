@@ -24,3 +24,7 @@ To date there have been the following iterations of the Mini Proposal Catalyst S
 
 These workshops invited submissions of mini-proposals from Proposers and participation from Community Advisors.
 
+## What is a Mini Proposal ?
+
+
+
