@@ -6,6 +6,8 @@ description: First Iteration - Saturday Swarm 24th July 2021
 
 ## Mini Proposal Design Process - Saturday Swarm 24th July 2021
 
+{% embed url="https://www.youtube.com/watch?v=CfpHc8TmmS8&t" %}
+
 ### A linear transcription \(text description\). First Iteration of possible course materials.
 
 ## Chapter 1 - Problem Statement
