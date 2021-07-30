@@ -14,9 +14,9 @@ In order to develop training materials for the drafting of mini proposals, the C
 
 {% embed url="https://cardano.ideascale.com/a/dtd/MicroTask-Development-Challenge/352818-48088" %}
 
-## Workshop Iterations
+## Mini Proposal Workshop Iterations
 
-To date there have been the following iterations of the MicroTask Catalyst School Workshop
+To date there have been the following iterations of the Mini Proposal Catalyst School Workshop :
 
 1\) Saturday Swarm Session of 24th July 2021, hosted by Tevo and supported by Stephen.
 
