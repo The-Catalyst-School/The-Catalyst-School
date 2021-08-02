@@ -8,6 +8,8 @@ description: Overview
 
 Catalyst School, a place to leverage the impact of Catalyst as a whole by improving the contribution of all its different players and roles
 
+![](.gitbook/assets/2021-08-02-16-.png)
+
 ## How to Learn?
 
 The Catalyst School aims to be a place not only to learn, but also to meet and interact with other community members. Actually, we believe that one of the best ways to learn is exactly by doing that: through open conversations, exchanging knowledge and having hands-on experiences on what it looks like to act in Catalyst as a proposer, CA, vCA and other roles that might come up. For that, the School will have classes and workshops during each Fund that will be open for everyone who is willing to participate.
