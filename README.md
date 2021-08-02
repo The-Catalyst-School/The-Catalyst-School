@@ -26,9 +26,7 @@ The School will have classes and workshops during each Fund that will be open fo
 
 For those who prefer not or are not available to go to classes and workshops, at each Fund we will provide a limited number of 1-to-1 support with our team members.
 
-Also, we know that there are some people who prefer not to have all this interaction, and like to learn at their own pace. 
-
-or those, all the School materials and references will be openly available on our website, with the recordings of live sessions and all text and audiovisual content used there.
+Also, we know that some people prefer to learn at their own pace. To serve this need, all School materials and references will be available on our website, along with the recordings of live sessions and all text and audiovisual content.
 
 
 
