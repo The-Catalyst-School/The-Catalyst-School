@@ -6,18 +6,18 @@
 
 * [Catalyst School meetings](meetings/catalyst-school-meetings.md)
 
-## MicroTask/Development Challenge <a id="microtask-development-challenge-1"></a>
-
-* [MicroTask/Development Challenge](microtask-development-challenge-1/microtask-development-challenge.md)
-* [First Iteration - Saturday Swarm](microtask-development-challenge-1/first-iteration-saturday-swarm-24th-july-2021.md)
-* [Second Iteration - After Town Hall](microtask-development-challenge-1/second-iteration.md)
-
 ## Community Advisor School
 
 * [General Information](community-advisor-school/general-information.md)
 * [Class 1: What is Catalyst?](community-advisor-school/class-1-what-is-catalyst.md)
 * [Class 2: How to make a good proposal?](community-advisor-school/class-2-how-to-make-a-good-proposal.md)
 * [Class 3: How to assess a proposal?](community-advisor-school/class-3-how-to-assess-a-proposal.md)
+
+## MicroTask/Development Challenge <a id="microtask-development-challenge-1"></a>
+
+* [MicroTask/Development Challenge](microtask-development-challenge-1/microtask-development-challenge.md)
+* [First Iteration - Saturday Swarm](microtask-development-challenge-1/first-iteration-saturday-swarm-24th-july-2021.md)
+* [Second Iteration - After Town Hall](microtask-development-challenge-1/second-iteration.md)
 
 ## GitHub
 
