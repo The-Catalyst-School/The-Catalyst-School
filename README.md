@@ -12,9 +12,7 @@ description: >-
 
 ## How to Learn?
 
-The Catalyst School is a place not only to learn, but also to meet and interact with other community members. 
-
-We believe that one of the best ways to learn is exactly by doing that, through 
+The Catalyst School is a place not only to learn, but also to meet and interact with other community members. We believe that one of the best ways to learn is exactly by doing that, through :
 
 open conversations
 
