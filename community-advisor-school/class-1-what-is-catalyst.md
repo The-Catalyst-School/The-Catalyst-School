@@ -1,3 +1,7 @@
+---
+description: 'An Outline of Class 1: What is Catalyst?'
+---
+
 # Class 1: What is Catalyst?
 
 * What is Catalyst and why does it exist?
