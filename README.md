@@ -22,7 +22,7 @@ hands-on experiences
 
 on what it looks like to act in Catalyst as a proposer, CA, vCA and other roles that might come up. 
 
-The School will have classes and workshops during each Fund that will be open for everyone who wishes to participate.
+The School will have classes and workshops during each Fund that will be open for everyone who wants to participate.
 
 For those who prefer not or are not available to go to classes and workshops, at each Fund we will provide a limited number of 1-to-1 support with our team members.
 
