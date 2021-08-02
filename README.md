@@ -8,7 +8,7 @@ description: >-
 
 ## Overview
 
-![First Meeting of the Catalyst School](.gitbook/assets/2021-08-02-16-.png)
+![The First Meeting of the Catalyst School](.gitbook/assets/2021-08-02-16-.png)
 
 ## How to Learn?
 
