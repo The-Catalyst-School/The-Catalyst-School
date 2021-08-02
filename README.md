@@ -1,7 +1,7 @@
 ---
 description: >-
-  Catalyst School is a place that enhances the impact of Catalyst by improving
-  the contribution of all its different players and roles.
+  Catalyst School is a place that enhances Project Catalyst by improving the
+  contribution of all its different players and roles.
 ---
 
 # The-Catalyst-School
