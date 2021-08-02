@@ -8,7 +8,7 @@ description: Overview
 
 Catalyst School, a place to leverage the impact of Catalyst as a whole by improving the contribution of all its different players and roles
 
-![](.gitbook/assets/2021-08-02-16-.png)
+![First Meeting of the Catalyst School](.gitbook/assets/2021-08-02-16-.png)
 
 ## How to Learn?
 
