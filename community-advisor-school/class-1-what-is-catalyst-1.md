@@ -4,6 +4,10 @@
 
 Catalyst is an innovation funding system… \(TBC\)
 
+{% hint style="success" %}
+1\) What is Catalyst and why does it exist?
+{% endhint %}
+
 ## **2\) Where does the money come from?**
 
 Each transaction on Cardano blockchain has an associated fee, and a small percentage of this fee goes to the treasury that is managed by Catalyst. In this way, everyone that stakes ADA is indirectly contributing to Catalyst, since their profit is also related to the transaction fees and block validations, and their contribution is proportional to the amount staked.
