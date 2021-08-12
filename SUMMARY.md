@@ -5,6 +5,7 @@
 ## Meetings
 
 * [Catalyst School meetings](meetings/catalyst-school-meetings.md)
+* [Catalyst School Workshops](meetings/catalyst-school-workshops.md)
 
 ## Community Advisor School
 
