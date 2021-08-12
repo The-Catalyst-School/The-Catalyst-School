@@ -4,7 +4,7 @@
 
 Catalyst is an innovation funding system… \(TBC\)
 
-{% hint style="danger" %}
+{% hint style="success" %}
 1\) What is Catalyst and why does it exist?
 {% endhint %}
 
