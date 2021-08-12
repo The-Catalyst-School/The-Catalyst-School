@@ -2,6 +2,8 @@
 
 ## 1\) **What is Catalyst and why does it exist?**
 
+![](../.gitbook/assets/2021-08-12.png)
+
 Catalyst is an innovation funding system… \(TBC\)
 
 {% hint style="success" %}
