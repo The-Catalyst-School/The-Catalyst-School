@@ -1,14 +1,14 @@
 # Class 1: What is Catalyst?
 
-## **What is Catalyst and why does it exist?**
+## 1\) **What is Catalyst and why does it exist?**
 
 Catalyst is an innovation funding system… \(TBC\)
 
-## **Where does the money come from?**
+## **2\) Where does the money come from?**
 
 Each transaction on Cardano blockchain has an associated fee, and a small percentage of this fee goes to the treasury that is managed by Catalyst. In this way, everyone that stakes ADA is indirectly contributing to Catalyst, since their profit is also related to the transaction fees and block validations, and their contribution is proportional to the amount staked.
 
-## **How does the Catalyst process work?**
+## **3\) How does the Catalyst process work?**
 
  The Catalyst process is constantly evolving. As per Fund 5, it consists of the following phases:
 
@@ -44,7 +44,7 @@ After the proposers are finished with their review, the vCAs come to play and re
 
 The ‘Governance’ phase consists of the voting phase, in which all eligible ADA delegators or Stake Pool Operators \(SPOs\) can register to vote on their preferred Catalyst proposals and decide who will receive the Fund.
 
-## **What are the roles inside Catalyst?**
+## **4\) What are the roles inside Catalyst?**
 
  As per Fund 5, the roles inside Catalyst are:
 
@@ -70,11 +70,11 @@ The Community Advisors’ main role is to assess the proposals based on a set of
 
 Voters are those responsible by choosing the funded proposals in each Fund. Anyone who has a minimum amount of ADA staked in any stake pool is eligible to vote in Catalyst. Voters need to register to vote in each Fund. The minimum amount in Fund5 is 500 ADA, and it’s getting smaller each Fund to increase participation in the process.
 
-## **What is IdeaScale?**
+## **5\) What is IdeaScale?**
 
  IdeaScale is a platform chosen by IOG where some phases of the Catalyst process take place. All the stages until ‘Proposals assessments by CAs’ are done in IdeaScale.
 
-## **What are the Challenges?**
+## **6\) What are the Challenges?**
 
 The Catalyst Challenges are subsets of each Fund, and every proposal has to be submitted in a specific and single Challenge.
 
@@ -82,7 +82,7 @@ Each Challenge has a clear objective, some guiding questions, suggestions of met
 
 The total Fund is distributed amongst the Challenges, so each one receives a percentage of the total budget. This percentage depends on the perceived importance of each challenge and it’s defined by IOG, except those challenges which were voted in the ‘Challenge Setting’ Challenge.
 
-## **What does ‘voting power’ mean?**
+## **7\) What does ‘voting power’ mean?**
 
  Voting power is basically the weight of someone’s vote in the overall process, and it’s directly proportional to the amount of ADA staked. Therefore, those who have more ADA staked also have more influence in the voting process.
 
@@ -90,7 +90,7 @@ There are some reasons to justify the existence of this voting power. For exampl
 
  Those who own great amounts of ADA also have more ‘skin in the game’, and therefore are those who would benefit the most from good projects or initiatives being funded, since these tend to add more value and strengthen the ecosystem. Also, if every vote had the same weight, the voting process could be distorted by people creating multiple wallets with the minimum ADA required to participate in the voting process.
 
-## **How does the voting system work?**
+## **8\) How does the voting system work?**
 
  Each voter can decide to vote favorably or against each proposal, and also to abstain from voting in some/any of them.
 
@@ -100,7 +100,7 @@ The proposals in each Challenge are then listed based on their scores. The first
 
 As an example, these are the [voting results for Fund 3](https://drive.google.com/file/d/1X6BnuFBvNO8yF2DeUgBqA3yyYSvqeKvg/view).
 
-## **Where do the discussions about Catalyst take place?**
+## **9\) Where do the discussions about Catalyst take place?**
 
  The main channels to discuss about Catalyst are the Telegram groups \[add link\] and the Discord server \[add link\]. There are also many other channels to discuss topics related to Catalyst that were created by the Community to discuss various different topics.
 
