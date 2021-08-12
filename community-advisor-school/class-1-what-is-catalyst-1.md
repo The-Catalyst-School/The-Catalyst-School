@@ -7,7 +7,7 @@
 Catalyst is an innovation funding system… \(TBC\)
 
 {% hint style="success" %}
-1\) What is Catalyst and why does it exist?
+## 1\) What is Catalyst and why does it exist?
 {% endhint %}
 
 ## **2\) Where does the money come from?**
