@@ -32,9 +32,9 @@ _How can we encourage developers and entrepreneurs to build Dapps and businesses
 
 ### **Problem statements**
 
-_Builders don’t want to deal with the red tape\time cost of securing funding. How do we help Cardano builders streamline proposals?_
+> _Builders don’t want to deal with the red tape\time cost of securing funding. How do we help Cardano builders streamline proposals?_
 
-_I am trying to solve the problem of bootstrapping decentralized\open finance movement on Cardano before Plutus and Marlowe hit mainnet._
+> _I am trying to solve the problem of bootstrapping decentralized\open finance movement on Cardano before Plutus and Marlowe hit mainnet._
 
 In both of these examples the relationship between the problem statements and the challenge is apparent. This is what voters will be looking for. However, while the content of the problem statements is clear and effective, these problem statements can be improved.
 
