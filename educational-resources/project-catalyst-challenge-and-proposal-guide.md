@@ -63,7 +63,7 @@ Here’s an example:
   
 Here’s the complete problem statement which condenses the information above:
 
-“Money transfer to Philippines workers should be affordable. However, 11% of the population are losing 1B$ in transaction fees per year. Research links \[[1](http://www.pricingphillipines.io/)\],\[[2](http://www.exampleresearchproject.co.il/)\]“
+> “Money transfer to Philippines workers should be affordable. However, 11% of the population are losing 1B$ in transaction fees per year. Research links \[[1](http://www.pricingphillipines.io/)\],\[[2](http://www.exampleresearchproject.co.il/)\]“
 
 ### **In conclusion**
 
