@@ -10,24 +10,24 @@ The proposal plans and attachments can be viewed on our innovation platform, hos
 
 The quality of the output is dependent on the community’s ability to create and engage with new ideas. To that end, we would like to share a quick guide to writing successful proposals:
 
-**Proposing a title** \(35 char. limit\)
+## **Proposing a title** \(35 char. limit\)
 
 The proposal name should give an indication of the innovation that you are trying to achieve while also grabbing people’s attention. But we want to avoid any slick marketing speak. Just tell your audience what it does and who it is for as clearly as possible. Keep it simple and informative and keep your audience in mind.
 
 **Example Title:** Stake pool operator vlog network  
 ****
 
-**HOW TO WRITE A PROBLEM STATEMENT** \(140 char. limit\)
+## **HOW TO WRITE A PROBLEM STATEMENT** \(140 char. limit\)
 
-**Rising to the challenge**
+### **Rising to the challenge**
 
 Each fund will have a specific challenge which proposals will attempt to solve. Challenges will originally be set by the Project Catalyst team and then opportunities will arise for the community to develop their own. It is crucial that proposals address the challenge directly. Here is an example of a challenge and some problem statements which address it.
 
-**Challenge**
+### **Challenge**
 
 _How can we encourage developers and entrepreneurs to build Dapps and businesses on top of Cardano in the next 6 months?_
 
-**Problem statements**
+### **Problem statements**
 
 _Builders don’t want to deal with the red tape\time cost of securing funding. How do we help Cardano builders streamline proposals?_
 
@@ -35,11 +35,11 @@ _I am trying to solve the problem of bootstrapping decentralized\open finance mo
 
 In both of these examples the relationship between the problem statements and the challenge is apparent. This is what voters will be looking for. However, while the content of the problem statements is clear and effective, these problem statements can be improved.
 
-**Making great problem statements \(140 char. limit\)**
+### **Making great problem statements \(140 char. limit\)**
 
 The problem statement identifies the issue related to the challenge, and offers a solution. It is important to focus on _common problems, urgent problems, expensive problems,_ and _frequent problems._ Explaining your problem in these terms is crucial to a good proposal so it should be the first thing seen by voters. A good problem statement has four components: _the desired outcome, blocking problem, costs of the problem,_ and _the evidence._
 
-**Structure of the problem statement**
+### **Structure of the problem statement**
 
 **Desired outcome:** This paints a picture of the ideal set of circumstances once your solution is accepted.
 
@@ -62,15 +62,15 @@ Here’s the complete problem statement which condenses the information above:
 
 “Money transfer to Philippines workers should be affordable. However, 11% of the population are losing 1B$ in transaction fees per year. Research links \[[1](http://www.pricingphillipines.io/)\],\[[2](http://www.exampleresearchproject.co.il/)\]“
 
-**In conclusion**
+### **In conclusion**
 
 * State your desired outcome and the problem blocking it
 * Define the cost of the problem
 * Give evidence for your findings
 
-**SOLUTION** \(140 char. limit\)
+## **SOLUTION** \(140 char. limit\)
 
-**Structuring the Solution**
+### **Structuring the Solution**
 
 So, you only have 140 characters to give a lot of important information. When every character counts, it is important that you address the prompt exactly.
 
@@ -78,15 +78,15 @@ It may sound obvious, but your solution must be based on a known problem. It has
 
 **Example solution statement:** Create a stakepool operator-run digital magazine maintained on the blockchain to expose Cardano to new audiences outside of current users.
 
-**In conclusion**
+### **In conclusion**
 
 * Address the problem directly to ensure that your solution rises to the challenge
 * Make your project stand out through differentiation
 * Create a solution that solves a problem instead of one looking for a problem.
 
-**RELEVANT EXPERIENCE** \(140 char. limit\)
+## **RELEVANT EXPERIENCE** \(140 char. limit\)
 
-**Find your edge**
+### **Find your edge**
 
 Find your ‘competitive edge’ and ensure you drive it home. We can break down your competitive edge into a couple of different categories. Your solution should include an explanation of as many of these competitive edges as possible. Remember, the people voting on these proposals want to see yours as a ‘sure thing’. If you can clearly explain _why_ you are different from any of the other projects in the blockchain space, then you have a significant competitive advantage.
 
@@ -94,15 +94,15 @@ Find your ‘competitive edge’ and ensure you drive it home. We can break down
 
 **Example:** John Doe completed his PhD with a focus on incentive schemes for blockchain treasury systems.
 
-**In conclusion**
+### **In conclusion**
 
 * Find your competitive edge and make sure that it is well known
 * This might look different for different kinds of projects
 * Remember that your audience is other people on the innovation platform
 
-**PLAN IN DETAIL**
+## **PLAN IN DETAIL**
 
-**Differentiate through insight**
+### **Differentiate through insight**
 
 Now that we have outlined the problem and given a solid solution, let’s talk about execution.
 
@@ -126,7 +126,7 @@ You should look at your plan as a roadmap and a need analysis. First of all, Why
 
 **Example:** Using the Ouroboros protocol allows our system to become more secure as decentralization increases.
 
-**Show us the money**
+### **Show us the money**
 
 Complex problems often need sufficient funding to be solved. This is understood by the community at Project Catalyst. However, anyone voting on these proposals should be able to know how the funding is being spent. Giving a detailed breakdown of how the budget will be spent. This can come in a variety of ways but distilling your budget into a series of line items is a clear way to show voters that you have considered how major funding initiatives will be spent.
 
@@ -134,7 +134,7 @@ It is also important to remember that your budget should meet the requirements o
 
  **Example:** Creating a developer focused podcast will take $5k in the initial 6 months.
 
-**Getting on the road**
+### **Getting on the road**
 
 When building your proposal, you should write as if you will be receiving funding. But it’s important that anyone reading your proposal understands that you will be able to hit the ground running. This is where your roadmap comes in. Your roadmap should break down all of the key milestones you intend to hit once funding is received. This can be done in a couple of different ways, but a good roadmap details your **one month, three month, and six month goals.**
 
@@ -147,15 +147,15 @@ In the roadmap it is also important to identify your key performance indicators 
 
 The important thing to remember about KPIs is that they should have a number attached to them. Acquiring an initial 15 users is an achievable goal. Acquiring ‘a lot’ of users is pretty vague and difficult for anyone to adjudicate. Remember, you are presenting these ideas to the community, the clearer you make your intentions and the easier it is to verify that you have achieved your goals, the more likely it is that you will be seen as a great bet.
 
-**IP**
+### **IP**
 
 Please share with reviewers what is your IP policy \(Patents, trademarks, copyright, licensing etc’\) so they can assess if that is a good fit for the treasury.
 
-**Defining success**
+### **Defining success**
 
 What does success look like for this particular project? While it might not be entirely complete after one round of funding, your proposal should give us an idea of what an end state looks like. This, like your KPIs should be an easily understood number that can be verified by anyone.
 
-**In conclusion**
+### **In conclusion**
 
 * Suit the budget and the roadmap to the needs of your project.
 * Establish reachable key performance indicators that show good progress towards your goal.
@@ -166,9 +166,9 @@ What does success look like for this particular project? While it might not be e
 
 It is important for everyone to be able to share additional necessary information. That is why PDFs, images and additional URLs can be sent through the Ideascale where they can be viewed by everyone.
 
-**FEEDBACK**
+## **FEEDBACK**
 
-**Community support**
+### **Community support**
 
 In order to make each individual proposal as strong as possible we encourage everyone to use the innovation platform to discuss each idea. In fact, we’ve created [reviewer guidelines](https://www.google.com/url?q=https://docs.google.com/document/d/13GDOj2vuxZzQttagfgnS3hbnP65xsSsWbf_6TURLI_U/edit%23heading%3Dh.bnxyy561vexh&sa=D&ust=1598993137279000&usg=AFQjCNFiQg_8--NfvsqnBbKhJz-AG-jgLw) to help you direct your critique. For a productive and informative conversation we encourage everyone to focus their feedback on the following areas:
 
@@ -180,39 +180,39 @@ In order to make each individual proposal as strong as possible we encourage eve
 
 **Example:** If your marketing initiative gave the exact number of users it was attempting to onboard as a KPI then it would be much easier to track its success.
 
-**In conclusion**
+### **In conclusion**
 
 * Make other proposals stronger by giving good feedback
 * Incorporate useful feedback into your own proposal
 * Participate actively in the innovation process to make sure it continues to grow
 
-**HOW TO WRITE A Community choice proposal**
+## **HOW TO WRITE A Community choice proposal**
 
-**Emancipating the community**
+### **Emancipating the community**
 
 The purpose of having the Project Catalyst community write their own challenge is to emancipate the platform from the Project Catalyst team. Eventually, the Cardano community will control the innovation and collaboration process from inception to delivery. With that in mind, it is crucial that we understand what an impactful challenge looks like.
 
-**Focus on advancement**
+### **Focus on advancement**
 
 The challenge is a question which helps the community focus its creativity on advancing the Cardano ecosystem. Of course, ‘advancement’ means different things to different people. The key to writing an impactful challenge question is balance. It must be broad enough to be addressed in multiple ways, but specific enough to enhance the value of Cardano for everyone.
 
-**Challenge question examples**
+### **Challenge question examples**
 
 Below are a couple examples of challenge questions:
 
- **Too specific**
+###  **Too specific**
 
 _How can stake pool operators based in southern Europe make their pool more attractive delegators in the next 2 months?_
 
 This challenge question addresses only stake pool operators in Southern Europe. Cardano is a global ecosystem which allows participation in many different ways. The challenge question should help everyone.
 
-**Too broad**
+### **Too broad**
 
  _How can we make Cardano more useful?_
 
 Of course, we want Cardano to be more useful but this challenge doesn’t give the participants any parameters to spark their creativity. Constraints are necessary to help the community address the direct needs of the ecosystem.
 
- **Just right**
+###  **Just right**
 
 _How can we encourage entrepreneurs to develop businesses on Cardano in the next six months?_
 
