@@ -1,3 +1,7 @@
+---
+description: omytariev@gmail.com
+---
+
 # Proposers Guide
 
 ## Overview
@@ -70,4 +74,10 @@ Noone is all powerful and mighty, we are all just mere humans. But in numbers ou
 You might not get the desirable result on your first try, and that is okay. We hope you take some lessons from your initial experience and come back to try again.
 
 Good Luck!
+
+## Source Document
+
+{% embed url="https://docs.google.com/document/d/12wk6mIPxeGsw2WxqHvkTkjNj\_wCIx46AgTNPVX3-38o/edit\#heading=h.3at9u9s4e0vp" %}
+
+
 
