@@ -49,5 +49,5 @@
 
 ## Resources
 
-* [Untitled](resources/untitled.md)
+* [Project Catalyst Challenge and Proposal Guide](resources/untitled.md)
 
