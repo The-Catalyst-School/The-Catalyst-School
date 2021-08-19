@@ -47,7 +47,7 @@
 * [Kerstin´s Chaos Club](kerstin-s-chaos-club/README.md)
   * [How not to](kerstin-s-chaos-club/how-not-to.md)
 
-## Resources
+## Educational Resources
 
-* [Project Catalyst Challenge and Proposal Guide](resources/project-catalyst-challenge-and-proposal-guide.md)
+* [Project Catalyst Challenge and Proposal Guide](educational-resources/project-catalyst-challenge-and-proposal-guide.md)
 
