@@ -207,19 +207,25 @@ Below are a couple examples of challenge questions:
 
 ###  **Too specific**
 
+{% hint style="danger" %}
 _How can stake pool operators based in southern Europe make their pool more attractive delegators in the next 2 months?_
+{% endhint %}
 
 This challenge question addresses only stake pool operators in Southern Europe. Cardano is a global ecosystem which allows participation in many different ways. The challenge question should help everyone.
 
 ### **Too broad**
 
+{% hint style="danger" %}
  _How can we make Cardano more useful?_
+{% endhint %}
 
 Of course, we want Cardano to be more useful but this challenge doesn’t give the participants any parameters to spark their creativity. Constraints are necessary to help the community address the direct needs of the ecosystem.
 
 ###  **Just right**
 
+{% hint style="success" %}
 _How can we encourage entrepreneurs to develop businesses on Cardano in the next six months?_
+{% endhint %}
 
 This challenge has a time frame and addresses a community which is important to the entire Cardano community. Furthemore, it can be addressed in many different ways through both technical and non-technical contributions. However, writing challenge questions is only one important part of Project Catalyst. Addressing those challenges in a clear and concise manner is also necessary to identifying the most impactful ideas for Project Catalyst.
 
