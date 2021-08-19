@@ -49,5 +49,5 @@
 
 ## Resources
 
-* [Project Catalyst Challenge and Proposal Guide](resources/untitled.md)
+* [Project Catalyst Challenge and Proposal Guide](resources/project-catalyst-challenge-and-proposal-guide.md)
 
