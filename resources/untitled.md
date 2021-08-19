@@ -14,8 +14,9 @@ The quality of the output is dependent on the community’s ability to create an
 
 The proposal name should give an indication of the innovation that you are trying to achieve while also grabbing people’s attention. But we want to avoid any slick marketing speak. Just tell your audience what it does and who it is for as clearly as possible. Keep it simple and informative and keep your audience in mind.
 
-**Example Title:** Stake pool operator vlog network  
-****
+{% hint style="info" %}
+**Example Title:** Stake pool operator vlog network
+{% endhint %}
 
 ## **HOW TO WRITE A PROBLEM STATEMENT** \(140 char. limit\)
 
@@ -132,7 +133,9 @@ Complex problems often need sufficient funding to be solved. This is understood 
 
 It is also important to remember that your budget should meet the requirements of the project you’re setting out to accomplish. If you are trying to gain funding for a small meetup then a couple hundred dollars should be sufficient. If you are coordinating the development of critical infrastructure then you will need more resources. Make sure to pair the vision with the appropriate funding.
 
- **Example:** Creating a developer focused podcast will take $5k in the initial 6 months.
+{% hint style="info" %}
+**Example:** Creating a developer focused podcast will take $5k in the initial 6 months.
+{% endhint %}
 
 ### **Getting on the road**
 
