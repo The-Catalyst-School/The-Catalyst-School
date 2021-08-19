@@ -14,6 +14,10 @@
 * [Class 2: How to make a good proposal?](community-advisor-school/class-2-how-to-make-a-good-proposal.md)
 * [Class 3: How to assess a proposal?](community-advisor-school/class-3-how-to-assess-a-proposal.md)
 
+## Educational Resources
+
+* [Project Catalyst Challenge and Proposal Guide](educational-resources/project-catalyst-challenge-and-proposal-guide.md)
+
 ## MicroTask/Development Challenge <a id="microtask-development-challenge-1"></a>
 
 * [MicroTask/Development Challenge](microtask-development-challenge-1/microtask-development-challenge.md)
@@ -47,7 +51,4 @@
 * [Kerstin´s Chaos Club](kerstin-s-chaos-club/README.md)
   * [How not to](kerstin-s-chaos-club/how-not-to.md)
 
-## Educational Resources
-
-* [Project Catalyst Challenge and Proposal Guide](educational-resources/project-catalyst-challenge-and-proposal-guide.md)
 
