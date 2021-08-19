@@ -234,3 +234,9 @@ This challenge has a time frame and addresses a community which is important to 
 
 Please add tags to your proposal if you are looking for collaborators/advice/implementers.
 
+## Source Document
+
+{% embed url="https://docs.google.com/document/d/1oE\_cnP0gksdAanXV4w5DYaDNp\_tbYEvyHhTUG4HYZ3Q/edit" %}
+
+
+
