@@ -26,7 +26,9 @@ Each fund will have a specific challenge which proposals will attempt to solve. 
 
 ### **Challenge**
 
+{% hint style="info" %}
 _How can we encourage developers and entrepreneurs to build Dapps and businesses on top of Cardano in the next 6 months?_
+{% endhint %}
 
 ### **Problem statements**
 
