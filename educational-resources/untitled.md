@@ -187,11 +187,11 @@ I also created MMORPG systems as plugins that can be activated on other game ser
 
 Below will be basic questions that will guide you to create a plan.
 
-### **Solution**
+#### **Solution**
 
 Why does your solution work?
 
-### **Roadmap**
+#### **Roadmap**
 
 What is the first thing you are going to do?
 
@@ -203,13 +203,13 @@ What things do you want to get done in 12 weeks? \(almost 3 months\)
 
 What things do you want to get done in 24 weeks? \(5 and a half month\)
 
-### **KPI – Key Performance Indicators**
+#### **KPI – Key Performance Indicators**
 
 How are going to measure the success of each of the things you want to get done?
 
 Every performance indicator has to have both opposing arguments which are clearly stated
 
-### **Cost of execution**
+#### **Cost of execution**
 
 How much money does it cost to get your idea started?
 
@@ -218,7 +218,7 @@ Giving a detailed breakdown of how the budget will be spent in the first 6 weeks
 
 Every 6 weeks you update your proposal to give a detailed plan for the next 6 weeks and reestimate the following periods.
 
-### **Summary**
+#### **Summary**
 
 The Proposal plan part 1 is ready when you have answered the questions and you have at least 3 different performance indicators to follow.
 
