@@ -1,6 +1,10 @@
-# Untitled
+---
+description: How to make a proposal. Project Catalyst Proposal Guide
+---
 
-Document Purpose
+# How to make a proposal.
+
+## Document Purpose
 
 Help you start putting words on paper about your idea or a problem in a structured way.
 
@@ -8,7 +12,7 @@ After going through the process you will have written down the main information 
 
 Give you ideas on how to assess existing proposals on Project Catalyst.
 
-What is Project Catalyst
+## What is Project Catalyst
 
 Project Catalyst is a worldwide collective innovation project.
 
@@ -18,16 +22,16 @@ The quality of the output is dependent on the community’s ability to create an
 Latest video about the current state of Cardano governance by Charles Hoskinson  
 [https://youtu.be/7\_zIzjWZHgg?t=291](https://youtu.be/7_zIzjWZHgg?t=291)
 
-Project Catalyst Proposal Guide
+## Project Catalyst Proposal Guide
 
-1. **Read about the challenges in Project Catalyst**
+### **1 Read about the challenges in Project Catalyst**
 
 _Currently, we have 2 challenges._
 
 * 1. How can we encourage developers and entrepreneurs to build Dapps and businesses on top of Cardano in the next 6 months?
   2. How could we improve the Project Catalyst platform Ideascale?
 
-1. **Write down the first problems and ideas**
+### **2 Write down the first problems and ideas**
 
 What are you interested to do?
 
@@ -54,7 +58,7 @@ There is no page in Project Catalyst to read about other community members and w
 My dream was to make an MMORPG, maybe I can restart the project.  
 \(massively multiplayer online role-playing game\)
 
-1. **Choose 1 idea / problem**
+### **3 Choose 1 idea / problem**
 
 Think about your ideas on how they are best suited for the current challenges.
 
@@ -72,7 +76,7 @@ Every company I had worked in and still working, pays monthly fees for platform 
 Businesses constantly trying to improve their systems.  
  I don’t know anybody who does not want to make their processes better and faster.
 
-1. **Create the problem statement**
+### **4 Create the problem statement**
 
 The problem statement identifies the issue related to the challenge and offers a solution.
 
@@ -122,7 +126,7 @@ This means there is an increasing demand for good business management platforms.
 
 [https://www.microsoft.com/investor/reports/ar19/index.html](https://www.microsoft.com/investor/reports/ar19/index.html)
 
-1. **Title**
+### **5 Title**
 
 The proposal name should indicate the innovation that you are trying to achieve
 
@@ -133,7 +137,7 @@ Keep it simple and informative and keep your audience in mind.
 
  Open Source ERP Platform for business management.
 
-1. **Search for the same idea in Project Catalyst**
+### **6 Search for the same idea in Project Catalyst**
 
 Use Ctrl+F for keywords from your title.
 
@@ -150,7 +154,7 @@ Create a new proposal in Project Catalyst
 
 Create a new proposal in Project Catalyst and link similar ideas using the **Add Linked Ideas** button in Project Catalyst.
 
-1. **Write a short solution to your problem**
+### **7 Write a short solution to your problem**
 
 You will have 140 characters. The solution has to solve the problems laid out.
 
@@ -166,7 +170,7 @@ We create custom tools for entrepreneurs, businesses, and developers interoperab
 
 Personal Data and configurations will be stored off-chain and the actions are stored on-chain.
 
-1. **Share your experience about a related topic**
+### **8 Share your experience about a related topic**
 
 I have experience using and developing ERP tools for different business units.  
 Areas where I have improved process, created tools or documentation.
@@ -179,15 +183,15 @@ I have spent over 2000 hours on creating a game code. Created systems with scrip
 
 I also created MMORPG systems as plugins that can be activated on other game servers by adding a scripting file to their file folder. This taught me to design my features in the way they would work on different server settings and source code.
 
-1. **Detailed plan part 1**
+### **9 Detailed plan part 1**
 
 Below will be basic questions that will guide you to create a plan.
 
-**Solution**
+### **Solution**
 
 Why does your solution work?
 
-**Roadmap**
+### **Roadmap**
 
 What is the first thing you are going to do?
 
@@ -199,14 +203,14 @@ What things do you want to get done in 12 weeks? \(almost 3 months\)
 
 What things do you want to get done in 24 weeks? \(5 and a half month\)
 
-**KPI – Key Performance Indicators**
+### **KPI – Key Performance Indicators**
 
 How are going to measure the success of each of the things you want to get done?
 
 Every performance indicator has to have both opposing arguments which are clearly stated
 
-  
-**Cost of execution**  
+### **Cost of execution**
+
 How much money does it cost to get your idea started?
 
 Giving a detailed breakdown of how the budget will be spent in the first 6 weeks.  
@@ -214,7 +218,8 @@ Giving a detailed breakdown of how the budget will be spent in the first 6 weeks
 
 Every 6 weeks you update your proposal to give a detailed plan for the next 6 weeks and reestimate the following periods.
 
-**Summary**  
+### **Summary**
+
 The Proposal plan part 1 is ready when you have answered the questions and you have at least 3 different performance indicators to follow.
 
 **Example:**

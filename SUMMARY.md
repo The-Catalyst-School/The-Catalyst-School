@@ -18,7 +18,7 @@
 
 * [Project Catalyst Challenge and Proposal Guide](educational-resources/project-catalyst-challenge-and-proposal-guide.md)
 * [Proposers Guide](educational-resources/proposers-guide.md)
-* [Untitled](educational-resources/untitled.md)
+* [How to make a proposal.](educational-resources/untitled.md)
 
 ## MicroTask/Development Challenge <a id="microtask-development-challenge-1"></a>
 
