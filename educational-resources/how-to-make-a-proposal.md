@@ -2,7 +2,7 @@
 description: How to make a proposal. Project Catalyst Proposal Guide
 ---
 
-# How to make a proposal.
+# How to make a proposal
 
 ## Document Purpose
 
