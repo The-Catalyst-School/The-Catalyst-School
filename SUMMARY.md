@@ -2,10 +2,10 @@
 
 * [The-Catalyst-School](README.md)
 
-## Proposals
+## Fund 6 Proposals
 
-* [Summary](proposals/individual-proposal.md)
-* [Untitled](proposals/proposals-summary.md)
+* [Summary](fund-6-proposals/individual-proposal.md)
+* [Untitled](fund-6-proposals/proposals-summary.md)
 
 ## Meetings
 
