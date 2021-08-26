@@ -5,6 +5,7 @@
 ## Proposals
 
 * [Proposal summary](proposals/untitled.md)
+* [Individual Proposal](proposals/individual-proposal.md)
 
 ## Meetings
 
@@ -56,6 +57,4 @@
 
 * [Kerstin´s Chaos Club](kerstin-s-chaos-club/README.md)
   * [How not to](kerstin-s-chaos-club/how-not-to.md)
-
-
 
