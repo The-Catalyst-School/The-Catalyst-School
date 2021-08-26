@@ -55,5 +55,5 @@
 
 ## Proposals
 
-* [Untitled](proposals/untitled.md)
+* [Proposal summary](proposals/untitled.md)
 
