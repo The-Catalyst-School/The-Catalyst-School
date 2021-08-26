@@ -53,3 +53,7 @@
 * [Kerstin´s Chaos Club](kerstin-s-chaos-club/README.md)
   * [How not to](kerstin-s-chaos-club/how-not-to.md)
 
+## Proposals
+
+* [Untitled](proposals/untitled.md)
+
