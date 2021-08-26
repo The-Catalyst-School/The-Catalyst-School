@@ -58,3 +58,7 @@
 * [Kerstin´s Chaos Club](kerstin-s-chaos-club/README.md)
   * [How not to](kerstin-s-chaos-club/how-not-to.md)
 
+## Catalyst Proposals \#Fund6
+
+* [Summary](catalyst-proposals-fund6/summary.md)
+
