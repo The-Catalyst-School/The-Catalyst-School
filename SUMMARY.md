@@ -4,8 +4,8 @@
 
 ## Proposals
 
-* [Untitled](proposals/proposals-summary.md)
 * [Summary](proposals/individual-proposal.md)
+* [Untitled](proposals/proposals-summary.md)
 
 ## Meetings
 
