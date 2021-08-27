@@ -1,10 +1,8 @@
-# Untitled
+# F6: Catalyst value onboarding :The Catalyst School
 
-The Catalyst School
+## Ideascale link
 
-[Go to the proposal at IdeaScale &gt;](https://cardano.ideascale.com/a/dtd/The-Catalyst-School/367842-48088/?ltclid=2f6486b7-13e4-4656-b119-3061417f079b)
-
-![](../.gitbook/assets/0%20%281%29.png)
+{% embed url="https://cardano.ideascale.com/a/dtd/The-Catalyst-School/367842-48088/?ltclid=2f6486b7-13e4-4656-b119-3061417f079b" %}
 
 ## Problem statement
 
