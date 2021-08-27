@@ -1,3 +1,7 @@
+---
+description: An Overview of Catalyst School Proposals
+---
+
 # Summary
 
 ## The Catalyst School
