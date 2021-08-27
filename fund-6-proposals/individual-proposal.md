@@ -53,19 +53,3 @@ Project
 | F6: Catalyst value onboarding | WADA Uni Students Catalyst Registry | [WADA Uni Students Catalyst Registry](https://cardano.ideascale.com/a/dtd/WADA-Uni-Students-Catalyst-Registry/370220-48088) |
 | F6: Fund7 challenge setting | Grow East Asia, Grow Cardano | [Grow East Asia, Grow Cardano](https://cardano.ideascale.com/a/dtd/Grow-East-Asia-Grow-Cardano/367250-48088) |
 
-## The Website
-
-Project
-
-## NFTs
-
-Project
-
-## Multilanguage
-
-Summary here
-
-## Multilanguage
-
-Summary here
-
