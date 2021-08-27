@@ -12,9 +12,10 @@ As such, Catalyst School aims to ensure the community is sufficiently equipped t
 
 | Challenge | Proposal Title | Ideascale Link |
 | :--- | :--- | :--- |
-| F6: Catalyst value onboarding : | The Catalyst School | [ ](%20	https://cardano.ideascale.com/a/dtd/The-Catalyst-School/367842-48088/?ltclid=2f6486b7-13e4-4656-b119-3061417f079b)[The Catalyst School](https://cardano.ideascale.com/a/dtd/The-Catalyst-School/367842-48088/?ltclid=2f6486b7-13e4-4656-b119-3061417f079b) |
-| F6: Catalyst value onboarding : | The Catalyst School - Website | [The Catalyst School - Website](https://cardano.ideascale.com/a/dtd/The-Catalyst-School-Website/368885-48088) |
+| F6: Catalyst value onboarding | The Catalyst School | [ ](%20	https://cardano.ideascale.com/a/dtd/The-Catalyst-School/367842-48088/?ltclid=2f6486b7-13e4-4656-b119-3061417f079b)[The Catalyst School](https://cardano.ideascale.com/a/dtd/The-Catalyst-School/367842-48088/?ltclid=2f6486b7-13e4-4656-b119-3061417f079b) |
+| F6: Catalyst value onboarding  | The Catalyst School - Website | [The Catalyst School - Website](https://cardano.ideascale.com/a/dtd/The-Catalyst-School-Website/368885-48088) |
 | F6: Multilingual resources | The Catalyst School - Multilanguage | [The Catalyst School - Multilanguage](https://cardano.ideascale.com/a/dtd/The-Catalyst-School-Multilanguage/368887-48088) |
+| F6: Multilingual resources | CatalystSchool - Eastern Hemisphere | [CatalystSchool - Eastern Hemisphere](https://cardano.ideascale.com/a/dtd/CatalystSchool-Eastern-Hemisphere/369845-48088) |
 
 ## The Website
 
