@@ -5,7 +5,7 @@
 ## Fund 6 Proposals
 
 * [Summary](fund-6-proposals/summary.md)
-* [F6: Catalyst value onboarding :The Catalyst School](fund-6-proposals/proposals-summary.md)
+* [F6: Catalyst value onboarding :The Catalyst School](fund-6-proposals/f6-catalyst-value-onboarding-the-catalyst-school.md)
 
 ## Meetings
 
