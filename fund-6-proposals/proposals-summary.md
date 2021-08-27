@@ -22,11 +22,11 @@ Veteran advisors and proposal mentors, education professionals, very active Cata
 
 Currently, the core of Catalyst is made of:
 
-* Proposers: individuals and groups with ideas and projects looking for funding through Catalyst.
-* Voters: every ADA holder who wishes to participate in the Catalyst voting process.
-* Community Advisors \(CAs\): community members who provide feedback and assess proposals, trying to help both proposers and voters.
-* Veteran Community Advisors \(vCAs\): CAs who have successfully participated in a previous Fund, responsible for filtering out bad or unfair assessments made by CAs.
-* Engaged community members and projects: every community member, and all projects connected to Catalyst, who help out proposers and contribute to the ecosystem.
+* **Proposers**: individuals and groups with ideas and projects looking for funding through Catalyst.
+* **Voters**: every ADA holder who wishes to participate in the Catalyst voting process.
+* **Community Advisors \(CAs**\): community members who provide feedback and assess proposals, trying to help both proposers and voters.
+* **Veteran Community Advisors \(vCAs**\): CAs who have successfully participated in a previous Fund, responsible for filtering out bad or unfair assessments made by CAs.
+* **Engaged community members and project**s: every community member, and all projects connected to Catalyst, who help out proposers and contribute to the ecosystem.
 
 Each of these community members plays an important role in Project Catalyst. In order for Catalyst to flourish and reach its full potential, all these roles need to give their best contribution within the process.
 
@@ -87,18 +87,18 @@ We are a group of 11 people of diverse backgrounds, but two common passions: Cat
 
 Go on and get to know our team:
 
-* Alejo Escrivá: Product & Growth Marketing consultor, business analytics MBA, Industrial Designer, and Entrepreneur with 8+ years shaping lovable products and communities. Founder @Cardano\_Hispano.
-* Dominik Tilman: Community Advisor, funded proposer, Catalyst Swarm core member, business background
-* Felix Weber: enthusiast & community networker, T&M's elected representative for the 1st Catalyst Circle, co-founder of Catalyst Swarm, co-initiator & coordinator of the Eastern Hemisphere Town Hall, initiator of the Catalyst Alliance.
-* George Lovegrove: Web / mobile developer, active community member, and projectcatalyst.org creator that helps improve Catalyst resources and tooling.
-* Kerstin Nobel: Digital education researcher, university lecturer for digital education in Germany and Luxembourg, academic peer-reviewer, Community Advisor \(CA\).
-* Lucio Baglione: Web / mobile developer with 9+ years of experience. CA and vCA, co-creator of the Community Tools \(Proposer/CA/vCA/Voter Tools\).
-* Raz: Interdisciplinary trained academic, educator and mentor, sustainability professional with 13+ years of multi-sectoral experience, experienced curriculum and course designer, independent researcher and writer, proposal mentor, UN SDG coordinator/education, curriculum advisor - WADA, co-founder - Sustainable ADA, education, and sustainability lead - Global Policy House, founder, and publishing editor - Bona Fide Info.
-* Simon Fleck: Catalyst Swarm core member, Cardano enthusiast since 2018, IT background.
-* Stefan Montalbetti: Certified Educator \(Canadian B. Ed.\), Facilitator \(7+ years of experience\), Disruptor - Member of the Catalyst Swarm with a keen desire to unlock the potential of individuals and bridge gaps to that potential. Foundations: Empathy, Inclusion, Communication, and Critical & Creative Thinking.
-* Stephen Whitenstall: Stephen Whitenstall has 30 years of experience in organizing academic, community, and business projects. He develops, maintains documentation, and provides technical project management support for Catalyst Swarm. As QA-DAO he tracks and documents the Catalyst Circle and maintains 'Ekphrasis' a repository of academic content from across the Cardano community.
-* Tevo Saks: I enjoy documenting systems and procedures that will achieve specific goals in an efficient way. Active participant in Catalyst since Fund 1, Catalyst Swarm core member, experienced Proposer, and Veteran Community Advisor.
-* Victor Corcino: Veteran Community Advisor \(vCA\), Proposal Mentor, CAs' elected representative for the 1st Catalyst Circle, co-creator of the Community Tools \(Proposer/CA/vCA/Voter Tools\), Catalyst Swarm core member, engineering/science/developer, and 'hands-on' teaching background.
+* **Alejo Escrivá**: Product & Growth Marketing consultor, business analytics MBA, Industrial Designer, and Entrepreneur with 8+ years shaping lovable products and communities. Founder @Cardano\_Hispano.
+* **Dominik Tilman**: Community Advisor, funded proposer, Catalyst Swarm core member, business background
+* **Felix Weber**: enthusiast & community networker, T&M's elected representative for the 1st Catalyst Circle, co-founder of Catalyst Swarm, co-initiator & coordinator of the Eastern Hemisphere Town Hall, initiator of the Catalyst Alliance.
+* **George Lovegrove**: Web / mobile developer, active community member, and projectcatalyst.org creator that helps improve Catalyst resources and tooling.
+* **Kerstin Nobel**: Digital education researcher, university lecturer for digital education in Germany and Luxembourg, academic peer-reviewer, Community Advisor \(CA\).
+* **Lucio Baglione**: Web / mobile developer with 9+ years of experience. CA and vCA, co-creator of the Community Tools \(Proposer/CA/vCA/Voter Tools\).
+* **Raz**: Interdisciplinary trained academic, educator and mentor, sustainability professional with 13+ years of multi-sectoral experience, experienced curriculum and course designer, independent researcher and writer, proposal mentor, UN SDG coordinator/education, curriculum advisor - WADA, co-founder - Sustainable ADA, education, and sustainability lead - Global Policy House, founder, and publishing editor - Bona Fide Info.
+* **Simon Fleck**: Catalyst Swarm core member, Cardano enthusiast since 2018, IT background.
+* **Stefan Montalbetti**: Certified Educator \(Canadian B. Ed.\), Facilitator \(7+ years of experience\), Disruptor - Member of the Catalyst Swarm with a keen desire to unlock the potential of individuals and bridge gaps to that potential. Foundations: Empathy, Inclusion, Communication, and Critical & Creative Thinking.
+* **Stephen Whitenstall**: Stephen Whitenstall has 30 years of experience in organizing academic, community, and business projects. He develops, maintains documentation, and provides technical project management support for Catalyst Swarm. As QA-DAO he tracks and documents the Catalyst Circle and maintains 'Ekphrasis' a repository of academic content from across the Cardano community.
+* **Tevo Saks**: I enjoy documenting systems and procedures that will achieve specific goals in an efficient way. Active participant in Catalyst since Fund 1, Catalyst Swarm core member, experienced Proposer, and Veteran Community Advisor.
+* **Victor Corcino**: Veteran Community Advisor \(vCA\), Proposal Mentor, CAs' elected representative for the 1st Catalyst Circle, co-creator of the Community Tools \(Proposer/CA/vCA/Voter Tools\), Catalyst Swarm core member, engineering/science/developer, and 'hands-on' teaching background.
 
 ## Our 6-month Budget
 
