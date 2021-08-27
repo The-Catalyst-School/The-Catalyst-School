@@ -6,8 +6,8 @@ Project Catalyst proposals with the potential to bring the utmost value to Carda
 
 | Challenge | Proposal Title | Ideascale Link |
 | :--- | :--- | :--- |
-| F6: Catalyst value onboarding : | The Catalyst School | [ 	https://cardano.ideascale.com/a/dtd/The-Catalyst-School/367842-48088/?ltclid=2f6486b7-13e4-4656-b119-3061417f079b](%20	https://cardano.ideascale.com/a/dtd/The-Catalyst-School/367842-48088/?ltclid=2f6486b7-13e4-4656-b119-3061417f079b) |
-| F6: Catalyst value onboarding : | The Catalyst School - Website | [https://cardano.ideascale.com/a/dtd/The-Catalyst-School-Website/368885-48088](https://cardano.ideascale.com/a/dtd/The-Catalyst-School-Website/368885-48088) |
+| F6: Catalyst value onboarding : | The Catalyst School | [ ](%20	https://cardano.ideascale.com/a/dtd/The-Catalyst-School/367842-48088/?ltclid=2f6486b7-13e4-4656-b119-3061417f079b)[The Catalyst School](https://cardano.ideascale.com/a/dtd/The-Catalyst-School/367842-48088/?ltclid=2f6486b7-13e4-4656-b119-3061417f079b) |
+| F6: Catalyst value onboarding : | The Catalyst School - Website | [The Catalyst School - Website](https://cardano.ideascale.com/a/dtd/The-Catalyst-School-Website/368885-48088) |
 
 ### The Website
 
