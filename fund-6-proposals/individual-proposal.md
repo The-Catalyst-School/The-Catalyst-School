@@ -22,6 +22,7 @@ As such, Catalyst School aims to ensure the community is sufficiently equipped t
 | F6: Multilingual resources | CatalystSchool - Eastern Hemisphere | [CatalystSchool - Eastern Hemisphere](https://cardano.ideascale.com/a/dtd/CatalystSchool-Eastern-Hemisphere/369845-48088) |
 | F6: Grow Africa, Grow Cardano | TheCatalystSchool - Focusing Africa | [TheCatalystSchool - Focusing Africa](https://cardano.ideascale.com/a/dtd/TheCatalystSchool-Focusing-Africa/368891-48088) |
 | F6: Catalyst value onboarding | The Catalyst School - NFT Rewards | [The Catalyst School - NFT Rewards](https://cardano.ideascale.com/a/dtd/The-Catalyst-School-NFT-Rewards/368881-48088) |
+| F6: Catalyst value onboarding | WADA Uni Students Catalyst Registry | [WADA Uni Students Catalyst Registry](https://cardano.ideascale.com/a/dtd/WADA-Uni-Students-Catalyst-Registry/370220-48088) |
 
 ## The Website
 
