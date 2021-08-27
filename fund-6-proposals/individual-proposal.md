@@ -4,7 +4,7 @@ description: An Overview of Catalyst School Proposals
 
 # Summary
 
-## The Catalyst School
+## F6: Catalyst value onboarding : The Catalyst School
 
 Project Catalyst proposals with the potential to bring the utmost value to Cardano and beyond might receive little to no votes as Proposers, Advisors, and Voters wrestle with existing challenges at several stages of their respective processes. 
 
