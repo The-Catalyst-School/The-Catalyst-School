@@ -20,6 +20,7 @@ As such, Catalyst School aims to ensure the community is sufficiently equipped t
 | F6: Catalyst value onboarding  | The Catalyst School - Website | [The Catalyst School - Website](https://cardano.ideascale.com/a/dtd/The-Catalyst-School-Website/368885-48088) |
 | F6: Multilingual resources | The Catalyst School - Multilanguage | [The Catalyst School - Multilanguage](https://cardano.ideascale.com/a/dtd/The-Catalyst-School-Multilanguage/368887-48088) |
 | F6: Multilingual resources | CatalystSchool - Eastern Hemisphere | [CatalystSchool - Eastern Hemisphere](https://cardano.ideascale.com/a/dtd/CatalystSchool-Eastern-Hemisphere/369845-48088) |
+| F6: Grow Africa, Grow Cardano | TheCatalystSchool - Focusing Africa | [TheCatalystSchool - Focusing Africa](https://cardano.ideascale.com/a/dtd/TheCatalystSchool-Focusing-Africa/368891-48088) |
 
 ## The Website
 
