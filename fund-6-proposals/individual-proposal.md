@@ -14,6 +14,26 @@ As such, Catalyst School aims to ensure the community is sufficiently equipped t
 
 ## F6: Catalyst value onboarding : The Catalyst School - Website
 
+Project
+
+## F6: Multilingual resources : The Catalyst School - Multilanguage
+
+Project
+
+## F6: Multilingual resources : Grow East Asia, Grow Cardano
+
+Project
+
+## F6: Grow Africa, Grow Cardano : TheCatalystSchool - Focusing Africa
+
+Project
+
+## F6: Catalyst value onboarding : The Catalyst School - NFT Rewards
+
+Project
+
+
+
 ## A list of our Proposals 
 
 | Challenge | Proposal Title | Ideascale Link |
