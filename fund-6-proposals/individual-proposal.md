@@ -32,7 +32,13 @@ Project
 
 Project
 
+## F6: Catalyst value onboarding : WADA Uni Students Catalyst Registry
 
+Project
+
+## F6: Fund7 challenge setting : Grow East Asia, Grow Cardano
+
+Project
 
 ## A list of our Proposals 
 
