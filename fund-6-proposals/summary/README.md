@@ -10,9 +10,9 @@ Project Catalyst proposals with the potential to bring the utmost value to Carda
 
 Catalyst School is a hub actively striving to ensure that Project Catalyst flourishes, by empowering all participants with the necessary tools/knowledge and skills to reach their full potential. Project Catalyst is nothing without its community. 
 
-As such, Catalyst School aims to ensure the community is sufficiently equipped to participate in Project Catalyst in meaningful, impactful and positive ways. This can in turn catalyse actions that feed into positive feedback loops that ripple within and beyond the Project Catalyst Ecosystem.
+As such, Catalyst School aims to ensure the community is sufficiently equipped to participate in Project Catalyst in meaningful, impactful, and positive ways. This can in turn catalyze actions that feed into positive feedback loops that ripple within and beyond the Project Catalyst Ecosystem.
 
-[Check out proposal details &gt;](f6-catalyst-value-onboarding-the-catalyst-school.md)
+[Check out proposal details &gt;](f6-the-catalyst-school.md)
 
 ## F6: Catalyst value onboarding: The Catalyst School - Website
 
