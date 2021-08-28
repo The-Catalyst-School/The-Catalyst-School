@@ -12,7 +12,7 @@ Catalyst School is a hub actively striving to ensure that Project Catalyst flour
 
 As such, Catalyst School aims to ensure the community is sufficiently equipped to participate in Project Catalyst in meaningful, impactful, and positive ways. This can in turn catalyze actions that feed into positive feedback loops that ripple within and beyond the Project Catalyst Ecosystem.
 
-[Check out proposal details &gt;](f6-the-catalyst-school.md)
+[Check out proposal details &gt;](the-catalyst-school.md)
 
 ## F6: Catalyst value onboarding: The Catalyst School - Website
 

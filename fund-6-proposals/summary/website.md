@@ -2,7 +2,7 @@
 description: This is a side proposal to The Catalyst School
 ---
 
-# F6: Catalyst value onboarding: The Catalyst School's Website
+# F6: Catalyst value onboarding: The Catalyst School - Website
 
 [Go to IdeaScale Proposal &gt;](https://cardano.ideascale.com/a/dtd/The-Catalyst-School-Website/368885-48088)
 
