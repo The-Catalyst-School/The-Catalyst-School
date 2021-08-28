@@ -1,6 +1,6 @@
 # F6: Multilingual resources: The Catalyst School - Multilanguage
 
-[Go to IdeaScale Proposal &gt;](https://cardano.ideascale.com/a/dtd/The-Catalyst-School-Website/368885-48088)
+[Go to IdeaScale Proposal &gt;](https://cardano.ideascale.com/a/dtd/The-Catalyst-School-Multilanguage/368887-48088)
 
 ### **Problem statement**
 
