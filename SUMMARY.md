@@ -4,9 +4,15 @@
 
 ## Fund 6 Proposals
 
-* [Summary](fund-6-proposals/summary/README.md)
+* [Summaries](fund-6-proposals/summary/README.md)
   * [F6: Catalyst value onboarding: The Catalyst School](fund-6-proposals/summary/the-catalyst-school.md)
   * [F6: Catalyst value onboarding: The Catalyst School - Website](fund-6-proposals/summary/website.md)
+  * [F6: Multilingual resources: The Catalyst School - Multilanguage](fund-6-proposals/summary/multilanguage.md)
+  * [F6: Multilingual resources: Grow East Asia, Grow Cardano](fund-6-proposals/summary/grow-east-asia-grow-cardano.md)
+  * [F6: Grow Africa, Grow Cardano: TheCatalystSchool - Focusing Africa](fund-6-proposals/summary/f6-grow-africa-grow-cardano-thecatalystschool-focusing-africa.md)
+  * [F6: Catalyst value onboarding: The Catalyst School - NFT Rewards](fund-6-proposals/summary/f6-catalyst-value-onboarding-the-catalyst-school-nft-rewards.md)
+  * [F6: Catalyst value onboarding: WADA Uni Students Catalyst Registry](fund-6-proposals/summary/f6-catalyst-value-onboarding-wada-uni-students-catalyst-registry.md)
+  * [F6: Fund7 challenge setting: Grow East Asia, Grow Cardano](fund-6-proposals/summary/f6-fund7-challenge-setting-grow-east-asia-grow-cardano.md)
 
 ## Meetings
 
