@@ -22,32 +22,26 @@ Efficient and inclusive learning requires to be accessible from anywhere in the 
 
 ## F6: Multilingual resources: The Catalyst School - Multilanguage
 
-Summary here  
 [Check out proposal details &gt;](multilanguage.md)
 
 ## F6: Multilingual resources: Grow East Asia, Grow Cardano
 
-Summary here  
 [Check out proposal details &gt;](grow-east-asia-grow-cardano.md)
 
 ## F6: Grow Africa, Grow Cardano: TheCatalystSchool - Focusing Africa
 
-Summary here  
 [Check out proposal details &gt;](focusing-africa.md)
 
 ## F6: Catalyst value onboarding: The Catalyst School - NFT Rewards
 
-Summary here  
 [Check out proposal details &gt;](nft-rewards.md)
 
 ## F6: Catalyst value onboarding: WADA Uni Students Catalyst Registry
 
-Summary here  
 [Check out proposal details &gt;](wada.md)
 
 ## F6: Fund7 challenge setting: Grow East Asia, Grow Cardano
 
-Summary here  
 [Check out proposal details &gt;](fund7-challenge.md)
 
 ## A list of our Proposals 
