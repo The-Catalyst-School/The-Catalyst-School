@@ -17,7 +17,7 @@ As such, Catalyst School aims to ensure the community is sufficiently equipped t
 ## F6: Catalyst value onboarding: The Catalyst School - Website
 
 Summary here  
-Check out proposal details &gt;
+[Check out proposal details &gt;](../../website/untitled.md)
 
 ## F6: Multilingual resources: The Catalyst School - Multilanguage
 
