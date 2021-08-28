@@ -33,17 +33,17 @@ Summary here
 ## F6: Grow Africa, Grow Cardano: TheCatalystSchool - Focusing Africa
 
 Summary here  
-Check out proposal details &gt;
+[Check out proposal details &gt;](focusing-africa.md)
 
 ## F6: Catalyst value onboarding: The Catalyst School - NFT Rewards
 
 Summary here  
-Check out proposal details &gt;
+[Check out proposal details &gt;](nft-rewards.md)
 
 ## F6: Catalyst value onboarding: WADA Uni Students Catalyst Registry
 
 Summary here  
-Check out proposal details &gt;
+[Check out proposal details &gt;](wada.md)
 
 ## F6: Fund7 challenge setting: Grow East Asia, Grow Cardano
 
