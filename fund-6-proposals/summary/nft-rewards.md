@@ -1,3 +1,7 @@
+---
+description: This is a side proposal to The Catalyst School
+---
+
 # F6: Catalyst value onboarding: The Catalyst School - NFT Rewards
 
 [Go to IdeaScale Proposal &gt;](https://cardano.ideascale.com/a/dtd/The-Catalyst-School-NFT-Rewards/368881-48088)
