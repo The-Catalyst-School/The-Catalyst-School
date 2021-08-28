@@ -16,8 +16,9 @@ As such, Catalyst School aims to ensure the community is sufficiently equipped t
 
 ## F6: Catalyst value onboarding: The Catalyst School - Website
 
-Summary here  
-[Check out proposal details &gt;](../../website/untitled.md)
+Efficient and inclusive learning requires to be accessible from anywhere in the world, at any time, in any language, for free. The Catalyst School's website enhances the learning experience of students through customized learning accesible 24/7, multimedia and interactive lessons.
+
+[Check out proposal details &gt;](website.md)
 
 ## F6: Multilingual resources: The Catalyst School - Multilanguage
 
