@@ -1,7 +1,8 @@
 ---
 description: >-
-  Catalyst School is a place that enhances Project Catalyst by improving the
-  contribution of all its different players and roles.
+  Catalyst School is a learning hub that aims to accelerate the adoption of
+  Cardano's Project Catalyst and to ensure that it thrives and reaches its full
+  potential, faster.
 ---
 
 # The-Catalyst-School

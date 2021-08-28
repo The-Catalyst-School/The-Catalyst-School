@@ -23,12 +23,12 @@ Efficient and inclusive learning requires to be accessible from anywhere in the 
 ## F6: Multilingual resources: The Catalyst School - Multilanguage
 
 Summary here  
-Check out proposal details &gt;
+[Check out proposal details &gt;](multilanguage.md)
 
 ## F6: Multilingual resources: Grow East Asia, Grow Cardano
 
 Summary here  
-Check out proposal details &gt;
+[Check out proposal details &gt;](grow-east-asia-grow-cardano.md)
 
 ## F6: Grow Africa, Grow Cardano: TheCatalystSchool - Focusing Africa
 
@@ -48,7 +48,7 @@ Check out proposal details &gt;
 ## F6: Fund7 challenge setting: Grow East Asia, Grow Cardano
 
 Summary here  
-Check out proposal details &gt;
+[Check out proposal details &gt;](fund7-challenge.md)
 
 ## A list of our Proposals 
 
