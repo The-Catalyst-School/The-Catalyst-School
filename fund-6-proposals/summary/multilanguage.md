@@ -1,3 +1,7 @@
+---
+description: This is a side proposal to The Catalyst School
+---
+
 # F6: Multilingual resources: The Catalyst School - Multilanguage
 
 [Go to IdeaScale Proposal &gt;](https://cardano.ideascale.com/a/dtd/The-Catalyst-School-Multilanguage/368887-48088)

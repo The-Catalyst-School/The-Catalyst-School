@@ -1,3 +1,7 @@
+---
+description: This is a side proposal to The Catalyst School
+---
+
 # F6: Multilingual resources: Grow East Asia, Grow Cardano
 
 [Go to IdeaScale Proposal &gt;](https://cardano.ideascale.com/a/dtd/CatalystSchool-Eastern-Hemisphere/369845-48088)

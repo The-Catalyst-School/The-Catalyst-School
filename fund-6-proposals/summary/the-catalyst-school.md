@@ -1,3 +1,7 @@
+---
+description: This is our main proposal
+---
+
 # F6: Catalyst value onboarding: The Catalyst School
 
 [Go to IdeaScale Proposal &gt;](https://cardano.ideascale.com/a/dtd/The-Catalyst-School/367842-48088/?ltclid=2f6486b7-13e4-4656-b119-3061417f079b)
