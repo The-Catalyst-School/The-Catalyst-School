@@ -21,6 +21,7 @@
 
 ## Community Advisor School
 
+* [Introduction to Catalyst](community-advisor-school/introduction-to-catalyst.md)
 * [General Information](community-advisor-school/general-information.md)
 * [Class 1: What is Catalyst?](community-advisor-school/class-1-what-is-catalyst-1.md)
 * [Class 2: How to make a good proposal?](community-advisor-school/class-2-how-to-make-a-good-proposal.md)
