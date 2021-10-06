@@ -2,7 +2,7 @@
 description: >-
   Catalyst School is a learning hub that aims to accelerate the adoption of
   Cardano's Project Catalyst and to ensure that it thrives and reaches its full
-  potential, faster. This is thPortuguese version.
+  potential, faster. Portuguese version.
 ---
 
 # The-Catalyst-School
