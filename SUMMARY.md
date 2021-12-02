@@ -33,7 +33,7 @@
 * [Proposers Guide](educational-resources/proposers-guide.md)
 * [How to make a proposal](educational-resources/how-to-make-a-proposal.md)
 
-## MicroTask/Development Challenge <a id="microtask-development-challenge-1"></a>
+## MicroTask/Development Challenge <a href="#microtask-development-challenge-1" id="microtask-development-challenge-1"></a>
 
 * [MicroTask/Development Challenge](microtask-development-challenge-1/microtask-development-challenge.md)
 * [First Iteration - Saturday Swarm](microtask-development-challenge-1/first-iteration-saturday-swarm-24th-july-2021.md)
@@ -55,14 +55,13 @@
 ## Website
 
 * [Website](website/untitled.md)
-* [Untitled](website/untitled-1.md)
+* [Example elements](website/untitled-1.md)
 
 ## Media
 
 * [Youtube channel](media/media.md)
 
----
+***
 
 * [Kerstin´s Chaos Club](kerstin-s-chaos-club/README.md)
   * [How not to](kerstin-s-chaos-club/how-not-to.md)
-
