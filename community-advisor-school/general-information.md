@@ -6,7 +6,7 @@ description: General Information about Catalyst / CA School
 
 Source presentation :
 
-{% embed url="https://docs.google.com/presentation/d/1Q13thx\_w0v\_tiTheJQMpw7dAMWX29apaulcWuNHQDWM/edit\#slide=id.g7ae63f5c33\_0\_43" %}
+{% embed url="https://docs.google.com/presentation/d/1Q13thx_w0v_tiTheJQMpw7dAMWX29apaulcWuNHQDWM/edit#slide=id.g7ae63f5c33_0_43" %}
 
 
 
@@ -16,4 +16,3 @@ Source presentation :
 * We might not be able to answer all your questions, but we can research and learn together
 
 ![](../.gitbook/assets/2021-07-21-5-.png)
-

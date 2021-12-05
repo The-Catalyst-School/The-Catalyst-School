@@ -4,9 +4,9 @@ description: This is a side proposal to The Catalyst School
 
 # F6: Catalyst value onboarding: The Catalyst School - Website
 
-[Go to IdeaScale Proposal &gt;](https://cardano.ideascale.com/a/dtd/The-Catalyst-School-Website/368885-48088)
+[Go to IdeaScale Proposal >](https://cardano.ideascale.com/a/dtd/The-Catalyst-School-Website/368885-48088)
 
-### **Problem statement** 
+### **Problem statement**&#x20;
 
 The learning experience in the Catalyst School can be more attractive to people who don't like to participate in live sessions and interact.
 
@@ -16,9 +16,9 @@ Enrich a diversify the learning experience of the catalyst school students using
 
 ## **Relevant experience**
 
-Veteran advisors and proposal mentors, education professionals, very active Catalyst community members since early Funds and more. 
+Veteran advisors and proposal mentors, education professionals, very active Catalyst community members since early Funds and more.&#x20;
 
-**Website/GitHub repository \(not required\)** [https://linktr.ee/CatalystSchool](https://linktr.ee/CatalystSchool)\*\*\*\*
+**Website/GitHub repository (not required)** [https://linktr.ee/CatalystSchool](https://linktr.ee/CatalystSchool)****
 
 ## **Detailed plan**
 
@@ -34,36 +34,36 @@ The website will include a mechanism to import in an automatic way these resourc
 
 ## **Features included in the website:**
 
-- Import mechanism from Git and Markdown of resources/courses/workshops
+\- Import mechanism from Git and Markdown of resources/courses/workshops
 
 * Using a defined standard in the Markdown file organization it will be possible to parse and import the content in the website environment
 
-- Courses and Workshops
+\- Courses and Workshops
 
 * Content and resources from the public repo can be reorganized in new courses / workshops
 
-- Quiz & Test
+\- Quiz & Test
 
 * For each course and lesson it will possible to create quizzes and tests that the students can use to self-evaluate their progress and gamifying the learning experience
 
-- Questions
+\- Questions
 
 * Students will be able to ask questions through the website, contributing to the creation of a FAQ section for each resource.
 
-- Events and Calendar
+\- Events and Calendar
 
-* A specific section of the website will collect all the events related to the Catalyst School \(like workshops in the After / Eastern Town Hall\)
+* A specific section of the website will collect all the events related to the Catalyst School (like workshops in the After / Eastern Town Hall)
 * Students will be able to subscribe to an event in order to get updates
 * Events could be in a private form and created by the students to incentivize the creation of study groups
 
-- Students registration
+\- Students registration
 
-* Progress tracking of specific courses \(tracking by lessons completed, final quiz, test, etc.\)
+* Progress tracking of specific courses (tracking by lessons completed, final quiz, test, etc.)
 * Follow-up emails and Mailing list
 * Creation of study groups
-* Certification -&gt; NFT certifications with side-proposal
+* Certification -> NFT certifications with side-proposal
 
-- Multilanguage support
+\- Multilanguage support
 
 ## **Technical specifications**
 
@@ -73,7 +73,7 @@ As described before the website will act as an additional layer of features for 
 
 Therefore, the domain model of the website will include the "imported/mapped" models integrating them with all the entities required for the features.
 
-Here is the Domain Model draft: [https://miro.com/app/board/o9J\_l-LVKTI=/?moveToWidget=3074457362542502107&cot=10](https://miro.com/app/board/o9J_l-LVKTI=/?moveToWidget=3074457362542502107&cot=10)
+Here is the Domain Model draft: [https://miro.com/app/board/o9J\_l-LVKTI=/?moveToWidget=3074457362542502107\&cot=10](https://miro.com/app/board/o9J\_l-LVKTI=/?moveToWidget=3074457362542502107\&cot=10)
 
 ## **Development roadmap & Milestones**
 
@@ -90,4 +90,3 @@ Under construction!
 ## **Requested funds in USD:** 7
 
 **Proposals that haven't indicated that they have included all items in the checklist by end of the proposal Finalize stage, will not be eligible for voting and will be archived.** Received emails from communications@iohk.io, Submitted this proposal to only one challenge, Included identifying information about all proposers, How my proposal impacts the challenge metrics, How I address the challenge question, Definition of success after 3, 6 and 12 months, Broken down my budget requirements, Defined expected public launch date.
-

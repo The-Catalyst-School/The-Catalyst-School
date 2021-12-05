@@ -1,5 +1,5 @@
 ---
-description: 'Second Iteration - Wednesday After Town Hall, 28th July 2021'
+description: Second Iteration - Wednesday After Town Hall, 28th July 2021
 ---
 
 # Second Iteration - After Town Hall
@@ -36,9 +36,7 @@ description: 'Second Iteration - Wednesday After Town Hall, 28th July 2021'
 
 ## Miro Board Link
 
-{% embed url="https://miro.com/app/board/o9J\_l4ncJr8=/" %}
-
-
+{% embed url="https://miro.com/app/board/o9J_l4ncJr8=/" %}
 
 
 

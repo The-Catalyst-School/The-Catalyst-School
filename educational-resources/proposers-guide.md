@@ -19,9 +19,9 @@ The purpose of the following instructions is to provide clear guidelines to prop
 
 Currently, proposers need to manually search through multiple sources of information in order to gauge the requirement for a successful proposal. The following information outlined below should help them achieve this faster, allowing for more time spent on the proposal itself. As a result, higher quality proposals are expected in the following Funds. Community will be able to shift focus towards suggesting improvements of the actual project vs improvements of the written proposals.
 
-**For a more detailed example of proposal writing, visit this** [**guide**](https://docs.google.com/document/d/1oE_cnP0gksdAanXV4w5DYaDNp_tbYEvyHhTUG4HYZ3Q/edit?disco=AAAAG42-Ypk&ts=5f4ffe33&usp_dm=true)
+**For a more detailed example of proposal writing, visit this** [**guide**](https://docs.google.com/document/d/1oE\_cnP0gksdAanXV4w5DYaDNp\_tbYEvyHhTUG4HYZ3Q/edit?disco=AAAAG42-Ypk\&ts=5f4ffe33\&usp\_dm=true)
 
-[**General Project Catalyst FAQ**](https://docs.google.com/document/u/0/d/1qYtV15WXeM_AQYvISzr0a0Qj2IzW3hDvhMBvZZ4w2jE/edit)
+[**General Project Catalyst FAQ**](https://docs.google.com/document/u/0/d/1qYtV15WXeM\_AQYvISzr0a0Qj2IzW3hDvhMBvZZ4w2jE/edit)
 
 ## Contents
 
@@ -55,7 +55,7 @@ Are you a seasoned professional who gained recognition in your own field? Maybe 
 
 The devil is in the details. Now is your chance to break it all down. You can supplement your strategy with video presentation and links. Anything that will help the reader to understand you better. Be ready for the Community to provide you with some constructive criticism and feedback. This will be done via comment section and later during the review phase. Good thing is you can always make adjustments up until the review phase kicks in!
 
-\[GitHub\] \[LinkedIn\] \[YouTube\]
+\[GitHub] \[LinkedIn] \[YouTube]
 
 ### Let’s talk money
 
@@ -67,7 +67,7 @@ There are a lot of requirements and specifications to follow for a proposer, and
 
 ### Ask for help!
 
-Noone is all powerful and mighty, we are all just mere humans. But in numbers our strength lies. So reach out! Ask for help. Assemble your team and make sure to include them in the proposal :\) Use the tags provided by Ideascale to help people find you!
+Noone is all powerful and mighty, we are all just mere humans. But in numbers our strength lies. So reach out! Ask for help. Assemble your team and make sure to include them in the proposal :) Use the tags provided by Ideascale to help people find you!
 
 ### Keep trying!
 
@@ -77,7 +77,5 @@ Good Luck!
 
 ## Source Document
 
-{% embed url="https://docs.google.com/document/d/12wk6mIPxeGsw2WxqHvkTkjNj\_wCIx46AgTNPVX3-38o/edit\#heading=h.3at9u9s4e0vp" %}
-
-
+{% embed url="https://docs.google.com/document/d/12wk6mIPxeGsw2WxqHvkTkjNj_wCIx46AgTNPVX3-38o/edit#heading=h.3at9u9s4e0vp" %}
 

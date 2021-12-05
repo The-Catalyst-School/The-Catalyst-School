@@ -10,7 +10,7 @@ description: Page description
 
 #### Heading 3
 
-This is an example paragraph with **bold**, _italic_, ~~strikethrough~~ and [links](untitled-1.md#heading-1). **Lorem ipsum dolor** sit amet, _consectetur adipiscing elit._ Aenean eu massa ac ex porta pharetra. ~~Sed viverra, quam sed~~ semper venenatis, [nibh felis pulvinar libero](untitled-1.md#heading-1), sit amet semper purus libero vel turpis. Integer sagittis augue in justo pharetra consequat. Etiam quis magna consectetur, tempor est eu, cursus nunc. Quisque dui eros, feugiat non libero vel, euismod accumsan erat. Vivamus in risus lacinia, egestas magna vel, imperdiet velit. Duis placerat fringilla diam vitae gravida. Nam sed euismod nunc. Vivamus hendrerit eleifend nibh vitae egestas. Etiam vel pharetra urna.
+This is an example paragraph with **bold**, _italic_, ~~strikethrough~~ and [links](./#heading-1). **Lorem ipsum dolor** sit amet, _consectetur adipiscing elit._ Aenean eu massa ac ex porta pharetra. ~~Sed viverra, quam sed~~ semper venenatis, [nibh felis pulvinar libero](./#heading-1), sit amet semper purus libero vel turpis. Integer sagittis augue in justo pharetra consequat. Etiam quis magna consectetur, tempor est eu, cursus nunc. Quisque dui eros, feugiat non libero vel, euismod accumsan erat. Vivamus in risus lacinia, egestas magna vel, imperdiet velit. Duis placerat fringilla diam vitae gravida. Nam sed euismod nunc. Vivamus hendrerit eleifend nibh vitae egestas. Etiam vel pharetra urna.
 
 * Example unordered list
 * Lorem
@@ -45,11 +45,11 @@ Example Success box. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ae
 
 > Example quote box. Example Hint box. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eu massa ac ex porta pharetra. Sed viverra, quam sed semper venenatis, nibh felis pulvinar libero, sit amet semper purus libero vel turpis.
 
-{% file src="../.gitbook/assets/2021-08-12-1-.png" %}
+{% file src="../../.gitbook/assets/2021-08-12-1-.png" %}
 Example file box
 {% endfile %}
 
-![Example image box](../.gitbook/assets/2021-08-12-1-.png)
+![Example image box](../../.gitbook/assets/2021-08-12-1-.png)
 
 {% embed url="https://www.youtube.com/watch?v=8SdNymOuKXI" %}
 Example embed

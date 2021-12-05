@@ -4,7 +4,7 @@ description: This is a side proposal to The Catalyst School
 
 # F6: Catalyst value onboarding: The Catalyst School - NFT Rewards
 
-[Go to IdeaScale Proposal &gt;](https://cardano.ideascale.com/a/dtd/The-Catalyst-School-NFT-Rewards/368881-48088)
+[Go to IdeaScale Proposal >](https://cardano.ideascale.com/a/dtd/The-Catalyst-School-NFT-Rewards/368881-48088)
 
 ### **Problem statement**
 
@@ -18,7 +18,7 @@ Experiment with NFTs as rewards for participation within Catalyst School to dete
 
 Veteran advisors and proposal mentors, education professionals, very active Catalyst community members since early Funds and more.
 
-**Website/GitHub repository \(not required\)** [https://linktr.ee/CatalystSchool](https://linktr.ee/CatalystSchool)\*\*\*\*
+**Website/GitHub repository (not required)** [https://linktr.ee/CatalystSchool](https://linktr.ee/CatalystSchool)****
 
 ## **Detailed plan**
 
@@ -55,8 +55,8 @@ The following are some initial NFT ideas we are considering to use within the Ca
 The following ideas are ones that require more reflection and time. We may use them alongside of or instead of some of the initial NFT ideas if we believe they may be more impactful:
 
 * "Top Learner" NFT - Distributed to students who complete quizzes or competitions after a workshop or on the website. We are looking at where quizzes or competitions may make sense before introducing this NFT.
-* "Serial Asker" NFT - Reserved for particularly active students \(asking questions / offering new ideas and perspectives\) during workshops or on the school's Discord channel. A key thought to this idea is whether the reward could drive disruptive behaviour for the sake of receiving the NFT.
-* "Perceptive Learner" NFT - In the resources produced by the Catalyst School \(documents / video / live events\) there will be hidden links, unique for each resource, which can be used to obtain the related NFT. Where possible, like for the resources served by the website, these links will be randomly placed. On this idea we are still thinking how it may be implemented and also how we could prevent it being gamified.
+* "Serial Asker" NFT - Reserved for particularly active students (asking questions / offering new ideas and perspectives) during workshops or on the school's Discord channel. A key thought to this idea is whether the reward could drive disruptive behaviour for the sake of receiving the NFT.
+* "Perceptive Learner" NFT - In the resources produced by the Catalyst School (documents / video / live events) there will be hidden links, unique for each resource, which can be used to obtain the related NFT. Where possible, like for the resources served by the website, these links will be randomly placed. On this idea we are still thinking how it may be implemented and also how we could prevent it being gamified.
 
 ## **Future scope**
 
@@ -114,17 +114,15 @@ Go on and get to know our team:
 
 * **Alejo Escrivá**: Marketing consultor and entrepreneur experienced in shaping lovable products and growing communities. Founder @Cardano-Hispano.
 * **Dominik Tilman**: Community Advisor, funded proposer, Catalyst Swarm core member, business background
-* **Felix Weber**: enthusiast & community networker, T&M's elected representative for the 1st Catalyst Circle, co-founder of Catalyst Swarm, co-initiator & coordinator of the Eastern Hemisphere Town Hall, initiator of the Catalyst Alliance.
+* **Felix Weber**: enthusiast & community networker, T\&M's elected representative for the 1st Catalyst Circle, co-founder of Catalyst Swarm, co-initiator & coordinator of the Eastern Hemisphere Town Hall, initiator of the Catalyst Alliance.
 * **George Lovegrove**: Web / mobile developer, active community member and projectcatalyst.org creator that helps improve Catalyst resources and tooling.
-* **Kerstin Nobel**: Digital education researcher, university lecturer for digital education in Germany and Luxembourg, academic peer-reviewer, Community Advisor \(CA\).
-* **Lucio Baglione**: Web / mobile developer with 9+ years of experience. CA and vCA, co-creator of the Community Tools \(Proposer/CA/vCA/Voter Tools\).
+* **Kerstin Nobel**: Digital education researcher, university lecturer for digital education in Germany and Luxembourg, academic peer-reviewer, Community Advisor (CA).
+* **Lucio Baglione**: Web / mobile developer with 9+ years of experience. CA and vCA, co-creator of the Community Tools (Proposer/CA/vCA/Voter Tools).
 * **Raz Samsudin**: Interdisciplinary trained academic, educator and mentor, sustainability professional with 13+ years of multi sectoral experience, experienced curriculum and course designer, independent researcher and writer, proposal mentor, UN SDG coordinator/education, curriculum advisor - WADA, co-founder - Sustainable ADA, education and sustainability lead - Global Policy House, founder and publishing editor - Bona Fide Info.
 * **Simon Fleck**: Catalyst Swarm core member, Cardano enthusiast since 2018, IT background.
-* **Stefan Montalbetti**: Certified Educator \(Canadian B. Ed.\), Facilitator \(7+ years of experience\), Disruptor - Member of the Catalyst Swarm with a keen desire to unlock the potential of individuals and bridge gaps to that potential. Foundations: Empathy, Inclusion, Communication, and Critical & Creative Thinking.
+* **Stefan Montalbetti**: Certified Educator (Canadian B. Ed.), Facilitator (7+ years of experience), Disruptor - Member of the Catalyst Swarm with a keen desire to unlock the potential of individuals and bridge gaps to that potential. Foundations: Empathy, Inclusion, Communication, and Critical & Creative Thinking.
 * **Stephen Whitenstall**: Stephen Whitenstall has 30 years' experience in organizing academic, community and business projects. He develops, maintains documentation and provides technical project management support for Catalyst Swarm. As QA-DAO he tracks and documents the Catalyst Circle and maintains 'Ekphrasis' a repository of academic content from across the Cardano community.
 * **Tevo Saks**: I enjoy documenting systems and procedures that will achieve specific goals in an efficient way. Active participant in Catalyst since Fund 1, Catalyst Swarm core member, experienced Proposer and Veteran Community Advisor.
-* **Victor Corcino**: Veteran Community Advisor \(vCA\), Proposal Mentor, CAs' elected representative for the 1st Catalyst Circle, co-creator of the Community Tools \(Proposer/CA/vCA/Voter Tools\), Catalyst Swarm core member, engineering/science/developer and 'hands-on' teaching background.
+* **Victor Corcino**: Veteran Community Advisor (vCA), Proposal Mentor, CAs' elected representative for the 1st Catalyst Circle, co-creator of the Community Tools (Proposer/CA/vCA/Voter Tools), Catalyst Swarm core member, engineering/science/developer and 'hands-on' teaching background.
 
-**Requested funds in USD** 7  
-
-
+**Requested funds in USD** 7\

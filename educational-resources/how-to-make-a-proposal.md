@@ -16,11 +16,11 @@ Give you ideas on how to assess existing proposals on Project Catalyst.
 
 Project Catalyst is a worldwide collective innovation project.
 
-We want everyone to feel confident in contributing to the discussion as a whole.  
+We want everyone to feel confident in contributing to the discussion as a whole.\
 The quality of the output is dependent on the community’s ability to create and engage with new ideas.
 
-Latest video about the current state of Cardano governance by Charles Hoskinson  
-[https://youtu.be/7\_zIzjWZHgg?t=291](https://youtu.be/7_zIzjWZHgg?t=291)
+Latest video about the current state of Cardano governance by Charles Hoskinson\
+[https://youtu.be/7\_zIzjWZHgg?t=291](https://youtu.be/7\_zIzjWZHgg?t=291)
 
 ## Project Catalyst Proposal Guide
 
@@ -28,7 +28,8 @@ Latest video about the current state of Cardano governance by Charles Hoskinson
 
 _Currently, we have 2 challenges._
 
-* 1. How can we encourage developers and entrepreneurs to build Dapps and businesses on top of Cardano in the next 6 months?
+*
+  1. How can we encourage developers and entrepreneurs to build Dapps and businesses on top of Cardano in the next 6 months?
   2. How could we improve the Project Catalyst platform Ideascale?
 
 ### **2 Write down the first problems and ideas**
@@ -41,22 +42,22 @@ What could save us time and/or money?
 
 How could we create value for the community?
 
-**Example:**  
- I am interested in solving business process problems.  
- ERP solutions for businesses cost a lot.
+**Example:**\
+&#x20;I am interested in solving business process problems.\
+&#x20;ERP solutions for businesses cost a lot.
 
-I can create business and technical documentation to solve the problems.  
+I can create business and technical documentation to solve the problems.\
 I can hire and manage the required talent to execute the plan.
 
- I could create documents and videos which others could read and watch.  
+&#x20;I could create documents and videos which others could read and watch.\
 Maybe it will help someone to get their ideas going.
 
-I see that the Project Catalyst user interface is clunky.  
-Sorting could be much better.  
+I see that the Project Catalyst user interface is clunky.\
+Sorting could be much better.\
 There is no page in Project Catalyst to read about other community members and what they are interested to do.
 
-My dream was to make an MMORPG, maybe I can restart the project.  
-\(massively multiplayer online role-playing game\)
+My dream was to make an MMORPG, maybe I can restart the project.\
+(massively multiplayer online role-playing game)
 
 ### **3 Choose 1 idea / problem**
 
@@ -70,11 +71,11 @@ After you have given thought to all your ideas pick the idea/problem where you h
 
 **Example:**
 
-New small retail businesses pay for services to be able to use certain ERP modules/tools.  
+New small retail businesses pay for services to be able to use certain ERP modules/tools.\
 Every company I had worked in and still working, pays monthly fees for platform use.
 
-Businesses constantly trying to improve their systems.  
- I don’t know anybody who does not want to make their processes better and faster.
+Businesses constantly trying to improve their systems.\
+&#x20;I don’t know anybody who does not want to make their processes better and faster.
 
 ### **4 Create the problem statement**
 
@@ -90,39 +91,39 @@ A good problem statement has several components:
 
 **Example:**
 
- All businesses should have a no fee product to try ERP systems.
+&#x20;All businesses should have a no fee product to try ERP systems.
 
- Internal business tools are of high quality and for a low cost.
+&#x20;Internal business tools are of high quality and for a low cost.
 
- Option to crowdsource feature ideas.
+&#x20;Option to crowdsource feature ideas.
 
 There are no ERP systems online that you can download, configure, and use for no cost. There always seems to be a hidden fee or short trial run.
 
-Skilled workers spend time on tasks that technology could do for them.  
+Skilled workers spend time on tasks that technology could do for them.\
 There are no open source ERP platforms
 
 I know several companies that have old software and architecture for managing business data and resources.
 
 The system is slowing down innovation from within the company.
 
- Workers spend a lot of time, solving problems, instead of improving the system to prevent them.
+&#x20;Workers spend a lot of time, solving problems, instead of improving the system to prevent them.
 
- Workers spend a lot of time checking and searching in the system instead of automating solutions and actions.
+&#x20;Workers spend a lot of time checking and searching in the system instead of automating solutions and actions.
 
 Every company has its problems.
 
 Let us say company problems and actions take hours of personal time just for gathering and checking data. If automating these problems save 20% of worker's time then they can use that time on innovation and scalability.
 
-From my own experience it takes ~20hours to automate away one hour of work into single actions, this time includes project -, technical -, tasklist - and testing documentation plus a user guide. In a matter of months, automation will be worth it.
+From my own experience it takes \~20hours to automate away one hour of work into single actions, this time includes project -, technical -, tasklist - and testing documentation plus a user guide. In a matter of months, automation will be worth it.
 
 In the proposed system we make the software solutions open source. One solution can increase the efficiency for hundreds of companies.
 
- One of the biggest ERP system revenue increases every year.  
+&#x20;One of the biggest ERP system revenue increases every year.\
 This means there is an increasing demand for good business management platforms.
 
- [https://www.statista.com/statistics/263838/saps-global-revenue-since-2001/](https://www.statista.com/statistics/263838/saps-global-revenue-since-2001/)
+&#x20;[https://www.statista.com/statistics/263838/saps-global-revenue-since-2001/](https://www.statista.com/statistics/263838/saps-global-revenue-since-2001/)
 
- Microsoft constantly updates its dynamics platform, which means there is always room for innovation. Their products are quite expensive, yet customers need them. Found a report what shows the revenues.
+&#x20;Microsoft constantly updates its dynamics platform, which means there is always room for innovation. Their products are quite expensive, yet customers need them. Found a report what shows the revenues.
 
 [https://www.microsoft.com/investor/reports/ar19/index.html](https://www.microsoft.com/investor/reports/ar19/index.html)
 
@@ -130,12 +131,12 @@ This means there is an increasing demand for good business management platforms.
 
 The proposal name should indicate the innovation that you are trying to achieve
 
-Just tell your audience what it does and for who is it as clearly as possible.  
+Just tell your audience what it does and for who is it as clearly as possible.\
 Keep it simple and informative and keep your audience in mind.
 
 **Example:**
 
- Open Source ERP Platform for business management.
+&#x20;Open Source ERP Platform for business management.
 
 ### **6 Search for the same idea in Project Catalyst**
 
@@ -145,7 +146,9 @@ Check the same Tags from Advanced Search.
 
 Ask around in the Discord/Telegram channel if anyone has a similar idea.
 
-1. For each similar idea Check if you could comment on their idea instead of creating your proposal. Ask if you could collaborate.
+1. For each similar idea\
+   Check if you could comment on their idea instead of creating your proposal.\
+   Ask if you could collaborate.
 2. If you did not find similar ideas
 
 Create a new proposal in Project Catalyst
@@ -164,7 +167,7 @@ Make your project stand out compared to other projects.
 
 **Example:**
 
- We create an application that holds all tools to go through the business operations.
+&#x20;We create an application that holds all tools to go through the business operations.
 
 We create custom tools for entrepreneurs, businesses, and developers interoperable with the Cardano ecosystem.
 
@@ -172,7 +175,7 @@ Personal Data and configurations will be stored off-chain and the actions are st
 
 ### **8 Share your experience about a related topic**
 
-I have experience using and developing ERP tools for different business units.  
+I have experience using and developing ERP tools for different business units.\
 Areas where I have improved process, created tools or documentation.
 
 Factory – Production floor, Work orders, Plant management, Quality Control, Plan Floor, Finance, Material master, Warehouse, Engineering Team Management.
@@ -197,11 +200,11 @@ What is the first thing you are going to do?
 
 What things do you want to get done in the first 3 weeks?
 
-What things do you want to get done in 6 weeks? \(a bit over 1 month\)
+What things do you want to get done in 6 weeks? (a bit over 1 month)
 
-What things do you want to get done in 12 weeks? \(almost 3 months\)
+What things do you want to get done in 12 weeks? (almost 3 months)
 
-What things do you want to get done in 24 weeks? \(5 and a half month\)
+What things do you want to get done in 24 weeks? (5 and a half month)
 
 #### **KPI – Key Performance Indicators**
 
@@ -213,8 +216,8 @@ Every performance indicator has to have both opposing arguments which are clearl
 
 How much money does it cost to get your idea started?
 
-Giving a detailed breakdown of how the budget will be spent in the first 6 weeks.  
- And estimating the cost for 12 weeks and 24 week period.
+Giving a detailed breakdown of how the budget will be spent in the first 6 weeks.\
+&#x20;And estimating the cost for 12 weeks and 24 week period.
 
 Every 6 weeks you update your proposal to give a detailed plan for the next 6 weeks and reestimate the following periods.
 
@@ -242,7 +245,7 @@ I have seen ideas to build entire platforms on webGL which include the platform 
 
 I have no experience with Haskell as a framework, but I think functional programming
 
- is the way to go and stack with Haskell language should also be considered.
+&#x20;is the way to go and stack with Haskell language should also be considered.
 
 Once we have gone through and analyzed different tech stacks we will have documentation to decide what tech stack we are going to use.
 
@@ -252,27 +255,27 @@ In the first 3 weeks, this will be my main focus, to research and find opinions 
 
 Metrics to analyze the tech stack by:
 
-How many users develop the technology? \(GitHub statistics, blogs from google search\)
+How many users develop the technology? (GitHub statistics, blogs from google search)
 
- What is the social media sentiment for specific tech stack words? \(Reddit\)
+&#x20;What is the social media sentiment for specific tech stack words? (Reddit)
 
- Does the design allow for loose coupling?
+&#x20;Does the design allow for loose coupling?
 
- How long it's expected for the tech stack to remain the same?
+&#x20;How long it's expected for the tech stack to remain the same?
 
- How easy it is to learn?
+&#x20;How easy it is to learn?
 
- How well it is suited for agile development methods?
+&#x20;How well it is suited for agile development methods?
 
 **Cost of execution**
 
-I can spare about ~20 +/- 6 hours per week.
+I can spare about \~20 +/- 6 hours per week.
 
-I estimate it will take about ~40 hours to get a good overview of a single tech stack.
+I estimate it will take about \~40 hours to get a good overview of a single tech stack.
 
 Would prefer to go through at least 3 different tech stacks.
 
-This means I would need to team up with someone who is also a professional in a related area. Also, I see the need for consultation costs with different developers on different tech stacks.  
+This means I would need to team up with someone who is also a professional in a related area. Also, I see the need for consultation costs with different developers on different tech stacks.\
 I will try to organize as many free meetings as I can, but to progress fast I might have to make a few deals.
 
 Estimated cost 1800eur for 3 weeks and 1000eur for the consultation budget.
@@ -283,30 +286,30 @@ Next, I will start looking for businesses that would be interested in improving 
 
 **KPI**
 
-We can measure success by counting partnerships.  
+We can measure success by counting partnerships.\
 0 partners are very bad, 2+ is good.
 
 **Cost of execution**
 
-I have a few contacts who are interested in creating tools in their business.  
+I have a few contacts who are interested in creating tools in their business.\
 But for wider reach, I would use social media and even create a conference.
 
 I don’t have a marketing experience. Don’t know how to estimate the marketing cost and time. If I would start doing it from my intuition, I would assume about 60hours work and 1000Eur for ads and booking.
 
 **Roadmap**
 
- In 12 weeks there will be few fully documented business processes.
+&#x20;In 12 weeks there will be few fully documented business processes.
 
- I will start hiring developers to build the framework.
+&#x20;I will start hiring developers to build the framework.
 
- **KPI**
+&#x20;**KPI**
 
-To measure the progress we will be counting documentation documents.  
+To measure the progress we will be counting documentation documents.\
 For added value, we can vote for documentation to measure how much value and clarity it brings.
 
 We can start counting active developers and the commit amounts they start doing.
 
- **Cost of execution**
+&#x20;**Cost of execution**
 
 For one partner we would still need to hire a full team, estimating the cost knowledge comes from the first 3 weeks.
 
@@ -318,8 +321,8 @@ In 24 weeks I would already like to finish some projects and phases in the first
 
 I measure the time spent in hours on the whole project.
 
-This varies based on every project, but the estimation will come out when creating the documentation. If the project is successfully implemented before the estimated time then it's successful otherwise there is room to improve, either in the planning phase or execution phase.  
-We assess the feedback. Negative feedback is bad, and positive is good.  
+This varies based on every project, but the estimation will come out when creating the documentation. If the project is successfully implemented before the estimated time then it's successful otherwise there is room to improve, either in the planning phase or execution phase.\
+We assess the feedback. Negative feedback is bad, and positive is good.\
 We measure the new project amount planned after the first implementation.
 
 If the partner is interested in new developments, then we know we have a future here.
@@ -339,25 +342,25 @@ Starting from Chapter 7, start critiquing your solution and answers.
 3. Imagine if you could present the statement with a picture.
 4. See if you can find an alternative source for your arguments.
 
-In the below examples, I go through several of the paragraphs but not all of them.  
+In the below examples, I go through several of the paragraphs but not all of them.\
 For your idea, do this kind of practice for every single paragraph.
 
 **Example:**
 
 **Write a short solution to your problem**
 
-_“We create an application that holds all tools to go through the business operations.”  
-I keep mentioned the problem is the fee of applications._
+_“We create an application that holds all tools to go through the business operations.”_\
+_I keep mentioned the problem is the fee of applications._
 
-_Notice:_  
+_Notice:_\
 Odd use of words ‘holding all tools’
 
-_New sentence:_  
+_New sentence:_\
 We create a free application that includes all the open-source tools for business operations.
 
 _“We create custom tools for entrepreneurs, businesses, and developers interoperable with the Cardano ecosystem.”_
 
-_Notice:_  
+_Notice:_\
 I kind of repeat the first sentence.
 
 _New sentence:_
@@ -366,43 +369,43 @@ The application will be interoperable with the Cardano ecosystem. Making use of 
 
 _“Personal Data and configurations will be stored off-chain and the actions are stored on-chain. “_
 
-_Notice:_  
+_Notice:_\
 I use of buzzwords with no real reason.
 
-_New sentence:_  
-Application operations are configurable.  
+_New sentence:_\
+__Application operations are configurable.\
 Actions on the platform can be traced back to the root cause.
 
 **Share your experience about a related topic**
 
-_“I have experience using and developing ERP tools for different business units.  
-Areas where I have improved process, created tools or documentation._
+_“I have experience using and developing ERP tools for different business units._\
+_Areas where I have improved process, created tools or documentation._
 
 _Factory – Production floor, Work orders, Plant management, Quality Control, Plan Floor, Finance, Material master, Warehouse, Engineering Team Management._
 
 _Retail – Sales Management, Purchase Management, Warehouse, Business to Business, Eshop, Physical shop, Product Management, Client Manager, Campaign Manager.”_
 
-_Notice:_  
+_Notice:_\
 There is a lot of information about areas where I have done something, but no information about how much impact I had. People care about results.
 
-_New sentence:_  
- I have 3 years of experience finding business problems and opportunities in the context of the requirements and recommend solutions that enable the organization to achieve its goals.  
-Overseeing engineering projects by organizing and controlling its project elements.  
+_New sentence:_\
+__ I have 3 years of experience finding business problems and opportunities in the context of the requirements and recommend solutions that enable the organization to achieve its goals.\
+Overseeing engineering projects by organizing and controlling its project elements.\
 Confirming product performance by designing and conducting tests.
 
- Have created a tool to analyze customer orders and oversee product logistics.  
-This tool is helping to process Sales and Purchase Orders.  
+&#x20;Have created a tool to analyze customer orders and oversee product logistics.\
+This tool is helping to process Sales and Purchase Orders.\
 Users are processing Orders 4 times faster than before.
 
-For different organizations, I have helped to automate and improve warehouse operations. Starting from automated resource buying, where to place resources, and ending with when to use or send out resources.  
+For different organizations, I have helped to automate and improve warehouse operations. Starting from automated resource buying, where to place resources, and ending with when to use or send out resources.\
 One of the most impactful changes were done in the substation factory, where one of the assembling line speed was increased 100% because of a new material moving system.
 
 _“I have spent over 2000 hours on creating a game code. Created systems with scripting language Lua. This taught me a lot of ways to manage data, learn to develop useful tools, and improve user experience._
 
 _I also created MMORPG systems as plugins that can be activated on other game servers by adding a scripting file to their file folder. This taught me to design my features in the way they would work on different server settings and source code.”_
 
-_Notice:_  
-Kind of feels irrelevant information. Lessons learned and experience is good.  
+_Notice:_\
+Kind of feels irrelevant information. Lessons learned and experience is good.\
 Should try to give me more abstract experience example to use the lessons learned.
 
 _New sentence:_
@@ -419,16 +422,16 @@ _When you are just starting, going for a test run, or managing a small business 
 
 _Create an account on “Whi ERP”, enable modules you need, configure and connect your data with the system. You are ready to start using it.”_
 
-_Notice:_  
-I am not answering why the solution works, but what is the solution.  
+_Notice:_\
+I am not answering why the solution works, but what is the solution.\
 Don’t write what you don’t need, feels like it's giving negative sentiment.
 
 Don’t demand action.
 
 What the hell is Whi ERP, not the time for branding yet.
 
-_New sentence:_  
-There is currently a very small competition for open source resource planning platforms. It’s a great place to start building an economy around the platform.  
+_New sentence:_\
+__There is currently a very small competition for open source resource planning platforms. It’s a great place to start building an economy around the platform.\
 You will be able to set up business operation tools after doing a few minute registrations. Documentation goes into detail and has user guides.
 
 **Roadmap**
@@ -437,14 +440,14 @@ You will be able to set up business operation tools after doing a few minute reg
 
 _“To create such a platform first I am going to find consulting and analyze different stacks to work on, we have to think 5+ years ahead on what tech stack we are going to use.”_
 
-_I have imagined building a framework on Objective C and make it interpretable by different scripting languages to make it easily customizable for users.”_  
-
+_I have imagined building a framework on Objective C and make it interpretable by different scripting languages to make it easily customizable for users.”_\
+__
 
 _I have seen ideas to build entire platforms on webGL which include the platform editor inside the browser itself and running different versions on different workers._
 
 _I have no experience with Haskell as a framework, but I think functional programming_
 
- _is the way to go and stack with Haskell language should also be considered._
+&#x20;_is the way to go and stack with Haskell language should also be considered._
 
 _Once we have gone through and analyzed different tech stacks we will have documentation to decide what tech stack we are going to use._
 
@@ -454,7 +457,7 @@ _Notice:_
 
 Rephase sentence: First say what should be the result, then why should it be the results, and finally how the result is achieved.
 
-Mentioning things I don’t know about should not be talked about.  
+Mentioning things I don’t know about should not be talked about.\
 I watched interesting webGL platform demo videos a few years ago. Maybe not mentioned about that.
 
 Bring out the browser's option more strongly.
@@ -467,7 +470,7 @@ A good choice will save us a lot of time and improves the adoption speed.
 
 With 3 weeks we should be able to make the choice.
 
-  
+\
 We are going through different products required for the platform and decide how all these products should be built and connected.
 
 I have imagined building a development tool on Objective C and make it interpretable by different scripting languages to make it easily customizable for developers.
@@ -478,80 +481,80 @@ Some tools make sense in android phone applications.
 
 _“Next, I will start looking for businesses that would be interested in improving their business operations and processes. Within the next 3 weeks goal is to find at least 1 partner who is interested to improve their business using “Whi ERP””_
 
-_Notice:_  
-Again that aggressive try on branding :D  
+_Notice:_\
+Again that aggressive try on branding :D\
 Use the next 3 weeks, at the start to avoid duplication.
 
-_New sentence:_  
-The next 3 weeks are spent searching for businesses that will be ready to improve their business operations and processes.
+_New sentence:_\
+__The next 3 weeks are spent searching for businesses that will be ready to improve their business operations and processes.
 
 _“In 12 weeks there will be few fully documented business processes._
 
- _I will start hiring developers to build the framework.”_
+&#x20;_I will start hiring developers to build the framework.”_
 
-_Notice:_  
+_Notice:_\
 What does fully documented mean?
 
-_New sentence:_  
-In 12 weeks we will create several different forms of documentation to enable the business process. Its time to start hiring developers to build on the framework.  
+_New sentence:_\
+__In 12 weeks we will create several different forms of documentation to enable the business process. Its time to start hiring developers to build on the framework.\
 
 
-Project detail document I used to explain the current situation and what it should be. Including high-level solutions that need to be done and who does them.  
+Project detail document I used to explain the current situation and what it should be. Including high-level solutions that need to be done and who does them.\
 Technical Documentation will include the information of all the functions required to be created.
 
-A user guide is created to explain how to use the tool.  
+A user guide is created to explain how to use the tool.\
 Platform related documentation is updated for Developers.
 
 “In 24 weeks I would already like to finish some projects and phases in the first business operations.”
 
-_Notice:_  
+_Notice:_\
 What do projects and phases entail?
 
-_New sentence:_  
-In 24 weeks there should be first useable products and processes usable and configurable on the platform. They should bring real-world value to the users.
+_New sentence:_\
+__In 24 weeks there should be first useable products and processes usable and configurable on the platform. They should bring real-world value to the users.
 
 **KPI**
 
 _“Metrics and areas to analyze the tech stack by:_
 
-_How many users develop this technology? \(GitHub statistics, blogs from google search\)_
+_How many users develop this technology? (GitHub statistics, blogs from google search)_
 
- _What is the social media sentiment for specific tech stack words? \(Reddit\)_
+&#x20;_What is the social media sentiment for specific tech stack words? (Reddit)_
 
- _Does the design allow for loose coupling?_
+&#x20;_Does the design allow for loose coupling?_
 
- _How long it's expected for the tech stack to remain the same?_
+&#x20;_How long it's expected for the tech stack to remain the same?_
 
- _How easy it is to learn?_
+&#x20;_How easy it is to learn?_
 
- _How well it is suited for agile development methods?”_
+&#x20;_How well it is suited for agile development methods?”_
 
-_Notice:_  
-Think more sources for answers.  
-Think more metrics.  
+_Notice:_\
+Think more sources for answers.\
+Think more metrics.\
 Ask the first question differently.
 
-_New sentence:_  
-How many experienced developers there are for specific language/tool?  
-\(GitHub statistics, blogs from google search\)  
-What is the social media sentiment for specific tech stack words? \(Reddit, Facebook\)
+_New sentence:_\
+__How many experienced developers there are for specific language/tool?\
+(GitHub statistics, blogs from google search)\
+What is the social media sentiment for specific tech stack words? (Reddit, Facebook)
 
 How do they allow for loose coupling?
 
-How easy it is to maintain consistency in data synchronization?  
+How easy it is to maintain consistency in data synchronization?\
 How long it's expected for the tech stack to remain the same?
 
-How easy it is to learn? \(Polled from the community\)
+How easy it is to learn? (Polled from the community)
 
 How well it is suited for agile development methods?
 
-How long it takes to create a minimum viable product? \(We can think of any product examples\)
+How long it takes to create a minimum viable product? (We can think of any product examples)
 
-_“We can measure success by counting partnerships.  
-0 partners are very bad, 2+ is good.”_
+_“We can measure success by counting partnerships._\
+_0 partners are very bad, 2+ is good.”_
 
-_Notice:_  
-Try to make it into a question to which will answer the number of partnerships.  
+_Notice:_\
+Try to make it into a question to which will answer the number of partnerships.\
 Try to get 1 more metric.
 
 _New sentence:_
@@ -560,159 +563,159 @@ How many partners are developing apps on the platform?
 
 How many partnerships are actively using the platform?
 
-_“To measure the progress we will be counting documentation documents.  
-For added value, we can vote for documentation to measure how much value and clarity it brings._
+_“To measure the progress we will be counting documentation documents._\
+_For added value, we can vote for documentation to measure how much value and clarity it brings._
 
 _We can start counting active developers and the commit amounts they start doing.”_
 
-_Notice:_  
-Change the measurements to questions. Consistency makes it easier to read.  
-Again think for 1 more metric.  
+_Notice:_\
+Change the measurements to questions. Consistency makes it easier to read.\
+Again think for 1 more metric.\
 
 
-_New sentence:_  
-How many documentation documents were made? \(for every documentation type\)  
-How many likes and views documentation has?  
+_New sentence:_\
+__How many documentation documents were made? (for every documentation type)\
+How many likes and views documentation has?\
 How many commits are developers doing in GIT?
 
 How many developers are currently creating funded tasks?
 
 _“I measure the time spent in hours on the whole project._
 
-_This varies based on every project, but the estimation will come out when creating the documentation. If the project is successfully implemented before the estimated time then it's successful otherwise there is room to improve, either in the planning phase or execution phase.  
-We assess the feedback. Negative feedback is bad, and positive is good.  
-We measure the new project amount planned after the first implementation._
+_This varies based on every project, but the estimation will come out when creating the documentation. If the project is successfully implemented before the estimated time then it's successful otherwise there is room to improve, either in the planning phase or execution phase._\
+_We assess the feedback. Negative feedback is bad, and positive is good._\
+_We measure the new project amount planned after the first implementation._
 
 _If the partner is interested in new developments, then we know we have a future here.”_
 
-_Notice:_  
+_Notice:_\
 Turn measurements to questions.
 
 Add 1 more metric.
 
-_New sentence:_  
-How many hours did each step take in a project? \(documentations, meetings, development, testing, adoption\)  
-What was the estimated time in hours to finish a project step?  
-What partners think of the added functions? Did it solve their problem?  
-How many hours of new tasks partners allocate?  
-How many new feature request is created?  
-How many hours monthly the end product/process is used.  
+_New sentence:_\
+__How many hours did each step take in a project? (documentations, meetings, development, testing, adoption)\
+What was the estimated time in hours to finish a project step?\
+What partners think of the added functions? Did it solve their problem?\
+How many hours of new tasks partners allocate?\
+How many new feature request is created?\
+How many hours monthly the end product/process is used.\
 How many hours are saved comparing to older product/process?
 
 **Cost of execution**
 
-_“I can spare about ~20 +/- 6 hours per week._
+_“I can spare about \~20 +/- 6 hours per week._
 
-_I estimate it will take about ~40 hours to get a good overview of a single tech stack._
+_I estimate it will take about \~40 hours to get a good overview of a single tech stack._
 
 _Would prefer to go through at least 3 different tech stacks._
 
-_This means I would need to team up with someone who is also a professional in a related area. Also, I see the need for consultation costs with different developers on different tech stacks.  
-I will try to organize as many free meetings as I can, but to progress fast I might have to make a few deals._
+_This means I would need to team up with someone who is also a professional in a related area. Also, I see the need for consultation costs with different developers on different tech stacks._\
+_I will try to organize as many free meetings as I can, but to progress fast I might have to make a few deals._
 
 _Estimated cost 1800eur for 3 weeks and 1000eur for the consultation budget.”_
 
-_Notice:_  
-+/- doesn’t add much of information, since it’s an average anyway.  
+_Notice:_\
+\+/- doesn’t add much of information, since it’s an average anyway.\
 Try to convey the same information shorter and in a more precise way.
 
-_New sentence:_  
-I can spare about 20 hours per week.  
-It assumes it will take about 40 hours for each good tech stack overview.  
-I prefer to analyze at least 3 different tech stacks.  
-I would need help or hire someone with skills in documentation and analytics to get the research done in 3 weeks.  
-I will look for and pay \(if needed\) for consultation with different developers about different tech stacks.
+_New sentence:_\
+__I can spare about 20 hours per week.\
+It assumes it will take about 40 hours for each good tech stack overview.\
+I prefer to analyze at least 3 different tech stacks.\
+I would need help or hire someone with skills in documentation and analytics to get the research done in 3 weeks.\
+I will look for and pay (if needed) for consultation with different developers about different tech stacks.
 
-I will organize free meetings and paid meetings if we think it's worth it.  
-The potential cost of time for 3 weeks is 1800eur \(15eur/h\)  
+I will organize free meetings and paid meetings if we think it's worth it.\
+The potential cost of time for 3 weeks is 1800eur (15eur/h)\
 I prefer Consultation and organizing a budget around 1000eur.
 
-_“I have a few contacts who are interested in creating tools in their business.  
-But for wider reach, I would use social media and even create a conference._
+_“I have a few contacts who are interested in creating tools in their business._\
+_But for wider reach, I would use social media and even create a conference._
 
 _I don’t have a marketing experience. Don’t know how to estimate the marketing cost and time. If I would start doing it from my intuition, I would assume about 60hours work and 1000Eur for ads and booking.”_
 
-_Notice:_  
-Improve every sentence.  
+_Notice:_\
+Improve every sentence.\
 Be more transparent with the required resources and cost.
 
-_New sentence:_  
-I have a few contacts who are interested in using new tools to improve businesses.  
-For a wider reach, I would use social media and create meetups.  
-I would assume about 60 hours spend on creating content, ads, booking, and events.  
-With the budget around 1000 eur.  
-60 hours is 900 eur. \(15eur/h\)  
-Keep in mind, I don’t have marketing experience. Don’t know how to estimate the marketing cost and time  
+_New sentence:_\
+__I have a few contacts who are interested in using new tools to improve businesses.\
+For a wider reach, I would use social media and create meetups.\
+I would assume about 60 hours spend on creating content, ads, booking, and events.\
+With the budget around 1000 eur.\
+60 hours is 900 eur. (15eur/h)\
+Keep in mind, I don’t have marketing experience. Don’t know how to estimate the marketing cost and time\
 
 
 _“For one partner we would still need to hire a full team, estimating the cost knowledge comes from the first 3 weeks.”_
 
-_Notice:_  
+_Notice:_\
 Add more information on how to estimate the cost.
 
-_New sentence:_  
-Once we know how we are going to build.  
-We can estimate the cost of creating the platform and required talent.  
-The minimum team size will be realized from the tech stack research phase.  
+_New sentence:_\
+__Once we know how we are going to build.\
+We can estimate the cost of creating the platform and required talent.\
+The minimum team size will be realized from the tech stack research phase.\
 Once we have the first problem to solve, we can estimate the cost of implementation.
 
 1. **Construct the online draft from previously collected information about the idea.**
 
-_**Here is the first version of the above example downloaded from Ideascale:**_  
-[https://drive.google.com/file/d/1GnwH9vSQaGi5Azo2udlwMhQK2zlI7jxW/view?usp=sharing](https://drive.google.com/file/d/1GnwH9vSQaGi5Azo2udlwMhQK2zlI7jxW/view?usp=sharing)
+_**Here is the first version of the above example downloaded from Ideascale:**_\
+_****_[https://drive.google.com/file/d/1GnwH9vSQaGi5Azo2udlwMhQK2zlI7jxW/view?usp=sharing](https://drive.google.com/file/d/1GnwH9vSQaGi5Azo2udlwMhQK2zlI7jxW/view?usp=sharing)
 
-_**Here is the current version of the above example in Ideascale:**_  
-[https://cardano.ideascale.com/a/dtd/ERP-Platform-for-Business-Economics/323977-48088](https://cardano.ideascale.com/a/dtd/ERP-Platform-for-Business-Economics/323977-48088)
+_**Here is the current version of the above example in Ideascale:**_\
+_****_[https://cardano.ideascale.com/a/dtd/ERP-Platform-for-Business-Economics/323977-48088](https://cardano.ideascale.com/a/dtd/ERP-Platform-for-Business-Economics/323977-48088)
 
-_**Here is the picture how it would look in the voting app:**_  
- ![](../.gitbook/assets/0.png)
+_**Here is the picture how it would look in the voting app:**_\
+&#x20;_****_ ![](../.gitbook/assets/0.png)
 
 **Additional changes made to fit the information in IdeaScale**
 
-Title - 35 characters max.  
-_Title before:_ Open Source ERP Platform for business management.  
-_New title:_ ERP Platform for Business Economics  
+Title - 35 characters max.\
+_Title before:_ Open Source ERP Platform for business management.\
+_New title:_ ERP Platform for Business Economics\
 
 
-It is a bit better name in my opinion.  
-https://en.wikipedia.org/wiki/Business\_economics  
+It is a bit better name in my opinion.\
+https://en.wikipedia.org/wiki/Business\_economics\
 
 
-Problem statement – 140 characters max  
+Problem statement – 140 characters max\
 _The text used:_ long text in part 4
 
-_New text:_  
-Skilled workers spend time on tasks that technology could do for them.  
+_New text:_\
+Skilled workers spend time on tasks that technology could do for them.\
 There are no open source or free ERP platforms.
 
-Describe your solution to the problem – 140 characters max  
-_Text used:_  
-We create a free application that includes all the open-source tools for business operations.  
+Describe your solution to the problem – 140 characters max\
+_Text used:_\
+We create a free application that includes all the open-source tools for business operations.\
 We create custom tools for entrepreneurs, businesses, and developers interoperable with the Cardano ecosystem.
 
-_New text:_  
+_New text:_\
 We create an ERP platform with custom tools for entrepreneurs, businesses, and developers interoperable with the Cardano ecosystem.
 
-Relevant experience – 140 characters max  
-_Text used:_  
-Overseeing engineering projects by organizing and controlling its project elements.  
+Relevant experience – 140 characters max\
+_Text used:_\
+__Overseeing engineering projects by organizing and controlling its project elements.\
 __Confirming product performance by designing and conducting tests.
 
-_New text:_  
-Overseeing engineering projects by organizing and controlling its project elements.  
+_New text:_\
+Overseeing engineering projects by organizing and controlling its project elements.\
 Designing and conducting software product tests.
 
 1. **Are you interested if I continue this kind of guide?**
 
-This is my second draft.  
+This is my second draft.\
 The first draft was published 13.09.2020
 
 This version was published 29.09.2020
 
-Thanks for your positive feedback and encouragement.  
+Thanks for your positive feedback and encouragement.\
 In this version, I added part 10 – Revision
 
-In this version, I added part 11 – Example Proposal in the Ideascale.  
+In this version, I added part 11 – Example Proposal in the Ideascale.\
 I am happy if this document helps you to think about your idea and how to improve it.
 
 Also, I created a 1-minute poll to measure the Proposal guide feedback. [https://forms.gle/GtWh6MCUoyNHgQBE6](https://forms.gle/GtWh6MCUoyNHgQBE6)
@@ -721,26 +724,26 @@ I have more ideas on how to continue and what to include in previous steps.
 
 **Example ideas:**
 
-**Section to teach how to find assumptions in your proposal.**  
-How to assess those assumptions.  
-Examples of measures to be used.  
+**Section to teach how to find assumptions in your proposal.**\
+How to assess those assumptions.\
+Examples of measures to be used.\
 Clear statement when the assumption is correct and when it's incorrect.
 
 **Make a video going through the proposal**
 
-**Create the Example proposal on Project Catalyst. \(did that\)**  
+**Create the Example proposal on Project Catalyst. (did that)**\
 [https://cardano.ideascale.com/a/dtd/ERP-Platform-for-Business-Economics/323977-48088](https://cardano.ideascale.com/a/dtd/ERP-Platform-for-Business-Economics/323977-48088)
 
-When the proposal receives comments, refinements, or reviews.  
-I will use feedback to improve the guide and proposal.  
+When the proposal receives comments, refinements, or reviews.\
+I will use feedback to improve the guide and proposal.\
 To create an evolving document throughout the funding process.
 
 **I am also open to your ideas on what to include in this document.**
 
 Information source:
 
-1. **Project Catalyst Proposal Guide** shared By **Eric Czuleger** [https://docs.google.com/document/d/1oE\_cnP0gksdAanXV4w5DYaDNp\_tbYEvyHhTUG4HYZ3Q/edit\#](https://docs.google.com/document/d/1oE_cnP0gksdAanXV4w5DYaDNp_tbYEvyHhTUG4HYZ3Q/edit)
+1. **Project Catalyst Proposal Guide** shared By **Eric Czuleger**\
+   [https://docs.google.com/document/d/1oE\_cnP0gksdAanXV4w5DYaDNp\_tbYEvyHhTUG4HYZ3Q/edit#](https://docs.google.com/document/d/1oE\_cnP0gksdAanXV4w5DYaDNp\_tbYEvyHhTUG4HYZ3Q/edit)
 2. **Governance and Cardano** public video By **Charles Hoskinson**
 
-[https://youtu.be/7\_zIzjWZHgg?t=291](https://youtu.be/7_zIzjWZHgg?t=291)
-
+[https://youtu.be/7\_zIzjWZHgg?t=291](https://youtu.be/7\_zIzjWZHgg?t=291)
