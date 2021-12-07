@@ -2,7 +2,7 @@
 description: Page description
 ---
 
-# Example elements
+# Course 1
 
 ## Heading 1
 
@@ -10,7 +10,7 @@ description: Page description
 
 #### Heading 3
 
-This is an example paragraph with **bold**, _italic_, ~~strikethrough~~ and [links](./#heading-1). **Lorem ipsum dolor** sit amet, _consectetur adipiscing elit._ Aenean eu massa ac ex porta pharetra. ~~Sed viverra, quam sed~~ semper venenatis, [nibh felis pulvinar libero](./#heading-1), sit amet semper purus libero vel turpis. Integer sagittis augue in justo pharetra consequat. Etiam quis magna consectetur, tempor est eu, cursus nunc. Quisque dui eros, feugiat non libero vel, euismod accumsan erat. Vivamus in risus lacinia, egestas magna vel, imperdiet velit. Duis placerat fringilla diam vitae gravida. Nam sed euismod nunc. Vivamus hendrerit eleifend nibh vitae egestas. Etiam vel pharetra urna.
+This is an example paragraph with **bold**, _italic_, ~~strikethrough~~ and [links](./#heading-1). **Lorem ipsum dolor** sit amet, _consectetur adipiscing elit._ Aenean eu massa ac ex porta pharetra. ~~Sed viverra, quam sed~~ semper venenatis, [nibh felis pulvinar libero](./#heading-1), sit amet semper purus libero vel turpis. Integer sagittis augue in justo pharetra consequat. Etiam quis magna consectetur, tempor est eu, cursus nunc. Quisque dui eros, feugiat non libero vel, euismod accumsan erat. Vivamus in risus lacinia, egestas magna vel, imperdiet velit. Duis placerat fringilla diam vitae gravida. Nam sed euismod nunc. Vivamus hendrerit eleifend nibh vitae egestas. Etiam vel pharetra urna. Test changes.
 
 * Example unordered list
 * Lorem
