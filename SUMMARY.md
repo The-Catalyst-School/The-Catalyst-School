@@ -55,10 +55,9 @@
 ## Website
 
 * [Website](website/untitled.md)
-* [Example elements](website/untitled-1/README.md)
-  * [Sub page example](website/untitled-1/sub-page-example/README.md)
-    * [Third level hierarchy](website/untitled-1/sub-page-example/third-level-hierarchy.md)
-  * [Lesson 2](website/untitled-1/lesson-2.md)
+* [Course 1](website/course-1/README.md)
+  * [Lesson 1](website/course-1/lesson-1.md)
+  * [Lesson 2](website/course-1/lesson-2.md)
 
 ## Media
 
