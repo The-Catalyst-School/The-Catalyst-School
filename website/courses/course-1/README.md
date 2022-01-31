@@ -2,7 +2,15 @@
 description: Page description
 ---
 
-# Course 1
+# Introduction to Catalyst
+
+| key             | value            |
+| --------------- | ---------------- |
+| topics          | tag1, tag2, tag3 |
+| teacher         | name surname     |
+| estimated\_time | 1:00:00          |
+| difficulty      | beginner         |
+| featured        | yes              |
 
 ## About the course
 

@@ -54,10 +54,20 @@
 
 ## Website
 
-* [Website](website/untitled.md)
-* [Course 1](website/course-1/README.md)
-  * [Lesson 1](website/course-1/lesson-1.md)
-  * [Lesson 2](website/course-1/lesson-2.md)
+* [About](website/about.md)
+* [Workshops](website/workshops/README.md)
+  * [Workshop 1](website/workshops/workshop-1.md)
+  * [Workshop 2](website/workshops/workshop-2.md)
+* [Courses](website/courses/README.md)
+  * [Introduction to Catalyst](website/courses/course-1/README.md)
+    * [Lesson 1](website/courses/course-1/lesson-1.md)
+    * [Lesson 2](website/courses/course-1/lesson-2.md)
+  * [How to propose](website/courses/how-to-propose/README.md)
+    * [Lesson 1](website/courses/how-to-propose/lesson-1.md)
+* [FAQ](website/faq.md)
+* [Events](website/events/README.md)
+  * [Event 1](website/events/event-1.md)
+  * [Event 2](website/events/event-2.md)
 
 ## Media
 

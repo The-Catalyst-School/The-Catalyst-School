@@ -41,11 +41,11 @@ Example Success box. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ae
 
 > Example quote box. Example Hint box. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eu massa ac ex porta pharetra. Sed viverra, quam sed semper venenatis, nibh felis pulvinar libero, sit amet semper purus libero vel turpis.
 
-{% file src="../../.gitbook/assets/2021-08-12-1-.png" %}
+{% file src="../../../.gitbook/assets/2021-08-12-1-.png" %}
 Example file box
 {% endfile %}
 
-![Example image box](../../.gitbook/assets/2021-08-12-1-.png)
+![Example image box](../../../.gitbook/assets/2021-08-12-1-.png)
 
 {% embed url="https://www.youtube.com/watch?v=8SdNymOuKXI" %}
 Example embed
