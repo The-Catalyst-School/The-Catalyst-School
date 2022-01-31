@@ -4,13 +4,14 @@ description: Page description
 
 # Introduction to Catalyst
 
-| key             | value            |
-| --------------- | ---------------- |
-| topics          | tag1, tag2, tag3 |
-| teacher         | name surname     |
-| estimated\_time | 1:00:00          |
-| difficulty      | beginner         |
-| featured        | yes              |
+| key             | value                                         |
+| --------------- | --------------------------------------------- |
+| topics          | tag1, tag2, tag3                              |
+| teacher         | name surname                                  |
+| estimated\_time | 1:00:00                                       |
+| difficulty      | beginner                                      |
+| featured        | yes                                           |
+| subtitle        | This is the introduction to Catalyst subtitle |
 
 ## About the course
 
