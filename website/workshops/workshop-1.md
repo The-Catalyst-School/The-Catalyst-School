@@ -7,5 +7,8 @@
 | estimated\_time | 1:00:00                                                                                                                                    |
 | difficulty      | beginner                                                                                                                                   |
 | featured        | yes                                                                                                                                        |
-| date            | 08.12.2021 11:00                                                                                                                           |
+| scheduled\_at   | 08.12.2021 11:00                                                                                                                           |
 | intro           | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse maximus accumsan ante consectetur feugiat. Fusce non turpis accumsan, |
+| subtitle        | Example subtitle                                                                                                                           |
+
+{% embed url="https://www.youtube.com/watch?v=hnlKBT4NQdo" %}
