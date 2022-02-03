@@ -65,9 +65,7 @@
   * [How to propose](website/courses/how-to-propose/README.md)
     * [Lesson 1](website/courses/how-to-propose/lesson-1.md)
 * [FAQ](website/faq.md)
-* [Events](website/events/README.md)
-  * [Event 1](website/events/event-1.md)
-  * [Event 2](website/events/event-2.md)
+* [Events](website/events.md)
 
 ## Media
 
