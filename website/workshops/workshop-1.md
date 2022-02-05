@@ -13,11 +13,11 @@
 
 {% embed url="https://www.youtube.com/watch?v=hnlKBT4NQdo" %}
 
-## Heading 1
+### 1.0 Introduction
 
-### Heading 2
+This is an example paragraph with **bold**, _italic_, ~~strikethrough~~ and [links](workshop-1.md#heading-1). **Lorem ipsum dolor** sit amet, _consectetur adipiscing elit._ Aenean eu massa ac ex porta pharetra. ~~Sed viverra, quam sed~~ semper venenatis, [nibh felis pulvinar libero](workshop-1.md#heading-1), sit amet semper purus libero vel turpis. Integer sagittis augue in justo pharetra consequat.&#x20;
 
-#### Heading 3
+#### 1.1 Paragraph
 
 This is an example paragraph with **bold**, _italic_, ~~strikethrough~~ and [links](workshop-1.md#heading-1). **Lorem ipsum dolor** sit amet, _consectetur adipiscing elit._ Aenean eu massa ac ex porta pharetra. ~~Sed viverra, quam sed~~ semper venenatis, [nibh felis pulvinar libero](workshop-1.md#heading-1), sit amet semper purus libero vel turpis. Integer sagittis augue in justo pharetra consequat. Etiam quis magna consectetur, tempor est eu, cursus nunc. Quisque dui eros, feugiat non libero vel, euismod accumsan erat. Vivamus in risus lacinia, egestas magna vel, imperdiet velit. Duis placerat fringilla diam vitae gravida. Nam sed euismod nunc. Vivamus hendrerit eleifend nibh vitae egestas. Etiam vel pharetra urna. Test changes.
 
@@ -31,10 +31,24 @@ This is an example paragraph with **bold**, _italic_, ~~strikethrough~~ and [lin
 3. ipsum
 4. dolor
 
+#### 1.2 Paragraph
+
+This is an example paragraph with **bold**, _italic_, ~~strikethrough~~ and [links](workshop-1.md#heading-1). **Lorem ipsum dolor** sit amet, _consectetur adipiscing elit._ Aenean eu massa ac ex porta pharetra. ~~Sed viverra, quam sed~~ semper venenatis, [nibh felis pulvinar libero](workshop-1.md#heading-1), sit amet semper purus libero vel turpis. Integer sagittis augue in justo pharetra consequat. Etiam quis magna consectetur, tempor est eu, cursus nunc. Quisque dui eros, feugiat non libero vel, euismod accumsan erat. Vivamus in risus lacinia, egestas magna vel, imperdiet velit. Duis placerat fringilla diam vitae gravida. Nam sed euismod nunc. Vivamus hendrerit eleifend nibh vitae egestas. Etiam vel pharetra urna. Test changes.
+
 * [ ] Example Taks list
 * [ ] Lorem
 * [ ] Ipsum
 * [ ] Dolor
+
+#### 1.3 Paragraph
+
+This is an example paragraph with **bold**, _italic_, ~~strikethrough~~ and [links](workshop-1.md#heading-1). **Lorem ipsum dolor** sit amet, _consectetur adipiscing elit._ Aenean eu massa ac ex porta pharetra. ~~Sed viverra, quam sed~~ semper venenatis, [nibh felis pulvinar libero](workshop-1.md#heading-1), sit amet semper purus libero vel turpis. Integer sagittis augue in justo pharetra consequat. Etiam quis magna consectetur, tempor est eu, cursus nunc. Quisque dui eros, feugiat non libero vel, euismod accumsan erat. Vivamus in risus lacinia, egestas magna vel, imperdiet velit. Duis placerat fringilla diam vitae gravida. Nam sed euismod nunc. Vivamus hendrerit eleifend nibh vitae egestas. Etiam vel pharetra urna. Test changes.
+
+{% embed url="https://www.youtube.com/watch?v=hnlKBT4NQdo" %}
+with caption
+{% endembed %}
+
+*
 
 {% hint style="info" %}
 Example Info box. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eu massa ac ex porta pharetra. Sed viverra, quam sed semper venenatis, nibh felis pulvinar libero, sit amet semper purus libero vel turpis.
