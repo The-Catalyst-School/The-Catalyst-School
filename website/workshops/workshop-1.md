@@ -12,6 +12,8 @@
 | subtitle        | Example subtitle                                                                                                                           |
 
 {% embed url="https://www.youtube.com/watch?v=hnlKBT4NQdo" %}
+Workshop 1
+{% endembed %}
 
 ### 1.0 Introduction
 
