@@ -1,6 +1,13 @@
 # Lesson 1
 
-## Heading 1
+| key             | value        |
+| --------------- | ------------ |
+| teacher         | name surname |
+| estimated\_time | 1:00:00      |
+
+{% embed url="https://www.youtube.com/watch?v=hnlKBT4NQdo" %}
+Workshop 1
+{% endembed %}
 
 ### Heading 2
 
@@ -67,6 +74,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eu massa ac ex p
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eu massa ac ex porta pharetra. Sed viverra, quam sed semper venenatis, nibh felis pulvinar libero, sit amet semper purus libero vel turpis. Integer sagittis augue in justo pharetra consequat.
 {% endtab %}
 {% endtabs %}
-
-### Special block for meta-info
 
