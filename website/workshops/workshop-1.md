@@ -17,7 +17,7 @@ Workshop 1
 
 ### 1.0 Introduction
 
-This is an example paragraph with **bold**, _italic_, ~~strikethrough~~ and [links](workshop-1.md#heading-1). **Lorem ipsum dolor** sit amet, _consectetur adipiscing elit._ Aenean eu massa ac ex porta pharetra. ~~Sed viverra, quam sed~~ semper venenatis, [nibh felis pulvinar libero](workshop-1.md#heading-1), sit amet semper purus libero vel turpis. Integer sagittis augue in justo pharetra consequat.&#x20;
+This is an example paragraph with **bold**, _italic_, ~~strikethrough~~ and [links](workshop-1.md#heading-1). **Lorem ipsum dolor** sit amet, _consectetur adipiscing elit._ Aenean eu massa ac ex porta pharetra. ~~Sed viverra, quam sed~~ semper venenatis, [nibh felis pulvinar libero](workshop-1.md#heading-1), sit amet semper purus libero vel turpis. Integer sagittis augue in justo pharetra consequat. Why it doesn't get updated?
 
 #### 1.1 Paragraph
 
@@ -51,6 +51,12 @@ with caption
 {% endembed %}
 
 {% file src="../../.gitbook/assets/2021-07-29-5-.png" %}
+Attachment title
+{% endfile %}
+
+{% file src="../../.gitbook/assets/2021-08-12.png" %}
+Second resource sync
+{% endfile %}
 
 {% hint style="info" %}
 Example Info box. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eu massa ac ex porta pharetra. Sed viverra, quam sed semper venenatis, nibh felis pulvinar libero, sit amet semper purus libero vel turpis.
