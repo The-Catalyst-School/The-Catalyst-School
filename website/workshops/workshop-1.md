@@ -50,7 +50,7 @@ This is an example paragraph with **bold**, _italic_, ~~strikethrough~~ and [lin
 with caption
 {% endembed %}
 
-*
+{% file src="../../.gitbook/assets/2021-07-29-5-.png" %}
 
 {% hint style="info" %}
 Example Info box. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eu massa ac ex porta pharetra. Sed viverra, quam sed semper venenatis, nibh felis pulvinar libero, sit amet semper purus libero vel turpis.
