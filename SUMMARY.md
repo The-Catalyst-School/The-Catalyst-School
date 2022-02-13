@@ -44,6 +44,7 @@
 * [GitHub Set-up](github/github-set-up.md)
 * [Open-Source Training](github/open-source-training.md)
 * [Google Analytics](github/google-analytics.md)
+* [Experimental Training](github/experimental-training.md)
 
 ## Archive
 
