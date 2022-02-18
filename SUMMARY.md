@@ -56,29 +56,17 @@
 ## Website
 
 * [About](website/about.md)
-* [About \[suggestion\]](website/about-suggestion.md)
 * [Workshops](website/workshops/README.md)
   * [Workshop 1](website/workshops/workshop-1.md)
   * [Workshop 2](website/workshops/workshop-2.md)
-* [Workshops \[suggestion\]](website/workshops-suggestion/README.md)
-  * [Copy of Workshop 1](website/workshops-suggestion/copy-of-workshop-1.md)
-  * [Copy of Workshop 2](website/workshops-suggestion/copy-of-workshop-2.md)
 * [Courses](website/courses/README.md)
   * [Introduction to Catalyst](website/courses/course-1/README.md)
     * [Lesson 1](website/courses/course-1/lesson-1.md)
     * [Lesson 2](website/courses/course-1/lesson-2.md)
   * [How to propose](website/courses/how-to-propose/README.md)
     * [Lesson 1](website/courses/how-to-propose/lesson-1.md)
-* [Courses \[suggestion\]](website/courses-suggestion/README.md)
-  * [Copy of Introduction to Catalyst](website/courses-suggestion/course-1/README.md)
-    * [Copy of Lesson 1](website/courses-suggestion/course-1/copy-of-lesson-1.md)
-    * [Copy of Lesson 2](website/courses-suggestion/course-1/copy-of-lesson-2.md)
-  * [Copy of How to propose](website/courses-suggestion/copy-of-how-to-propose/README.md)
-    * [Copy of Lesson 1](website/courses-suggestion/copy-of-how-to-propose/copy-of-lesson-1.md)
 * [FAQ](website/faq.md)
-* [FAQ \[suggestion\]](website/faq-suggestion.md)
 * [Events](website/events.md)
-* [Events \[suggestion\]](website/events-suggestion.md)
 
 ## Media
 
