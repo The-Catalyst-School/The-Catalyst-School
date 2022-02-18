@@ -25,12 +25,10 @@ It can also be fund in this course what is [IdeaScale](https://cardano.ideascale
 
 ### The lessons
 
-1. [What is Project Catalyst?](lesson-1-what-is-project-catalyst.md)
-2. [Proposing in Catalyst](lesson-2-proposing-in-catalyst.md)
-3. How to be a Community Advisor
-4. How to be a Veteran Community Advisor
-5. Mini-Proposal Workshops
-6. Open Source Training
+1. [What is Project Catalyst?](lesson-1.md)
+2. [Proposing in Catalyst](lesson-2.md)
+3. [How to be a Community Advisor](lesson-3-how-to-be-a-community-advisor.md)
+4. [How to be a Veteran Community Advisor](lesson4-how-to-be-a-veteran-community-advisor.md)
 
 This is an example paragraph with **bold**, _italic_, ~~strikethrough~~ and [links](./#heading-1). **Lorem ipsum dolor** sit amet, _consectetur adipiscing elit._ Aenean eu massa ac ex porta pharetra. ~~Sed viverra, quam sed~~ semper venenatis, [nibh felis pulvinar libero](./#heading-1), sit amet semper purus libero vel turpis. Integer sagittis augue in justo pharetra consequat. Etiam quis magna consectetur, tempor est eu, cursus nunc. Quisque dui eros, feugiat non libero vel, euismod accumsan erat. Vivamus in risus lacinia, egestas magna vel, imperdiet velit. Duis placerat fringilla diam vitae gravida. Nam sed euismod nunc. Vivamus hendrerit eleifend nibh vitae egestas. Etiam vel pharetra urna. Test changes.
 
