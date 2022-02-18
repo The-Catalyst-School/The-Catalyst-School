@@ -1,25 +1,39 @@
 ---
-description: What is Project Catalyst?
+description: After this lesson you should be able to understand the Process of Catalyst
 ---
 
-# Lesson 1
+# Lesson 1: What is Project Catalyst?
 
 
 
-| key             | value        |
-| --------------- | ------------ |
-| teacher         | name surname |
-| estimated\_time | 1:00:00      |
+| key             | value          |
+| --------------- | -------------- |
+| teacher         | Victor Corcino |
+| estimated\_time | 1:02:17        |
 
-{% embed url="https://www.youtube.com/watch?v=hnlKBT4NQdo" %}
-Workshop 1
+{% embed url="https://www.youtube.com/watch?t=30s&v=kfTZVk3n-B8" %}
+\[Fund 8] Introduction to Catalyst - The Catalyst School - 16th February 2022
 {% endembed %}
 
-### Heading 2
+### Introduction to Catalyst
 
-#### Heading 3
+#### Summary
 
-This is an example paragraph with **bold**, _italic_, ~~strikethrough~~ and [links](lesson-1.md#heading-1). **Lorem ipsum dolor** sit amet, _consectetur adipiscing elit._ Aenean eu massa ac ex porta pharetra. ~~Sed viverra, quam sed~~ semper venenatis, [nibh felis pulvinar libero](lesson-1.md#heading-1), sit amet semper purus libero vel turpis. Integer sagittis augue in justo pharetra consequat. Etiam quis magna consectetur, tempor est eu, cursus nunc. Quisque dui eros, feugiat non libero vel, euismod accumsan erat. Vivamus in risus lacinia, egestas magna vel, imperdiet velit. Duis placerat fringilla diam vitae gravida. Nam sed euismod nunc. Vivamus hendrerit eleifend nibh vitae egestas. Etiam vel pharetra urna. Test changes.
+In this course the **Catalyst School** team presents an overview of the _Project Catalyst_, going through each stage, presenting the roles in Catalyst, exploring how the funding circle works, where the funds come from, the meaning of _voting power_ and how the voting system works. __&#x20;
+
+It is also presented general information and how to use the [IdeaScale](https://cardano.ideascale.com/a/index) plataform.
+
+{% embed url="https://docs.google.com/presentation/d/1Yni4UXbZ-UpqG69YCNG5ZBqCBMnbxRTi_RnI9EoBSe8/edit#slide=id.g112129e7cbb_0_0" %}
+F8 Introduction to Catalyst
+{% endembed %}
+
+> **Catalyst School is a place to leverage the impact of Catalyst as a whole, by introducing and improving the contribution of all its different players and roles.**
+
+![](../../../.gitbook/assets/blog\_catalyst.jpg)
+
+### **What is Project Catalyst?**
+
+
 
 * Example unordered list
 * Lorem
