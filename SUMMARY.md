@@ -57,8 +57,11 @@
 
 * [About](website/about.md)
 * [Workshops](website/workshops/README.md)
-  * [Workshop 1](website/workshops/workshop-1.md)
-  * [Workshop 2](website/workshops/workshop-2.md)
+  * [Workshop 1: Introduction to Catalyst](website/workshops/workshop-1-introduction-to-catalyst.md)
+  * [Workshop 2: Proposing in Catalyst](website/workshops/workshop-2-proposing-in-catalyst.md)
+  * [Workshop 3: How to be a Community Advisor](website/workshops/workshop-3-how-to-be-a-community-advisor.md)
+  * [Workshop 4: How to be a Veteran Community Advisor](website/workshops/workshop-4-how-to-be-a-veteran-community-advisor.md)
+  * [Workshop 5: How to be a Veteran Community Advisor](website/workshops/workshop-5-how-to-be-a-veteran-community-advisor.md)
 * [Courses](website/courses/README.md)
   * [Introduction to Catalyst](website/courses/course-1/README.md)
     * [Lesson 1: What is Project Catalyst?](website/courses/course-1/lesson-1.md)
