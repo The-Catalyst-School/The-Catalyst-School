@@ -25,8 +25,8 @@ It can also be fund in this course what is [IdeaScale](https://cardano.ideascale
 
 ### The lessons
 
-1. [What is Project Catalyst?](lesson-1.md)
-2. [Proposing in Catalyst](lesson-2.md)
+1. [What is Project Catalyst?](lesson-1-what-is-project-catalyst.md)
+2. [Proposing in Catalyst](lesson-2-proposing-in-catalyst.md)
 3. [How to be a Community Advisor](lesson-3-how-to-be-a-community-advisor.md)
 4. [How to be a Veteran Community Advisor](lesson4-how-to-be-a-veteran-community-advisor.md)
 
