@@ -59,7 +59,7 @@
 * [Workshops](website/workshops/README.md)
   * [Workshop 1: Introduction to Catalyst](website/workshops/workshop-1-introduction-to-catalyst.md)
   * [Workshop 2: Proposing in Catalyst](website/workshops/workshop-2-proposing-in-catalyst.md)
-  * [Workshop 3](website/workshops/workshop-3.md)
+  * [Mini Proposal Workshop](website/workshops/mini-proposal-workshop.md)
   * [Workshop 3: How to be a Community Advisor](website/workshops/workshop-3-how-to-be-a-community-advisor.md)
   * [Workshop 4: How to be a Veteran Community Advisor](website/workshops/workshop-4-how-to-be-a-veteran-community-advisor.md)
   * [Workshop 5: How to be a Veteran Community Advisor](website/workshops/workshop-5-how-to-be-a-veteran-community-advisor.md)

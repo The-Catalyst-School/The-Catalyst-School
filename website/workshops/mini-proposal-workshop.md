@@ -5,7 +5,7 @@ description: >-
   proposal method designed on Miro Board.
 ---
 
-# Workshop 3
+# Mini Proposal Workshop
 
 | key             | value                                                                                                                 |
 | --------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -16,13 +16,15 @@ description: >-
 | featured        | yes                                                                                                                   |
 | scheduled\_at   | 26.02.2022 11:00                                                                                                      |
 | intro           | <ul><li>How to use Miro Board</li><li>How to start the process</li><li>Ending up with Proposal requirements</li></ul> |
-| subtitle        | example subtitle                                                                                                      |
+| subtitle        | Process Compilation                                                                                                   |
 
 {% embed url="https://www.youtube.com/watch?v=skXuXeJX4VY" %}
 This video is compiled together from different workshops to share insight into the proposal creation method.
 {% endembed %}
 
 ## Mini Proposal Workshop
+
+In this video, you will see a compilation of edits explaining the Mini Proposal Workshop. You will learn why we create proposals and how to use the proposal method designed on Miro Board.
 
 ### Set up
 
