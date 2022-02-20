@@ -77,7 +77,6 @@
     * [Guide example](website/courses/course-1/guide-example.md)
   * [How to propose](website/courses/how-to-propose/README.md)
     * [Lesson 1](website/courses/how-to-propose/lesson-1.md)
-  * [Mini-Proposal Workshop](website/courses/mini-proposal-workshop.md)
   * [Open Source Training](website/courses/open-source-training.md)
 * [FAQ](website/faq.md)
 * [Events](website/events.md)

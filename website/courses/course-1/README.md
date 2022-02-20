@@ -10,7 +10,7 @@ description: Page description
 | teacher         | Victor Corcino                                                        |
 | estimated\_time | 1:00:00                                                               |
 | difficulty      | beginner                                                              |
-| featured        | yes                                                                   |
+| featured        | no                                                                    |
 | subtitle        | Learn about Catalyst, it's process and stages.                        |
 
 ## About the course
