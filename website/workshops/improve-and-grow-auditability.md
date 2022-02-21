@@ -15,8 +15,8 @@ description: Insight Sharing Workshop
 | intro           |                                      |
 | subtitle        | Insight Sharing Workshop             |
 
-{% embed url="https://www.youtube.com/watch?v=kfTZVk3n-B8" %}
-\[Fund 8] Introduction to Catalyst - The Catalyst School - 16th February 2022
+{% embed url="https://youtu.be/NtGC_AtFHMA" %}
+\[Fund 8] - Improve and Grow Auditability - Insight Sharing Workshops Series
 {% endembed %}
 
 ## 1.0 Improve and Grow Auditability
