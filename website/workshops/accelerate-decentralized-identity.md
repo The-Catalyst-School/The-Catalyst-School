@@ -15,10 +15,6 @@ description: Insight Sharing Workshop
 | intro           |                                                |
 | subtitle        | Insight Sharing Workshop                       |
 
-{% embed url="https://www.youtube.com/watch?v=kfTZVk3n-B8" %}
-\[Fund 8] Introduction to Catalyst - The Catalyst School - 16th February 2022
-{% endembed %}
-
 ## 1.0 Accelerate Decentralized Identity
 
 ### 1.1 Summary
@@ -27,8 +23,8 @@ In this workshop hosted by **TBC** accelerate-decentralized-identity
 
 #### It is also presented general information accelerate-decentralized-identity
 
-{% embed url="https://docs.google.com/presentation/u/1/d/1Yni4UXbZ-UpqG69YCNG5ZBqCBMnbxRTi_RnI9EoBSe8/edit?usp=sharing" %}
-F8 Introduction to Catalyst slidedeck
+{% embed url="https://youtu.be/f7L0tLJYEvo" %}
+\[Fund 8] - Accelerate Decentralized Identity - Insight Sharing Workshops Series - 21 Feb 202
 {% endembed %}
 
 > accelerate-decentralized-identity

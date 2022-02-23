@@ -15,24 +15,35 @@ description: Insight Sharing Workshop
 | intro           |                                                |
 | subtitle        | Insight Sharing Workshop                       |
 
-{% embed url="https://www.youtube.com/watch?v=kfTZVk3n-B8" %}
-\[Fund 8] Introduction to Catalyst - The Catalyst School - 16th February 2022
+{% embed url="https://youtu.be/KGrpYJDi31s" %}
+\[Fund 8] - Cross-Chain Collaboration - Insight Sharing Workshops Series - 21 Feb 2022
 {% endembed %}
 
 ## 1.0 Cross-Chain Collaboration
 
 ### 1.1 Summary
 
-In this workshop hosted by **TBC** cross-chain-collaboration
+1.1.1 Challenge question: How might we create connections and collaboration between Cardano and other blockchains in the next six months?&#x20;
+
+1.1.2 Why is it important? Interoperability of blockchains and multi-chain awareness guarantees shared success of the cryptoeconomy as a whole.&#x20;
+
+1.1.3 What does success look like? Collaborative value creation between Project Catalyst and other communities. Both technical and non-technical initiatives are welcome.
 
 #### It is also presented general information cross-chain-collaboration
 
-{% embed url="https://docs.google.com/presentation/u/1/d/1Yni4UXbZ-UpqG69YCNG5ZBqCBMnbxRTi_RnI9EoBSe8/edit?usp=sharing" %}
-F8 Introduction to Catalyst slidedeck
-{% endembed %}
+> THE GOAL: Let’s create an enriching, open and safe environment, where people from different communities can find common ground and share knowledge, resources, skills, ideas and visions with one another.
 
-> cross-chain-collaboration
+{% embed url="https://docs.google.com/presentation/d/1WWtFcjFUz5ck-C-b42fmORnI-UNmTUeeKeO8E-2fahU/edit?usp=sharing" %}
+slides
+{% endembed %}
 
 ## 2.0 Chapters
 
-1.
+1. Introduction
+2. The Goal
+3. Summary
+4. Key Metrics
+5. Proposer Perspective
+6. Common Challenges
+7. Community Advisor Perspective
+8. Contact
