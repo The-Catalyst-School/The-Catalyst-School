@@ -10,7 +10,7 @@ description: Insight Sharing Workshop
 | teacher         | Tomi Astikainen, Filip Blagojevic              |
 | estimated\_time | 1:02:17                                        |
 | difficulty      | beginner                                       |
-| featured        | no                                             |
+| featured        | yes                                            |
 | scheduled\_at   | 21.02.2022 18:00                               |
 | intro           |                                                |
 | subtitle        | Insight Sharing Workshop                       |
