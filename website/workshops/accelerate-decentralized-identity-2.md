@@ -15,8 +15,8 @@ description: Find out more about the Accelerate Decentralized Identity challenge
 | intro           | Find out more about the Accelerate Decentralized Identity challenge. |
 | subtitle        | Insight Sharing Workshop                                             |
 
-{% embed url="https://www.youtube.com/watch?v=kfTZVk3n-B8" %}
-\[Fund 8] Introduction to Catalyst - The Catalyst School - 16th February 2022
+{% embed url="https://www.youtube.com/watch?v=aDZD22V0aP8" %}
+\[Fund 8] - Accelerate Decentralized Identity - Insight Sharing Workshops Series - 22 Feb 2022
 {% endembed %}
 
 ### Summary

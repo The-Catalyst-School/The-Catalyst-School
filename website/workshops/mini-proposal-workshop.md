@@ -10,7 +10,7 @@ description: >-
 | --------------- | --------------------------------------------------------------------------------------------------------------------- |
 | topics          | Proposal creation, Miro Board, Brainstorming, Decision Making                                                         |
 | teacher         | Tevo Saks                                                                                                             |
-| estimated\_time | 8:00:00                                                                                                               |
+| estimated\_time | 0:10:00                                                                                                               |
 | difficulty      | Medium                                                                                                                |
 | featured        | yes                                                                                                                   |
 | scheduled\_at   | 26.02.2022 11:00                                                                                                      |
@@ -20,6 +20,8 @@ description: >-
 {% embed url="https://www.youtube.com/watch?v=skXuXeJX4VY" %}
 This video is compiled together from different workshops to share insight into the proposal creation method.
 {% endembed %}
+
+### Summary
 
 In this video, you will see a compilation of edits explaining the Mini Proposal Workshop. You will learn why we create proposals and how to use the proposal method designed on Miro Board.
 

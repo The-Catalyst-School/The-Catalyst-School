@@ -21,8 +21,6 @@ description: >-
 \[Fund 8] - Improve and Grow Auditability - Insight Sharing Workshops Series
 {% endembed %}
 
-## 1.0 Improve and Grow Auditability
-
 ### 1.1 Summary
 
 Adapted from [Source](https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/insight-sharing/insight-sharing)
