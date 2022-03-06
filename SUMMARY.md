@@ -55,6 +55,7 @@
 
 ## Website
 
+* [Homepage](website/homepage.md)
 * [About](website/about.md)
 * [Workshops](website/workshops/README.md)
   * [Introduction to Catalyst](website/workshops/introduction-to-catalyst.md)
