@@ -1,3 +1,10 @@
+---
+description: >-
+  Catalyst School is a place to leverage the impact of Catalyst as a whole by
+  introducing and improving the contribution of all its different players and
+  roles.
+---
+
 # About
 
 | text           | avatar  | description                                                             |
@@ -9,8 +16,7 @@
 
 ### What is The Catalyst School
 
-Catalyst School is a place to leverage the impact of Catalyst as a whole by introducing and improving the contribution of all its different players and roles.\
-
+Catalyst School is a place to leverage the impact of Catalyst as a whole by introducing and improving the contribution of all its different players and roles.
 
 ### What is Catalyst
 

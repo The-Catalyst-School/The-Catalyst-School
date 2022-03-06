@@ -1,5 +1,7 @@
 ---
-description: Insight Sharing Workshop
+description: >-
+  Find out more about the "Improve and Grow Auditability" challenge in Fund 8
+  with the Insight Sharing Workshop by the Catalyst School.
 ---
 
 # Improve and Grow Auditability
@@ -10,7 +12,7 @@ description: Insight Sharing Workshop
 | teacher         | Stephen Whitenstall                  |
 | estimated\_time | 1:02:17                              |
 | difficulty      | beginner                             |
-| featured        | yes                                  |
+| featured        | no                                   |
 | scheduled\_at   | 21.02.2022 18:00                     |
 | intro           |                                      |
 | subtitle        | Insight Sharing Workshop             |

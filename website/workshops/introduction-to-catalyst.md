@@ -1,3 +1,7 @@
+---
+description: Find out how more about Project Catalyst with the Catalyst school workshop.
+---
+
 # Introduction to Catalyst
 
 | key             | value                                                                   |
@@ -9,19 +13,17 @@
 | featured        | yes                                                                     |
 | scheduled\_at   | 16.02.2022 18:00                                                        |
 | intro           | This workshop presents and overview about the Project Catalyst process. |
-| subtitle        |  introductory workshop about Catalyst                                   |
+| subtitle        | Introductory workshop about Catalyst                                    |
 
 {% embed url="https://www.youtube.com/watch?v=kfTZVk3n-B8" %}
 \[Fund 8] Introduction to Catalyst - The Catalyst School - 16th February 2022
 {% endembed %}
 
-## 1.0 Introduction to Catalyst
-
 ### 1.1 Summary
 
 In this workshop the **Catalyst School** team presents an overview of the _Project Catalyst_, going through each stage, presenting the roles in Catalyst, exploring how the funding circle works, where the funds come from, the meaning of _voting power_ and how the voting system works. __&#x20;
 
-#### It is also presented general information and how to use the [IdeaScale](https://cardano.ideascale.com/a/index) plataform.
+#### It is also presented general information and how to use the [IdeaScale](https://cardano.ideascale.com/a/index) platform.
 
 {% embed url="https://docs.google.com/presentation/u/1/d/1Yni4UXbZ-UpqG69YCNG5ZBqCBMnbxRTi_RnI9EoBSe8/edit?usp=sharing" %}
 F8 Introduction to Catalyst slidedeck
@@ -31,7 +33,7 @@ F8 Introduction to Catalyst slidedeck
 
 ![](../../.gitbook/assets/blog\_catalyst.jpg)
 
-## 2.0 Chapters
+### 2.0 Chapters
 
 1. About the Catalyst School
 2. What is Project Catalyst

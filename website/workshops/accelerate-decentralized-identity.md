@@ -1,34 +1,24 @@
 ---
-description: Insight Sharing Workshop
+description: Find out more about the Accelerate Decentralized Identity challenge in Fund 8.
 ---
 
 # Accelerate Decentralized Identity
 
-| key             | value                                          |
-| --------------- | ---------------------------------------------- |
-| topics          | descentralization, identity, Governance, Fund8 |
-| teacher         | TBC                                            |
-| estimated\_time | 1:02:17                                        |
-| difficulty      | beginner                                       |
-| featured        | no                                             |
-| scheduled\_at   | 21.02.2022 17:00                               |
-| intro           |                                                |
-| subtitle        | Insight Sharing Workshop                       |
-
-## 1.0 Accelerate Decentralized Identity
-
-### 1.1 Summary
-
-In this workshop hosted by **TBC** accelerate-decentralized-identity
-
-#### It is also presented general information accelerate-decentralized-identity
+| key             | value                                                                |
+| --------------- | -------------------------------------------------------------------- |
+| topics          | Decentralized identity, Governance, Fund8                            |
+| teacher         | Atala Prism Team                                                     |
+| estimated\_time | 1:02:17                                                              |
+| difficulty      | beginner                                                             |
+| featured        | no                                                                   |
+| scheduled\_at   | 21.02.2022 17:00                                                     |
+| intro           | Find out more about the Accelerate Decentralized Identity challenge. |
+| subtitle        | Insight Sharing Workshop                                             |
 
 {% embed url="https://youtu.be/f7L0tLJYEvo" %}
-\[Fund 8] - Accelerate Decentralized Identity - Insight Sharing Workshops Series - 21 Feb 202
+\[Fund 8] - Accelerate Decentralized Identity - Insight Sharing Workshops Series - 21 Feb 2022
 {% endembed %}
 
-> accelerate-decentralized-identity
+### Summary
 
-## 2.0 Chapters
-
-1.
+In this workshop for the Insight Sharing Stage for Fund 8, hosted by the Atala Prism Team, you will discover more about the Accelerate Decentralized Identity challenge in Fund 8.

@@ -1,4 +1,8 @@
-# Workshop 2: Proposing in Catalyst
+---
+description: Find out how to propose in Project Catalyst with the Catalyst school workshop.
+---
+
+# Proposing in Catalyst
 
 | key             | value                                                                  |
 | --------------- | ---------------------------------------------------------------------- |

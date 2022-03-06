@@ -1,8 +1,7 @@
 ---
 description: >-
-  In this video, you will see a compilation of edits explaining the Mini
-  Proposal Workshop. You will learn why we create proposals and how to use the
-  proposal method designed on Miro Board.
+  Learn how How to use Miro Board, How to start the process, Ending up with
+  Proposal requirements in the Mini Proposal Workshop for Fund 8
 ---
 
 # Mini Proposal Workshop
@@ -22,11 +21,9 @@ description: >-
 This video is compiled together from different workshops to share insight into the proposal creation method.
 {% endembed %}
 
-## 1 Mini Proposal Workshop
-
 In this video, you will see a compilation of edits explaining the Mini Proposal Workshop. You will learn why we create proposals and how to use the proposal method designed on Miro Board.
 
-### 1.1 Set up
+### Set up
 
 We meet up in Zoom call, we share
 
@@ -35,7 +32,7 @@ At the start of each event, I will share with everybody a Miro Board.\
 
 I quickly go through the general process but and then I introduce a chapter
 
-### 1.2 Process Framework
+### Process Framework
 
 On the left, you will find guides on how to use Miro Board features.\
 In the Middle: Process video, Workshop playlist, and Project Management Miro Board\
@@ -47,7 +44,7 @@ In each Chapter, Red boxes will have guiding questions.\
 In yellow boxes, we will select our answers\
 And the orange boxes will be optional guiding questions
 
-### 2 Chapters
+### Chapters
 
 1. **Problem Statement**
 2. **Scope Down Solution**
@@ -61,7 +58,7 @@ And the orange boxes will be optional guiding questions
 10. Estimations (components and delivery time)
 11. Proposal Cost
 
-### 3 Proposal Finalizing
+### Proposal Finalizing
 
 After the information is gathered copy the best stickies to Proposal Document.
 
@@ -69,6 +66,6 @@ Then finally make it readable and Format the text.
 
 Go through the latest Community Advisor checklist and add the missing information.
 
-### 4 Additional Information
+### Additional Information
 
-Project ManageMiro Board where you can find the latest information about workshops: [https://miro.com/app/board/uXjVOPvZaak=/?invite\_link\_id=238226485247](https://miro.com/app/board/uXjVOPvZaak=/?invite\_link\_id=238226485247)
+Project Manage Miro Board where you can find the latest information about workshops: [https://miro.com/app/board/uXjVOPvZaak=/?invite\_link\_id=238226485247](https://miro.com/app/board/uXjVOPvZaak=/?invite\_link\_id=238226485247)
