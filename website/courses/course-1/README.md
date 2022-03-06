@@ -4,14 +4,14 @@ description: Introduction course about Project Catalyst
 
 # Introduction to Catalyst
 
-| key             | value                                                                 |
-| --------------- | --------------------------------------------------------------------- |
-| topics          | Catalyst, Insight Sharing, Fund8, Process, Voting, IdeaScale,, School |
-| teacher         |                                                                       |
-| estimated\_time | 1:00:00                                                               |
-| difficulty      | beginner                                                              |
-| featured        | no                                                                    |
-| subtitle        | Learn about Project Catalyst, the process and stages.                 |
+| key             | value                                                 |
+| --------------- | ----------------------------------------------------- |
+| topics          | Catalyst, Insight Sharing, Fund8, Process, Voting     |
+| teacher         |                                                       |
+| estimated\_time | 1:00:00                                               |
+| difficulty      | beginner                                              |
+| featured        | no                                                    |
+| subtitle        | Learn about Project Catalyst, the process and stages. |
 
 ## About the course
 
