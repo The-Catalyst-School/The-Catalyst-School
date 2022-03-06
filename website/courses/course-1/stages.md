@@ -1,5 +1,7 @@
 # Stages
 
+### Catalyst stages
+
 Every Funding Round Follows these phases, usually in a timeframe of 1-2 weeks each:
 
 * **Insight Sharing**: The insight sharing phase consists of a stage where the Catalyst Community shares ideas about problems that need to be solved, possible ways to improve the Cardano and/or Catalyst ecosystem, and anything else that the Community intends to discuss.
