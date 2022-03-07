@@ -17,10 +17,10 @@ description: >-
 | intro           | Find out more about the Scale-Up Cardano's Community Hubs challenge. |
 | subtitle        | Insight Sharing Workshop                                             |
 
-{% embed url="https://www.youtube.com/watch?v=kfTZVk3n-B8" %}
-\[Fund 8] Introduction to Catalyst - The Catalyst School - 16th February 2022
+{% embed url="https://youtu.be/CNiqPDj2hs0" %}
+\[Fund 8] - Scale up Cardano Community Hubs - Insight Sharing Workshops Series - 22 Feb 2022
 {% endembed %}
 
 ### Summary
 
-In this workshop for the Insight Sharing Stage for Fund 8, hosted by the **Felix Weber**, you will discover more about the Scale-Up Cardano's Community Hubs challenge in Fund 8.
+In this workshop for the Fund 8 Insight Sharing Stage, hosted by the **Felix Weber**, you will discover more about the Scale-Up Cardano's Community Hubs challenge in Fund 8.

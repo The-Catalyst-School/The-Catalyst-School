@@ -21,4 +21,4 @@ How to be a Veteran Community Advisor? - The Catalyst School - 17-Dec-2021
 
 ### Summary
 
-In this workshop for the you will discover more about the Veteran Community Advisors and how you can participate as a vCA in the Project Catalyst Fund 7.
+In this workshop you will discover more about the Veteran Community Advisors and how you can participate as a vCA in the Project Catalyst Fund 7.

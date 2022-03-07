@@ -21,6 +21,6 @@ How to be a Community Advisor - Fund 7 - 06 December 2021
 
 ### Summary
 
-In this workshop for the you will discover more about the Community Advisor and how you can participate as a CA in the Project Catalyst Fund 7.
+In this workshop you will discover more about the Community Advisor and how you can participate as a CA in the Project Catalyst Fund 7.
 
 {% embed url="https://docs.google.com/presentation/d/1kAqtIQ5FKcHA6pIex9DThYjwVndmO5REh3kPanPof7g/edit#slide=id.ge9f0cee30e_0_0" %}

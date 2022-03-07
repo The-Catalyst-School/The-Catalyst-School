@@ -31,8 +31,6 @@ The workshops take place in Zoom meetings and will last up to 2 hours. One or tw
 
 The goal is to have an interactive, open conversation with everyone. Presenters decide the details of the presentation, but the idea is to leave space for everyone to interact and share their perspectives.
 
-> improve-and-grow-auditability
-
 {% embed url="https://docs.google.com/presentation/d/1ZJZAOdaJ2yoms9M6sVNrvZgzqsvq4dDjAWSMPQGaG28/edit?usp=sharing" %}
 Insight Sharing Workshop - Fund 8 – Improve & Grow Auditability
 {% endembed %}

@@ -21,4 +21,4 @@ description: Find out more about the Accelerate Decentralized Identity challenge
 
 ### Summary
 
-In this workshop for the Insight Sharing Stage for Fund 8, hosted by the Atala Prism Team, you will discover more about the Accelerate Decentralized Identity challenge in Fund 8.
+In this workshop for the Fund 8 Insight Sharing Stage, hosted by the Atala Prism Team, you will discover more about the Accelerate Decentralized Identity challenge in Fund 8.
