@@ -71,9 +71,10 @@
   * [How to be a Veteran Community Advisor](website/workshops/how-to-be-a-veteran-community-advisor-1.md)
 * [Courses](website/courses/README.md)
   * [Introduction to Catalyst](website/courses/course-1/README.md)
+    * [Welcome to Catalyst School](website/courses/course-1/welcome-to-catalyst-school.md)
     * [What is Project Catalyst?](website/courses/course-1/what-is-project-catalyst.md)
+    * [Funding Cycle](website/courses/course-1/funding-cycle.md)
     * [Roles](website/courses/course-1/roles.md)
-    * [Stages](website/courses/course-1/stages.md)
 * [FAQ](website/faq.md)
 * [Events](website/events.md)
 
