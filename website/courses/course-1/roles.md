@@ -1,10 +1,5 @@
 # Roles
 
-| key             | value     |
-| --------------- | --------- |
-| teacher         | Tevo Saks |
-| estimated\_time | 0:05:00   |
-
 ### Roles&#x20;
 
 {% embed url="https://docs.google.com/presentation/d/1DyiNeWTxLT3MfemxkfarV0ylr3AaBbE5u8U6_SdHSx8/edit?usp=sharing" %}
