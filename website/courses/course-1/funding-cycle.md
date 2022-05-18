@@ -17,7 +17,7 @@ The Funding Cycle consists of stages. Each can have its timeframe.
 
 **Assessing Proposals:** Evaluate the proposals based on impact, feasibility, and audibility. [Community Advisor Assessment Guide - Fund8 (official)](https://docs.google.com/document/d/1g-iZhDlKhUBZkui1uv8NVNfJC4oVD3JtR-P6Fue7XPU/edit)
 
-Assessing Assessments: Selected Community Advisors grade the assessments and mark invalid assessments for removal.\
+**Assessing Assessments:** Selected Community Advisors grade the assessments and mark invalid assessments for removal.\
 [Veteran Community Advisor Guide - Fund8 (official)](https://docs.google.com/document/d/1eSX455MCilIe247xRVi51UZLGfKGPBrxJthvtV5sASg/edit)
 
 **Voting on Proposals:** Ada-holders can vote on their preferred Catalyst proposals to decide who will receive the funding.\
