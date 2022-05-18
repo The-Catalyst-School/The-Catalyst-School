@@ -3,6 +3,8 @@
 ### Roles&#x20;
 
 {% embed url="https://docs.google.com/presentation/d/1DyiNeWTxLT3MfemxkfarV0ylr3AaBbE5u8U6_SdHSx8/edit?usp=sharing" %}
+Introduction To Catalyst - Roles (website edition)
+{% endembed %}
 
 Project Catalyst has multiple roles that are paid by Project Catalyst.\
 You are able to have an impact on collective knowledge with just a few engagements.
