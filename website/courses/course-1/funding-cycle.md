@@ -1,12 +1,12 @@
 # Funding Cycle
 
 {% embed url="https://youtu.be/o872SSuT2so" %}
+testing video
+{% endembed %}
 
 {% embed url="https://docs.google.com/presentation/d/1MpESw2tbmAKVRnWYIWWQZgrxRD5WdQO3SPUbyPpf2SE/edit?usp=sharing" %}
 Introduction To Catalyst - Funding Cycle (website edition)
 {% endembed %}
-
-### Catalyst stages
 
 The Funding Cycle consists of stages. Each can have its timeframe.
 
