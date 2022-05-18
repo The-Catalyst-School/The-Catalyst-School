@@ -1,13 +1,28 @@
-# Stages
+# Funding Cycle
+
+{% embed url="https://docs.google.com/presentation/d/1MpESw2tbmAKVRnWYIWWQZgrxRD5WdQO3SPUbyPpf2SE/edit?usp=sharing" %}
 
 ### Catalyst stages
 
-Every Funding Round Follows these phases, usually in a timeframe of 1-2 weeks each:
+The Funding Cycle consists of stages. Each can have its timeframe.
 
-* **Insight Sharing**: The insight sharing phase consists of a stage where the Catalyst Community shares ideas about problems that need to be solved, possible ways to improve the Cardano and/or Catalyst ecosystem, and anything else that the Community intends to discuss.
-* **Proposal draft submission**: During this stage, any community member is able to submit proposals. The proposals can be edited anytime until the end of the ‘Proposals Finalizing’ phase. So, if the idea/project/proposal is not complete yet, for example, the proposer can submit a seed/draft of his proposal and edit it later on.
-* **Proposal refinement**: All community members are encouraged to go through the proposals and talk to the proposers about their perception of each idea, suggest ways to improve, mention similar projects to encourage cooperation, and help the proposers in any way they feel like.
-* **Proposal Finalization**: this is the last chance for proposers to do modifications to their proposals prior to the Proposal Review’ phase. During this week, the proposals comment section in IdeaScale is closed, so proposers have the time to consolidate the suggestions made by the community, go through the proposer checklist, and finalize their proposals.
-* **Proposals Assessments:** The ‘Proposals assessment’ phase is the time when Community Advisors evaluate the proposals based on a set of criteria, and then proposers can flag the assessments if they believe certain assessments are not following the guidelines.
-* **Assessment Quality Control:** This Stage was set for the vCAs to a rate the assessments, consider the proposer’s flag and remove the invalid ones.
-* **The governance phase**: is the voting phase, in which all eligible ADA delegators or Stake Pool Operators (SPOs) can register to vote on their preferred Catalyst proposals and decide who will receive the Fund.
+**Sharing Insights:** Share ideas about problems that need to be solved and possible ways to improve the Cardano and/or Catalyst ecosystem.\
+[Improve & Grow Auditability Insight Sharing GitBook](https://quality-assurance-dao.gitbook.io/improve-and-grow-auditability/insight-sharing/insight-sharing#auditability-insight-sharing-workshop)
+
+**Submitting Proposals:** Submit a draft proposal to introduce your idea. The earlier you submit your proposal, the earlier you’ll receive feedback to help you create the best version of your proposal. [Project Catalyst - Proposal Template by Felix](https://docs.google.com/document/d/185Dj\_t07C2LJQO1tif1aXhq\_1zqZ-3RsGZAvS7mtiyI/edit?usp=sharing)
+
+**Publishing Proposals:** All community members are encouraged to review proposals and provide comments to suggest ways that proposers may improve their idea. Mention similar projects to encourage cooperation.
+
+**Finalizing Proposals:** A submitted proposal can be edited anytime until the end of this stage.
+
+**Assessing Proposals:** Evaluate the proposals based on impact, feasibility, and audibility. [Community Advisor Assessment Guide - Fund8 (official)](https://docs.google.com/document/d/1g-iZhDlKhUBZkui1uv8NVNfJC4oVD3JtR-P6Fue7XPU/edit)
+
+Assessing Assessments: Selected Community Advisors grade the assessments and mark invalid assessments for removal.\
+[Veteran Community Advisor Guide - Fund8 (official)](https://docs.google.com/document/d/1eSX455MCilIe247xRVi51UZLGfKGPBrxJthvtV5sASg/edit)
+
+**Voting on Proposals:** Ada-holders can vote on their preferred Catalyst proposals to decide who will receive the funding.\
+[Voter Registration and Voting Guide](https://iohk.zendesk.com/hc/en-us/articles/900005679386)
+
+**Cooldown:** We have a break between funding cycles.
+
+Want to learn about exact dates, here is the [current fund timeline](https://cardanocataly.st/en/funds/).
