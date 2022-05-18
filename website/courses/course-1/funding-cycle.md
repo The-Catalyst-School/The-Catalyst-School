@@ -1,5 +1,7 @@
 # Funding Cycle
 
+## FUNDING CYCLE
+
 {% embed url="https://youtu.be/o872SSuT2so" %}
 testing video
 {% endembed %}
