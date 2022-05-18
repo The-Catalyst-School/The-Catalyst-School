@@ -1,23 +1,30 @@
 # Roles
 
-| key             | value   |
-| --------------- | ------- |
-| teacher         |         |
-| estimated\_time | 0:05:00 |
+| key             | value     |
+| --------------- | --------- |
+| teacher         | Tevo Saks |
+| estimated\_time | 0:05:00   |
 
 ### Roles&#x20;
 
-Project Catalyst has multiple roles that are paid by Project Catalyst:&#x20;
+{% embed url="https://docs.google.com/presentation/d/1DyiNeWTxLT3MfemxkfarV0ylr3AaBbE5u8U6_SdHSx8/edit?usp=sharing" %}
 
-* **Proposer** - proposes projects or challenges to receive funding for.&#x20;
-* **Community Advisor** - Assesses proposals and receives rewards depending on their assessment quality.&#x20;
-* **Veteran community advisor** - Checks for the quality of the assessments.&#x20;
-* **Referrer** - referred a successful proposer.&#x20;
-* **Voter** - Votes on the proposal after assessment.&#x20;
-* **Circle members** - a group of community members that serve as a sensor array to IOG.&#x20;
-* **Circle member admins** - Help circle members with administration.&#x20;
-* **Challenge Teams** - Guide and Administer Challenges throughout the Funding-round.
+Project Catalyst has multiple roles that are paid by Project Catalyst.\
+You are able to have an impact on collective knowledge with just a few engagements.
 
-The Roles in Project Catalyst can be active over long or short duration.&#x20;
+**Proposer -** Got an idea?\
+Create an impactful proposal and collaborate with the community to refine it.\
+[Project Catalyst - Proposal Template](https://docs.google.com/document/d/1yp0j3BSR3iwrJ0E77mQRBRBCl40rD5wLvYUUuPsv0sw/edit?usp=sharing)
 
-Every Funding round takes 3 months and the Community Advisor assesses proposals over one week in the Funding-round, but the Challenge Teams are actively engaging with their Challenge throughout the entire funding process.
+**Community Advisor** - Provide reviews and assessments.\
+Mentor proposers in their delivery and presentation.\
+[Community Advisor Assessment Guide - Fund8 (official)](https://docs.google.com/document/d/1g-iZhDlKhUBZkui1uv8NVNfJC4oVD3JtR-P6Fue7XPU/edit)
+
+**Voter** - Choose proposals that should get funding.\
+[Voter Registration and Voting Guide\
+](https://iohk.zendesk.com/hc/en-us/articles/900005679386)Try voting for fund 8 Proposals on a community-created tool:\
+[https://cardanocataly.st/voter-tool/#/](https://cardanocataly.st/voter-tool/#/)
+
+**Catalyst Governance Group** - Sensor problems and helps us improve Project Catalyst and collaboration between evergrowing communities.\
+Governance group introduction: [Catalyst Circle](https://docs.google.com/document/d/1af24MHCXI3nbyN4Z0vItmWtvrySsBcurUUeCK3JDLnU/edit?usp=sharing)\
+[Project Catalyst - Funded Projects Reporting (public MVP)](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=938310766)
