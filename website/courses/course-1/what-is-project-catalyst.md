@@ -12,16 +12,17 @@ description: After this lesson you should be able to understand what is Project 
 Project Catalyst – the world’s largest decentralized innovation fund – Head of Product for Governance, Dor Garbash, reflects on the future of on-chain governance.
 {% endembed %}
 
-Imagine a group of people coming together who are passionate about solving specific problems and working together to explore the highest potential of human collaboration. As you look closer you will see a lot of collected problems and challenges from different perspectives. In order to prioritize treasury distribution, we follow a funding process and govern it as we go.
+Imagine a group of people who are passionate about solving specific problems and working together to explore the highest potential of human collaboration. As you look closer, you'll see a collection of problems and challenges from different perspectives. So in order to prioritize treasury distribution, we follow a funding process and govern it as we go.
 
-Since Catalyst is so fundamentally different from what we know from institutions in the traditional economy, it is also widely referred to simply as an experiment.
+Because Catalyst's governance structure departs from organizations in the traditional economy, it is also widely referred to simply as an experiment.
 
-Learn more about Cardano and Catalyst through Charles Hoskinson's visions
+Learn more about Cardano and Catalyst
 
-* Cardano: [https://www.youtube.com/watch?v=yPoAep-P6Y4](https://www.youtube.com/watch?v=yPoAep-P6Y4)
-* Project Catalyst: [https://www.youtube.com/watch?v=7\_zIzjWZHgg\&t=291s](https://www.youtube.com/watch?v=7\_zIzjWZHgg\&t=291s)
+* Cardano: [the vision for the future of Cardano](https://www.youtube.com/watch?v=yPoAep-P6Y4)
+* Project Catalyst:[ Governance and Cardano](https://www.youtube.com/watch?v=7\_zIzjWZHgg\&t=291s)
+* Blog about Catalyst: [A virtuous cycle of Cardano ecosystem development](https://iohk.io/en/blog/posts/2022/05/10/project-catalyst-a-virtuous-cycle-of-cardano-ecosystem-development-investing-in-great-ideas-to-make-positive-real-world-changes/)
 
-Most importantly, what is your vision how could you collaborate with Project Catalyst?
+More importantly, what is your vision? How could you take part in the Catalyst experiment?
 
 * [ ] What do you want to give?
 * [ ] What do you want to get?
