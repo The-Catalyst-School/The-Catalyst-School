@@ -40,7 +40,7 @@ On the left, you will find guides on how to use Miro Board features.\
 In the Middle: Process video, Workshop playlist, and Project Management Miro Board\
 On the right, there will be all the chapters
 
-![Mini Proposal Template](../../.gitbook/assets/image.png)
+![Mini Proposal Template](<../../.gitbook/assets/image (1).png>)
 
 In each Chapter, Red boxes will have guiding questions.\
 In yellow boxes, we will select our answers\
