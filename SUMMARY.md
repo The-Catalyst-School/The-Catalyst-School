@@ -74,6 +74,7 @@
     * [Welcome to Catalyst](website/courses/course-1/welcome-to-catalyst.md)
     * [What is Project Catalyst?](website/courses/course-1/what-is-project-catalyst.md)
     * [Roles](website/courses/course-1/roles.md)
+    * [Challenges & Proposals](website/courses/course-1/challenges-and-proposals.md)
     * [Funding Cycle](website/courses/course-1/funding-cycle.md)
     * [Catalyst Treasury](website/courses/course-1/catalyst-treasury.md)
 * [FAQ](website/faq.md)
