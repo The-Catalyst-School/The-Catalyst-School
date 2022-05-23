@@ -77,6 +77,7 @@
     * [Challenges & Proposals](website/courses/course-1/challenges-and-proposals.md)
     * [Funding Cycle](website/courses/course-1/funding-cycle.md)
     * [Catalyst Treasury](website/courses/course-1/catalyst-treasury.md)
+    * [What Now?](website/courses/course-1/what-now.md)
 * [FAQ](website/faq.md)
 * [Events](website/events.md)
 
