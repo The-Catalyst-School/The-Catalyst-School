@@ -2,7 +2,9 @@
 
 ## FUNDING CYCLE
 
-{% embed url="https://youtu.be/LiJ8IhZDqXw" %}
+{% embed url="https://youtu.be/D4sMkJguz_k" %}
+Tevo Saks is a proud member of Catalyst School and Catalyst Swarm
+{% endembed %}
 
 The Funding Cycle consists of stages. Each can have its timeframe.
 
