@@ -4,10 +4,6 @@
 
 {% embed url="https://youtu.be/LiJ8IhZDqXw" %}
 
-{% embed url="https://docs.google.com/presentation/d/1MpESw2tbmAKVRnWYIWWQZgrxRD5WdQO3SPUbyPpf2SE/edit?usp=sharing" %}
-Introduction To Catalyst - Funding Cycle (website edition)
-{% endembed %}
-
 The Funding Cycle consists of stages. Each can have its timeframe.
 
 **Sharing Insights:** Share ideas about problems that need to be solved and possible ways to improve the Cardano and/or Catalyst ecosystem.\
@@ -30,3 +26,7 @@ The Funding Cycle consists of stages. Each can have its timeframe.
 **Cooldown:** We have a break between funding cycles.
 
 Want to learn about exact dates, here is the [current fund timeline](https://cardanocataly.st/en/funds/).
+
+{% embed url="https://docs.google.com/presentation/d/1MpESw2tbmAKVRnWYIWWQZgrxRD5WdQO3SPUbyPpf2SE/edit?usp=sharing" %}
+Introduction To Catalyst - Funding Cycle (website edition)
+{% endembed %}

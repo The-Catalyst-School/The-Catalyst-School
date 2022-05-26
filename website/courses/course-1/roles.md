@@ -1,10 +1,6 @@
 # Roles
 
-### Roles&#x20;
-
-{% embed url="https://docs.google.com/presentation/d/1DyiNeWTxLT3MfemxkfarV0ylr3AaBbE5u8U6_SdHSx8/edit?usp=sharing" %}
-Introduction To Catalyst - Roles (website edition)
-{% endembed %}
+\[video]
 
 Project Catalyst has multiple roles that are paid by Project Catalyst.\
 You are able to have an impact on collective knowledge with just a few engagements.
@@ -27,3 +23,7 @@ Governance group introduction: [Catalyst Circle](https://docs.google.com/documen
 [Project Catalyst - Funded Projects Reporting (public MVP)](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=938310766)
 
 ![](../../../.gitbook/assets/image.png)
+
+{% embed url="https://docs.google.com/presentation/d/1DyiNeWTxLT3MfemxkfarV0ylr3AaBbE5u8U6_SdHSx8/edit?usp=sharing" %}
+Introduction To Catalyst - Roles (website edition)
+{% endembed %}

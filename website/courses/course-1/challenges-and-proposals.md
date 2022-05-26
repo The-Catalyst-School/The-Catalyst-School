@@ -1,8 +1,6 @@
 # Challenges & Proposals
 
-{% embed url="https://docs.google.com/presentation/d/1AtP1_-jcoZDvPE0iyAWPhYY_h27rXPQmEcJFRaiMk6w/edit?usp=sharing" %}
-Introduction to Catalyst - Challenges & Proposals
-{% endembed %}
+\[video]
 
 Catalyst aims to support many different types of projects with many different goals, from community building to developer tools.
 
@@ -39,3 +37,7 @@ c) Challenges are categories to group proposals
 ****[Catalyst Voter Tool\
 ](https://cardanocataly.st/voter-tool/#/)[Fund 8 Challenge\
 ](https://catalystswarm.com/project-catalyst/fund8-challenge-teams/)[Teams Catalyst Explorer](https://catalystswarm.com/project-catalyst/fund8-challenge-teams/)
+
+{% embed url="https://docs.google.com/presentation/d/1AtP1_-jcoZDvPE0iyAWPhYY_h27rXPQmEcJFRaiMk6w/edit?usp=sharing" %}
+Introduction to Catalyst - Challenges & Proposals
+{% endembed %}
