@@ -1,5 +1,7 @@
 # What Now?
 
+### What Now?
+
 **Do you want to submit a proposal?**
 
 * Join Fund 9 [Catalyst Townhall](https://bit.ly/3rCicSR) launch party 01.06.2022 17:00 UTC

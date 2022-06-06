@@ -1,5 +1,7 @@
 # Welcome to Catalyst
 
+### Welcome to Catalyst
+
 Catalyst school is a place to experiment with onboarding people to Project Catalyst.
 
 Catalyst is a great place to connect with new people and learn about new ideas.\

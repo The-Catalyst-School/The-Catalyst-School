@@ -24,5 +24,5 @@ Learn more about Cardano and Catalyst
 
 More importantly, what is your vision? How could you take part in the Catalyst experiment?
 
-* What do you want to give?
-* What do you want to get?
+* [ ] What do you want to give?
+* [ ] What do you want to get?

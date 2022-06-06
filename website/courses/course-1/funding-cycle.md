@@ -1,6 +1,6 @@
 # Funding Cycle
 
-## FUNDING CYCLE
+## Funding Cycle
 
 {% embed url="https://youtu.be/D4sMkJguz_k" %}
 Tevo Saks is a proud member of Catalyst School and Catalyst Swarm

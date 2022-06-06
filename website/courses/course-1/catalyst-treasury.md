@@ -1,5 +1,7 @@
 # Catalyst Treasury
 
+### Catalyst Treasury
+
 ADA holders pay transaction fees according to the protocol that distributes value between the Stakepool Operator and the Cardano Treasury
 
 1.  The amount delegated to a stake pool is the primary way the protocol chooses who adds the next block to the blockchain.
