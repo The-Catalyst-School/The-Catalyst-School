@@ -1,6 +1,6 @@
 # Challenges & Proposals
 
-### Challenges & Proposals
+\[video]
 
 Catalyst aims to support many different types of projects with many different goals, from community building to developer tools.
 
@@ -20,7 +20,7 @@ If you are going to submit a proposal it is recommended to spend the time readin
 
 Each Challenge is very different and will be looking to solve specific problems, the closer your proposal aligns to a challenge, the better suited it will be to that category.
 
-### Questions
+**Questions:**
 
 What is the purpose of challenges?\
 a) Appoint challenge proposers to distribute funds to proposals\
@@ -30,10 +30,10 @@ c) Provide alignment or scope for proposals
 What is the difference between challenges and proposals?\
 a) Challenges are problems people face when writing proposals\
 b) They are unrelated\
-c) Challenges are categories to group proposals&#x20;
+c) Challenges are categories to group proposals
 
 **Links to engage with proposers and proposals**\
-[Cardano Ideascale](https://cardano.ideascale.com/)****\
+****[Cardano Ideascale](https://cardano.ideascale.com/)****\
 ****[Catalyst Voter Tool\
 ](https://cardanocataly.st/voter-tool/#/)[Fund 8 Challenge\
 ](https://catalystswarm.com/project-catalyst/fund8-challenge-teams/)[Teams Catalyst Explorer](https://catalystswarm.com/project-catalyst/fund8-challenge-teams/)
