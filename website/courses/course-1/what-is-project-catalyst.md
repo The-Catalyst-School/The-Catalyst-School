@@ -4,8 +4,6 @@ description: After this lesson you should be able to understand what is Project 
 
 # What is Project Catalyst?
 
-
-
 ### What is Cardano Project Catalyst?
 
 {% embed url="https://www.youtube.com/watch?v=WWgwVKqUiig" %}
@@ -24,5 +22,5 @@ Learn more about Cardano and Catalyst
 
 More importantly, what is your vision? How could you take part in the Catalyst experiment?
 
-* [ ] What do you want to give?
-* [ ] What do you want to get?
+* What do you want to give?
+* What do you want to get?
