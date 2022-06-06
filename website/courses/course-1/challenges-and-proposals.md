@@ -1,6 +1,6 @@
 # Challenges & Proposals
 
-\[video]
+### Challenges & Proposals
 
 Catalyst aims to support many different types of projects with many different goals, from community building to developer tools.
 
@@ -20,7 +20,7 @@ If you are going to submit a proposal it is recommended to spend the time readin
 
 Each Challenge is very different and will be looking to solve specific problems, the closer your proposal aligns to a challenge, the better suited it will be to that category.
 
-**Questions:**
+### Questions
 
 What is the purpose of challenges?\
 a) Appoint challenge proposers to distribute funds to proposals\

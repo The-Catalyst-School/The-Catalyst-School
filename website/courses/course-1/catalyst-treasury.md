@@ -1,13 +1,12 @@
 # Catalyst Treasury
 
-\[Video]
+ADA holders pay transaction fees according to the protocol that distributes value between the Stakepool Operator and the Cardano Treasury
 
-1. ADA holders pay transaction fees according to the protocol that distributes value between the Stakepool Operator and the Cardano Treasury
-2.  The amount delegated to a stake pool is the primary way the protocol chooses who adds the next block to the blockchain.
+1.  The amount delegated to a stake pool is the primary way the protocol chooses who adds the next block to the blockchain.
 
     Learn more about delegating on the [Cardano.org website](https://cardano.org/stake-pool-delegation/)
-3. Part of the Cardano Treasury funds goes to Project Catalyst Experiments.
-4. This Project Catalyst allocation is shared between Proposers, Assessors, Referrers, and Challenge Teams
+2. Part of the Cardano Treasury funds goes to Project Catalyst Experiments.
+3. This Project Catalyst allocation is shared between Proposers, Assessors, Referrers, and Challenge Teams
 
 You can learn about the theory of how treasury came to be in the [Treasury Systems research article](https://iohk.io/en/research/library/papers/a-treasury-system-for-cryptocurrenciesenabling-better-collaborative-intelligence/) by Bingsheng Zhang, Roman Oliynykov, and Hamed Balogun.
 

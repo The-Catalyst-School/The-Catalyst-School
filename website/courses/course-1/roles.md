@@ -1,7 +1,5 @@
 # Roles
 
-\[video]
-
 Project Catalyst has multiple roles that are paid by Project Catalyst.\
 You are able to have an impact on collective knowledge with just a few engagements.
 
