@@ -1,6 +1,6 @@
 # Funding Cycle
 
-## Funding Cycle
+## FUNDING CYCLE
 
 {% embed url="https://youtu.be/D4sMkJguz_k" %}
 Tevo Saks is a proud member of Catalyst School and Catalyst Swarm
@@ -8,10 +8,10 @@ Tevo Saks is a proud member of Catalyst School and Catalyst Swarm
 
 The Funding Cycle consists of stages. Each can have its timeframe.
 
-**Sharing Insights:** Share ideas about problems that need to be solved and possible ways to improve the Cardano and/or Catalyst ecosystem. \
+**Sharing Insights:** Share ideas about problems that need to be solved and possible ways to improve the Cardano and/or Catalyst ecosystem.\
 [Improve & Grow Auditability Insight Sharing GitBook](https://quality-assurance-dao.gitbook.io/improve-and-grow-auditability/insight-sharing/insight-sharing#auditability-insight-sharing-workshop)
 
-**Submitting Proposals:** Submit a draft proposal to introduce your idea. The earlier you submit your proposal, the earlier you’ll receive feedback to help you create the best version of your proposal.  [Project Catalyst - Proposal Template by Felix](https://docs.google.com/document/d/185Dj\_t07C2LJQO1tif1aXhq\_1zqZ-3RsGZAvS7mtiyI/edit?usp=sharing)
+**Submitting Proposals:** Submit a draft proposal to introduce your idea. The earlier you submit your proposal, the earlier you’ll receive feedback to help you create the best version of your proposal. [Project Catalyst - Proposal Template by Felix](https://docs.google.com/document/d/185Dj\_t07C2LJQO1tif1aXhq\_1zqZ-3RsGZAvS7mtiyI/edit?usp=sharing)
 
 **Refining Proposals:** All community members are encouraged to review proposals and provide comments to suggest ways that proposers may improve their idea. Mention similar projects to encourage cooperation. Publish your own proposals to a wider audience.
 
