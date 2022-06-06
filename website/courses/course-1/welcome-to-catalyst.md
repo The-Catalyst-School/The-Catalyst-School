@@ -1,6 +1,4 @@
-# Welcome to Catalyst
-
-### Welcome to Catalyst
+# Welcome to Catalyst School
 
 Catalyst school is a place to experiment with onboarding people to Project Catalyst.
 
@@ -10,5 +8,5 @@ It's also governance experimentation where every contribution increases your sta
 
 We would be interested to learn how did you make your way here.
 
-* How did you find out about Cardano?
-* Why did you join Catalyst?
+* [ ] How did you find out about Cardano?
+* [ ] Why did you join Catalyst?

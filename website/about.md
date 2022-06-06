@@ -7,15 +7,24 @@ description: >-
 
 # About
 
-### **The Catalyst School: what is it all about?**
+| text           | avatar  | description                                                             |
+| -------------- | ------- | ----------------------------------------------------------------------- |
+| Victor Corcino | 1-1.svg | <p>Director<br><a href="mailto:email@email.com">email@email.com</a></p> |
+| Victor Corcino | 1-2.svg | <p>Director<br><a href="mailto:email@email.com">email@email.com</a></p> |
+| Victor Corcino | 5-2.svg | <p>Director<br><a href="mailto:email@email.com">email@email.com</a></p> |
+| Victor Corcino | 7-2.svg | <p>Director<br><a href="mailto:email@email.com">email@email.com</a></p> |
 
-The **Catalyst School** is a place created to **enhance the impact of Project Catalyst** as a whole by **improving the contribution of all its different players and roles**. We **onboard new members** and help **improving their skills** along the way, in any way they decide to engage with Catalyst: as a **Proposer**, a **Community Advisor**, a **Veteran Community Advisor** or **without any specific role** within the process. In order for **Catalyst** to **flourish** and **reach its full potential**, all these roles need to **give their best contribution** within the process.
+### What is The Catalyst School
 
-We understand that **different people** prefer **different learning methods**. Therefore, the School aims to help the community through:
+Catalyst School leverages the impact of Catalyst by improving the contribution of all its different players and roles through training & education.
 
-* Live **sessions** and **workshops**.
-* **1-to-1** and **group support** in many **different languages**.
-* Interactive **website**.
-* **Other workshops** related to Catalyst.
+### What is Catalyst
 
-The Catalyst School is **helping the community since the beginning of Fund 6**. We are doing that so we can **receive feedback** from the community and **improve our teaching methods and content** so we reach the **highest Return on Intention** we can.
+Project Catalyst is a series of experiments which seeks to generate the highest levels of community innovation.&#x20;
+
+Catalyst is bringing on-chain governance to the Cardano blockchain by enabling the community to determine priorities for growth themselves. It also lets participants fund proposals which tackle Community set Challenges. Catalyst capitalizes on opportunities that arise in the life cycle of Cardano.
+
+Project Catalyst is a continuous innovation fund which is deployed every three months. These funds will illicit ideas in the form of proposals from participants. Each proposal will focus around a challenge issued by the Project Catalyst team or the Project Catalyst community.&#x20;
+
+The proposals will then go through a community refinement process where they are vetted for feasibility, auditability, and impact by a group of incentivized community advisors. Once the proposals have been finalized they will be voted on by the community and funds will be distributed in the form of ada to winning projects.
+

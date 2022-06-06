@@ -1,6 +1,6 @@
 # Roles
 
-### Roles in Project Catalyst
+\[video]
 
 Project Catalyst has multiple roles that are paid by Project Catalyst.\
 You are able to have an impact on collective knowledge with just a few engagements.
@@ -9,9 +9,8 @@ You are able to have an impact on collective knowledge with just a few engagemen
 Create an impactful proposal and collaborate with the community to refine it.\
 [Project Catalyst - Proposal Template by Felix](https://docs.google.com/document/d/185Dj\_t07C2LJQO1tif1aXhq\_1zqZ-3RsGZAvS7mtiyI/edit?usp=sharing)
 
-**Community Advisor / Proposal Assessor** - Provide reviews and assessments.\
+**Community Advisor** - Provide reviews and assessments.\
 Mentor proposers in their delivery and presentation.\
-From Fund 9 the official role name is Proposal Assessor.\
 [Community Advisor Assessment Guide - Fund8 (official)](https://docs.google.com/document/d/1g-iZhDlKhUBZkui1uv8NVNfJC4oVD3JtR-P6Fue7XPU/edit)
 
 **Voter** - Choose proposals that should get funding.\
