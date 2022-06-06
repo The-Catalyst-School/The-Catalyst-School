@@ -33,7 +33,7 @@ b) They are unrelated\
 c) Challenges are categories to group proposals
 
 **Links to engage with proposers and proposals**\
-****[Cardano Ideascale](https://cardano.ideascale.com/)****\
+[Cardano Ideascale](https://cardano.ideascale.com/)****\
 ****[Catalyst Voter Tool\
 ](https://cardanocataly.st/voter-tool/#/)[Fund 8 Challenge\
 ](https://catalystswarm.com/project-catalyst/fund8-challenge-teams/)[Teams Catalyst Explorer](https://catalystswarm.com/project-catalyst/fund8-challenge-teams/)
