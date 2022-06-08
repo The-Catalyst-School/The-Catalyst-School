@@ -2,6 +2,10 @@
 
 ### Roles in Project Catalyst
 
+{% embed url="https://www.youtube.com/watch?v=t_TsjwDUE7Y" %}
+Shirah is a happy sprite who helped Catalyst School to design and put Introduction to Catalyst content together
+{% endembed %}
+
 Project Catalyst has multiple roles that are paid by Project Catalyst.\
 You are able to have an impact on collective knowledge with just a few engagements.
 
