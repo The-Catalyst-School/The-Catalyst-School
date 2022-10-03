@@ -11,7 +11,7 @@ You are able to have an impact on collective knowledge with just a few engagemen
 
 **Proposer -** Got an idea?\
 Create an impactful proposal and collaborate with the community to refine it.\
-[Project Catalyst - Proposal Template by Felix](https://docs.google.com/document/d/185Dj\_t07C2LJQO1tif1aXhq\_1zqZ-3RsGZAvS7mtiyI/edit?usp=sharing)
+[Project Catalyst - Proposal Template by Felix](https://docs.google.com/document/d/1zxanr76RlmItcQBxTtD3sUMoD1qFf1-PSXdnZEeOR4I/edit)
 
 **Community Advisor / Proposal Assessor** - Provide reviews and assessments.\
 Mentor proposers in their delivery and presentation.\

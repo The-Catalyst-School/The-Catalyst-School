@@ -6,7 +6,7 @@
 
 * Join Fund 9 [Catalyst Townhall](https://bit.ly/3rCicSR) launch party 01.06.2022 17:00 UTC&#x20;
 * Fund 9 proposal submission starts 09.06.2022 \~11:00 UTC
-* Here is a link for the proposal template: [Project Catalyst - Proposal Template by Felix](https://docs.google.com/document/d/185Dj\_t07C2LJQO1tif1aXhq\_1zqZ-3RsGZAvS7mtiyI/edit?usp=sharing)
+* Here is a link for the proposal template: [Project Catalyst - Proposal Template by Felix](https://docs.google.com/document/d/1zxanr76RlmItcQBxTtD3sUMoD1qFf1-PSXdnZEeOR4I/edit)
 * Create an account and explore Proposal Platform: [Cardano Ideascale](https://cardano.ideascale.com/a/index)
 * Got any questions? [Join Catalyst School Discord](https://discord.gg/u8yevakksb)
 
