@@ -21,6 +21,10 @@ description: >-
 This video is compiled together from different workshops to share insight into the proposal creation method.
 {% endembed %}
 
+## Disclaimer
+
+<mark style="color:red;">Fund 10 Workshop material will be uploaded here on February 2023</mark>
+
 ### Summary
 
 In this video, you will see a compilation of edits explaining the Mini Proposal Workshop. You will learn why we create proposals and how to use the proposal method designed on Miro Board.
