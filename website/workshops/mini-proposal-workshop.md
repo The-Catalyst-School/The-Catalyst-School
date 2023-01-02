@@ -17,9 +17,7 @@ description: >-
 | intro           | <ul><li>How to use Miro Board</li><li>How to start the process</li><li>Ending up with Proposal requirements</li></ul> |
 | subtitle        | Process Compilation                                                                                                   |
 
-{% embed url="https://www.youtube.com/watch?v=skXuXeJX4VY" %}
-This video is compiled together from different workshops to share insight into the proposal creation method.
-{% endembed %}
+{% embed url="https://youtu.be/LTMiDq_2LqE" %}
 
 ## Disclaimer
 
